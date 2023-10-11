@@ -1,4 +1,3 @@
-from moviepy.editor import AudioFileClip
 import whisper
 import os
 import json
@@ -10,7 +9,7 @@ parent_dir = "./denoised_audio/"
 filelist = list(os.walk(parent_dir))[0][2]
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--languages", default="CJE")
+    parser.add_argument("--languages", default="C")
     parser.add_argument("--whisper_size", default="medium")
     args = parser.parse_args()
     if args.languages == "CJE":
@@ -28,7 +27,7 @@ if __name__ == "__main__":
         lang2token = {
             'zh': "[ZH]",
         }
-    assert(torch.cuda.is_available()), "Please enable GPU in order to run Whisper!"
+    # assert(torch.cuda.is_available()), "Please enable GPU in order to run Whisper!"
     with open("./configs/finetune_speaker.json", 'r', encoding='utf-8') as f:
         hps = json.load(f)
     target_sr = hps['data']['sampling_rate']
