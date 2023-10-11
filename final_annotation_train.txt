@@ -1,0 +1,1002 @@
+./segmented_character_voice/alancao/alancao_2_0.wav|0|ㄌㄠˇㄍㄜˉ ㄇㄣ˙ ㄉㄚˋㄐㄧㄚˉ ㄏㄠˇ, ㄨㄛˇ ㄕˋ ㄕㄡˋㄖㄤˋ ㄆㄧㄥˊㄅㄢˋㄍㄠˉㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_2_1.wav|0|ㄇㄢˋㄓㄤˇ ㄉㄜ˙ ㄒㄧㄡˉㄙㄞˋ ㄑㄧˉㄓㄨㄥˉ ㄩˊ ㄐㄧㄝˊㄕㄨˋ。
+./segmented_character_voice/alancao/alancao_2_2.wav|0|ㄑㄧㄢˊ ㄐㄧˇㄊㄧㄢˉ ㄧㄡˇ ㄌㄠˇㄍㄜˉ ㄙˉㄒㄧㄣˋ ㄨㄛˇ ㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_3.wav|0|ㄧㄥˉㄔㄠˉ ㄒㄧㄡˉㄙㄞˋㄑㄧˉ ㄨㄢˊㄧㄝˇㄐㄧˉ ㄅㄧˇㄙㄞˋ ㄨㄢˊ ㄋㄩˇㄗㄨˊ ㄕˋㄐㄧㄝˋㄅㄟˉ ㄧˇㄐㄧㄥˉㄕㄨˉ ㄉㄜ˙ ㄓㄠˉ ㄅㄨˊㄓㄨˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_4.wav|0|ㄋㄚˋ ㄨㄛˇ ㄅㄧˋㄒㄩˉ ㄉㄜˊ ㄈㄨˋㄔㄨˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_5.wav|0|ㄙㄞˋㄐㄧˋ ㄑㄧㄢˊ ㄉㄜ˙ ㄓㄜˋㄍㄜˋ ㄕˋㄆㄧㄣˊ ㄐㄧㄡˋ ㄐㄧㄝˇㄐㄩㄝˊ ㄧˉㄍㄜˋ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_2_6.wav|0|ㄒㄧㄣˉㄙㄞˋㄐㄧˋ ㄗㄣˇㄇㄜ˙ ㄕㄠˇㄕㄨˉ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_7.wav|0|ㄉㄨㄟˋ, ㄋㄧˇ ㄇㄟˊ ㄧㄡˇ ㄊㄧㄥˉ ㄘㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_2_8.wav|0|ㄓㄜˋㄍㄜˋ ㄕˋㄆㄧㄣˊ ㄅㄨˋㄏㄨㄟˋ ㄍㄠˋㄙㄨˋ ㄉㄚˋㄐㄧㄚˉ ㄗㄣˇㄇㄜ˙ ㄧㄥˊㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_9.wav|0|ㄓˇㄋㄥˊ ㄐㄧㄣˇ ㄨㄛˇ ㄙㄨㄛˇ ㄋㄥˊ ㄕㄨㄛˉ ㄑㄧㄥˉㄔㄨˇ ㄗㄣˇㄇㄜ˙ ㄨㄢˊㄑㄧㄡˊ ㄘㄞˊㄋㄥˊ ㄕㄠˇㄕㄨˉ。
+./segmented_character_voice/alancao/alancao_2_10.wav|0|ㄕㄣˋㄓˋ ㄅㄨˋㄕㄨˉ。
+./segmented_character_voice/alancao/alancao_2_11.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄋㄧˇ ㄏㄞˊㄅㄠˋ ㄓㄨˋ ㄨㄢˊㄑㄧㄡˊ ㄎㄜˇㄧˇ ㄈㄚˉㄐㄧㄚˉ ㄓˋㄈㄨˋ ㄉㄜ˙ ㄏㄨㄢˋㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_2_12.wav|0|ㄋㄚˋ ㄋㄧˇ ㄉㄚˋㄎㄜˇㄅㄨˋㄅㄧˋ ㄎㄢˋ ㄒㄧㄚˋㄑㄩˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_13.wav|0|ㄅㄧˋ ㄓㄢˋ ㄧㄡˇ ㄏㄣˇㄉㄨㄛˉ ㄑㄧˊㄊㄚˉ ㄊㄨㄟˉㄑㄧㄡˊ ㄉㄜ˙ㄧㄡˉㄆㄧˉ ㄓㄨˇ。
+./segmented_character_voice/alancao/alancao_2_14.wav|0|ㄇㄟˇㄊㄧㄢˉ ㄊㄚˉㄇㄣ˙ ㄉㄡˉ ㄕˋ ㄅㄚˉㄌㄧㄢˊㄏㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_2_15.wav|0|ㄕˊㄓㄨㄥˉ ㄐㄧㄡˇ。
+./segmented_character_voice/alancao/alancao_2_16.wav|0|ㄋㄧˇ ㄑㄩˋ ㄍㄣˉ ㄓㄨˋ ㄊㄚˉㄇㄣ˙ ㄨㄢˊ。
+./segmented_character_voice/alancao/alancao_2_17.wav|0|ㄎㄜˇㄋㄥˊ ㄎㄜˇㄧˇ ㄕˊㄒㄧㄢˋ ㄋㄧˇ ㄧˉㄧㄝˋ ㄅㄠˋㄈㄨˋ ㄉㄜ˙ ㄇㄥˋ ㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_2_18.wav|0|ㄅㄣˇㄕˋㄆㄧㄣˊ ㄗㄨㄟˋ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄍㄨㄢˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_19.wav|0|ㄨㄢˊㄑㄧㄡˊ ㄧㄠˋ ㄒㄧㄤˇ ㄎㄨㄟˉ ㄉㄜ˙ ㄕㄠˇ。
+./segmented_character_voice/alancao/alancao_2_20.wav|0|ㄍㄨㄢˉㄐㄧㄢˋ ㄐㄧㄡˋㄕˋ ㄈㄤˋㄑㄧˋ ㄎㄠˋ ㄨㄢˊㄑㄧㄡˊ ㄈㄚˉㄐㄧㄚˉ ㄓˋㄈㄨˋ ㄉㄜ˙ ㄏㄨㄢˋㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_2_21.wav|0|ㄧㄡˇ ㄧˉㄊㄧㄢˉ ㄖㄨˊㄍㄨㄛˇ ㄋㄧˇ ㄒㄧㄤˇ ㄉㄜ˙ ㄅㄨˊㄕˋ ㄗㄣˇㄇㄜ˙ㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_2_22.wav|0|ㄦˊㄕˋ ㄗㄣˇㄇㄜ˙ ㄘㄞˊㄋㄥˊ ㄕㄠˇㄕㄨˉ。
+./segmented_character_voice/alancao/alancao_2_23.wav|0|ㄋㄚˋ ㄍㄨㄥˉㄒㄧˇ ㄋㄧˇ。
+./segmented_character_voice/alancao/alancao_2_24.wav|0|ㄋㄧˇ ㄌㄧˊ ㄧㄥˊㄌㄧˋ ㄐㄧㄡˋ ㄓㄣˉㄉㄜ˙ ㄅㄨˋㄩㄢˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_25.wav|0|ㄕˋㄕˊ ㄐㄧㄡˋㄕˋ ㄓㄜˋㄇㄜ˙ ㄘㄢˊㄎㄨˋ。
+./segmented_character_voice/alancao/alancao_2_26.wav|0|ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ ㄧㄡˋ ㄅㄟˋ ㄔㄥˉ ㄨㄟˋ ㄍㄞˋㄌㄩˋ ㄊㄨˊㄗㄞˇ ㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_2_27.wav|0|ㄍㄨˋㄇㄧㄥˊ ㄙˉㄧˋ ㄐㄧㄡˋㄕˋ ㄧㄡˊㄒㄧˋ ㄌㄧˇ ㄉㄜ˙ ㄇㄟˇㄍㄜˋ ㄘㄢˉㄩˇㄓㄜˇ。
+./segmented_character_voice/alancao/alancao_2_28.wav|0|ㄉㄡˉ ㄕˋ ㄐㄧˉㄍㄡˋ ㄊㄨˊㄗㄞˇ ㄉㄜ˙ ㄉㄨㄟˋㄒㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_2_29.wav|0|ㄧㄡˊ ㄩˊ ㄔㄡˉㄕㄨㄟˇ ㄐㄧˉㄓˋ ㄉㄜ˙ ㄘㄨㄣˊㄗㄞˋ。
+./segmented_character_voice/alancao/alancao_2_30.wav|0|ㄨㄢˊㄐㄧㄚˉ ㄇㄟˇ ㄧˉㄘˋ ㄊㄡˊㄓㄨˋ ㄉㄜ˙ ㄩˋㄑㄧˉ ㄕㄡˉㄧˋ ㄉㄡˉ ㄕˋ ㄈㄨˋㄕㄨˋ。
+./segmented_character_voice/alancao/alancao_2_31.wav|0|ㄨㄞˋㄆㄢˊ ㄆㄨˇㄅㄧㄢˋ ㄕˋ ㄕˊ% ㄉㄠˋ ㄕˊㄨˇ% ㄉㄜ˙ ㄔㄡˉㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_2_32.wav|0|ㄓㄨㄥˉㄍㄨㄛˊ ㄐㄧㄣˋㄘㄞˇ ㄉㄜ˙ ㄔㄡˉㄕㄨㄟˇ ㄕˋ ㄉㄨㄛˉㄕㄠˇ。
+./segmented_character_voice/alancao/alancao_2_33.wav|0|ㄨㄛˇ ㄅㄨˋㄒㄧㄤˇ ㄕㄨㄛˉ ㄧㄝˇ ㄅㄨˋㄍㄢˇ ㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_34.wav|0|ㄧㄡˇㄒㄧㄥˋㄑㄩˋ ㄉㄜ˙ ㄎㄜˇㄧˇ ㄗˋㄐㄧˇ ㄔㄚˊ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_2_35.wav|0|ㄓㄤˇ ㄑㄧˉㄌㄞˊ ㄎㄢˋ。
+./segmented_character_voice/alancao/alancao_2_36.wav|0|ㄙㄨㄛˇㄧㄡˇ ㄉㄜ˙ ㄨㄢˊㄐㄧㄚˉ ㄉㄡˉ ㄏㄨㄟˋ ㄔㄥˊ ㄉㄢˉㄕˊ% ㄉㄠˋ ㄕˊㄨˇ% ㄗㄨㄛˇㄧㄡˋ ㄉㄜ˙ ㄆㄧㄥˊㄐㄩㄣˉ ㄎㄨㄟˉㄙㄨㄣˇ。
+./segmented_character_voice/alancao/alancao_2_37.wav|0|ㄧㄡˊ ㄩˊ ㄙㄨㄟˊㄐㄧˉㄒㄧㄥˋ ㄉㄜ˙ ㄘㄨㄣˊㄗㄞˋ。
+./segmented_character_voice/alancao/alancao_2_38.wav|0|ㄋㄚˋㄒㄧㄝˉ ㄧㄡˇ ㄗˋㄐㄧˇ ㄍㄨˉㄓˊ ㄊㄧˇㄒㄧˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_2_39.wav|0|ㄒㄧㄣˉㄊㄞˋ ㄏㄠˇ ㄉㄜ˙ ㄨㄢˊㄐㄧㄚˉ ㄏㄨㄟˋㄕㄠˇ ㄎㄨㄟˉ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_40.wav|0|ㄉㄞˋㄓㄨˋ ㄉㄨˇ ㄗㄨˊ ㄒㄧㄣˉㄊㄞˋ ㄌㄞˊ ㄊㄡˊㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_2_41.wav|0|ㄅㄨˋㄏㄨㄟˋ ㄎㄨㄥˋㄓˋ ㄈㄥˉㄒㄧㄢˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_2_42.wav|0|ㄗㄜˊㄏㄨㄟˋ ㄉㄨㄛˉㄎㄨㄟˉ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_43.wav|0|ㄕㄣˋㄓˋ ㄎㄨㄟˉㄉㄧㄠˋ ㄑㄩㄢˊㄅㄨˋ ㄉㄜ˙ ㄅㄣˇㄐㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_2_44.wav|0|ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄧㄡˊㄒㄧˋ ㄌㄧˇ ㄓˇㄧㄡˇ ㄐㄧˊㄕㄠˇ ㄕㄨˋㄖㄣˊ ㄋㄥˊㄍㄡˋ ㄗㄞˋ ㄊㄨˊㄗㄞˇ ㄔㄤˇ ㄕㄥˉㄘㄨㄣˊ ㄒㄧㄚˋㄌㄞˊ。
+./segmented_character_voice/alancao/alancao_2_45.wav|0|ㄕˊㄒㄧㄢˋ ㄓㄤˇ ㄑㄧˉ ㄨㄣˇㄉㄧㄥˋ ㄧㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_2_46.wav|0|ㄐㄩˋㄊㄧˇ ㄉㄠˋ ㄕˊㄐㄧˋ ㄘㄠˉㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_2_47.wav|0|ㄨㄛˇ ㄉㄜ˙ ㄌㄠˇㄈㄣˇ ㄙˉ ㄉㄡˉ ㄓˉㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_2_48.wav|0|ㄨㄛˇ ㄗㄞˋ ㄕˋㄆㄧㄣˊ ㄌㄧˇ ㄇㄟˇㄓㄡˉ ㄓˇ ㄊㄨㄟˉㄧˉㄔㄤˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_49.wav|0|ㄦˊㄑㄧㄝˇ ㄩㄥˇㄩㄢˇ ㄕˋ ㄐㄧㄤˉㄗㄣˇㄇㄜ˙ ㄎㄨㄥˋㄓˋ ㄈㄥˉㄒㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_50.wav|0|ㄗㄣˇㄇㄜ˙ ㄆㄧㄥˊㄍㄨˉ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄅㄨˋㄑㄩㄝˋ ㄉㄧㄥˋㄒㄧㄥˋ ㄈㄤˋㄗㄞˋ ㄉㄧˋㄧˉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_2_51.wav|0|ㄔㄡˉㄕㄨㄟˇ ㄐㄧˉㄓˋ ㄉㄜ˙ ㄘㄨㄣˊㄗㄞˋ。
+./segmented_character_voice/alancao/alancao_2_52.wav|0|ㄍㄟˇㄨㄛˇㄇㄣ˙ ㄉㄜ˙ ㄌㄧㄥˋ ㄧˉㄍㄜˋ ㄑㄧˇㄈㄚˉ ㄗㄞˋ ㄩˊ。
+./segmented_character_voice/alancao/alancao_2_53.wav|0|ㄒㄧㄤˇㄧㄠˋ ㄧㄥˊㄌㄧˋ ㄒㄩˉㄧㄠˋ ㄐㄧㄣˇ ㄎㄜˇㄋㄥˊ ㄉㄜ˙ ㄐㄧㄤˋㄉㄧˉ ㄊㄡˊㄓㄨˋ ㄆㄧㄣˊㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_54.wav|0|ㄉㄠˋㄌㄧˇ ㄏㄣˇ ㄐㄧㄢˇㄉㄢˉ。
+./segmented_character_voice/alancao/alancao_2_55.wav|0|ㄨㄛˇㄇㄣ˙ ㄎㄜˇㄧˇ ㄅㄚˇ ㄐㄧˉㄍㄡˋ ㄔㄡˉㄕㄨㄟˇ ㄌㄧˇㄐㄧㄝˇ ㄨㄟˋ ㄍㄨˇㄆㄧㄠˋ ㄐㄧㄠˉㄧˋㄙㄨㄛˇ ㄉㄜ˙ ㄕㄡˇㄒㄩˋㄈㄟˋ。
+./segmented_character_voice/alancao/alancao_2_56.wav|0|ㄓㄨㄥˋㄙㄨㄛˇ ㄓㄡˉㄓˉ。
+./segmented_character_voice/alancao/alancao_2_57.wav|0|ㄍㄨˇㄕˋ ㄌㄧˇ ㄉㄚˋㄅㄨˋㄈㄣˋ ㄆㄧㄣˊㄈㄢˊ ㄐㄧㄠˉㄧˋ ㄉㄜ˙ ㄊㄡˊㄐㄧˉㄓㄜˇ。
+./segmented_character_voice/alancao/alancao_2_58.wav|0|ㄊㄚˉㄇㄣ˙ ㄉㄜ˙ ㄧㄥˊㄌㄧˋ ㄕㄨㄟˇㄆㄧㄥˊ ㄨㄤˇㄨㄤˇ ㄍㄢˇㄅㄨˋㄕㄤˋ ㄋㄚˋㄒㄧㄝˉ ㄓㄤˇ ㄑㄧˉ ㄔˊㄍㄨˇ ㄅㄨˋㄉㄨㄥˋ ㄉㄜ˙ ㄊㄨㄟˋㄒㄧㄡˉ ㄉㄚˋㄇㄚˉ。
+./segmented_character_voice/alancao/alancao_2_59.wav|0|ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ ㄧㄝˇ ㄕˋ ㄌㄟˋㄕˋ。
+./segmented_character_voice/alancao/alancao_2_60.wav|0|ㄊㄡˊㄓㄨˋ ㄉㄜ˙ ㄘˋ ㄕㄨˋㄩㄝˋ ㄉㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_61.wav|0|ㄋㄧˇ ㄅㄟˋ ㄔㄡˉㄕㄨㄟˇ ㄉㄜ˙ ㄘˋㄕㄨˋ ㄧㄝˇ ㄐㄧㄡˋ ㄩㄝˋ ㄉㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_62.wav|0|ㄓㄜˋㄐㄧㄡˋ ㄧㄣˇㄔㄨˉ ㄌㄜ˙ ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ ㄕˊ ㄐㄧㄢˇㄕㄠˇ ㄎㄨㄟˉㄙㄨㄣˇ ㄉㄜ˙ ㄉㄧˋㄦˋ ㄍㄜˋ ㄍㄨㄢˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_63.wav|0|ㄐㄧㄤˋㄉㄧˉ ㄊㄡˊㄓㄨˋ ㄆㄧㄣˊㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_64.wav|0|ㄓˇ ㄘㄢˉ ㄩˇ ㄕㄠˇㄕㄨˋ ㄋㄧˇ ㄈㄟˉㄔㄤˊ ㄕㄨˊㄒㄧˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_65.wav|0|ㄕㄡˇㄒㄧㄢˉ ㄘㄨㄥˊㄕㄥˋㄌㄩˋ ㄉㄜ˙ ㄐㄧㄠˇㄉㄨˋ ㄔㄨˉㄈㄚˉ。
+./segmented_character_voice/alancao/alancao_2_66.wav|0|ㄗㄞˋ ㄕˊ% ㄉㄜ˙ ㄔㄡˉㄕㄨㄟˇ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_2_67.wav|0|ㄧㄚˋㄆㄢˊ ㄒㄩˉㄧㄠˋ ㄨˇㄕˊㄙㄢˉ% ㄉㄜ˙ ㄕㄥˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_68.wav|0|ㄐㄧㄡˋ ㄎㄜˇㄧˇ ㄉㄚˊㄉㄠˋ ㄧㄥˊㄎㄨㄟˉ ㄆㄧㄥˊㄏㄥˊ。
+./segmented_character_voice/alancao/alancao_2_69.wav|0|ㄧㄝˇ ㄐㄧㄡˋㄕˋ ㄕㄨㄛˉ ㄧˋㄅㄞˇ ㄔㄤˇㄅㄧˇㄙㄞˋ ㄌㄧˇ ㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_70.wav|0|ㄋㄧˇ ㄒㄩˉㄧㄠˋ ㄉㄨㄟˋ ㄨˇㄕˊㄙㄢˉ ㄔㄤˇㄐㄧㄣˇ ㄕㄥˋㄌㄧㄡˋㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_2_71.wav|0|ㄧㄣˉㄨㄟˋ ㄨˇㄕˊㄙㄢˉ- ㄙˋㄕˊㄑㄧˉ ㄉㄥˇ ㄩˊ ㄌㄧㄡˋ。
+./segmented_character_voice/alancao/alancao_2_72.wav|0|ㄐㄧㄡˋ ㄋㄥˊ ㄗㄨㄛˋㄉㄠˋ ㄅㄨˋㄎㄨㄟˉ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_73.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄋㄧˇ ㄨㄢˊ ㄧˉㄑㄧㄢˉ ㄔㄤˇㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_2_74.wav|0|ㄋㄧˇㄗㄜˊ ㄒㄩˉㄧㄠˋ ㄇㄧㄥˋㄓㄨㄥˋ ㄨˇㄅㄞˇㄙㄢˉㄕˊ ㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_2_75.wav|0|ㄧㄝˇ ㄐㄧㄡˋㄕˋ ㄐㄧㄣˇㄕㄥˋ ㄌㄧㄡˋㄕˊ ㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_2_76.wav|0|ㄘㄞˊㄋㄥˊ ㄗㄨㄛˋㄉㄠˋ ㄅㄨˋㄕㄨˉ ㄅㄨˋㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_2_77.wav|0|ㄒㄩˉㄧㄠˋ ㄓㄨˋㄧˋ ㄉㄜ˙ ㄕˋ。
+./segmented_character_voice/alancao/alancao_2_78.wav|0|ㄗㄨˊㄑㄧㄡˊ ㄩˋㄘㄜˋ ㄌㄧˇ ㄉㄜ˙ ㄓㄥˋ ㄑㄩㄝˋㄌㄩˋ ㄕˋ ㄅㄨˋㄋㄥˊ ㄒㄧㄢˋㄒㄧㄥˋ ㄨㄞˋ ㄊㄨㄟˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_2_79.wav|0|ㄉㄤˉㄋㄧˇㄨㄢˊ ㄕㄨˊㄒㄧˉ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ ㄕˊ。
+./segmented_character_voice/alancao/alancao_2_80.wav|0|ㄏㄣˇㄉㄨㄛˉ ㄖㄣˊ ㄉㄡˉ ㄉㄠˋ ㄅㄨˋㄌㄧㄠˇ ㄨˇㄕˊㄙㄢˉ% ㄉㄜ˙ ㄕㄥˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_81.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄕˋ ㄨㄢˊ ㄋㄚˋㄒㄧㄝˉ ㄧㄝˇㄐㄧˉ ㄌㄧㄢˊㄙㄞˋ ㄌㄧˇ ㄉㄜ˙ ㄨㄣˊ ㄙㄨㄛˇ ㄨㄟˋㄨㄣˊ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_2_82.wav|0|ㄓˇㄏㄨㄟˋㄐㄧㄣˋ ㄧˉㄅㄨˋ ㄌㄚˉㄉㄧˉ ㄋㄧˇ ㄉㄜ˙ ㄆㄧㄥˊㄐㄩㄣˉ ㄕㄥˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_83.wav|0|ㄕˇ ㄋㄧˇ ㄉㄜ˙ ㄕㄥˋㄌㄩˋ ㄨˊㄒㄧㄢˋㄑㄩˉ ㄒㄧㄤˋ ㄩˊ ㄨˇㄕˊ%
+./segmented_character_voice/alancao/alancao_2_84.wav|0|ㄕˋ ㄨㄟˋ ㄕㄣˊ ㄇㄛˊ ㄨㄛˇㄇㄣ˙ ㄕㄨㄛˉ ㄒㄧㄤˇㄧㄠˋ ㄕㄠˇㄕㄨˉ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_85.wav|0|ㄧˊㄉㄧㄥˋ ㄧㄠˋ ㄐㄧㄤˋㄉㄧˉ ㄊㄡˊㄓㄨˋ ㄆㄧㄣˊㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_86.wav|0|ㄍㄠˉㄆㄧㄣˊ ㄌㄩˋ ㄉㄜ˙ ㄊㄡˊㄓㄨˋ ㄏㄞˊㄧㄡˇ ㄧˉㄍㄜˋ ㄐㄩˋㄉㄚˋ ㄉㄜ˙ ㄅㄧˋㄉㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_2_87.wav|0|ㄐㄧㄡˋㄕˋ ㄖㄨㄥˊㄧˋ ㄗㄠˋㄔㄥˊ ㄒㄧㄣˉㄊㄞˋ ㄉㄜ˙ ㄅㄛˉㄉㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_2_88.wav|0|ㄧˊㄉㄢˋ ㄧㄣˉㄨㄟˋ ㄌㄧㄢˊㄒㄩˋ ㄏㄟˉㄉㄢˉ。
+./segmented_character_voice/alancao/alancao_2_89.wav|0|ㄒㄧㄣˉㄊㄞˋ ㄕˉㄏㄥˊ。
+./segmented_character_voice/alancao/alancao_2_90.wav|0|ㄨㄟˋ ㄌㄜ˙ ㄐㄧˊ ㄩˊ ㄨㄤˇㄏㄨㄟˊ ㄙㄨㄣˇㄕˉ。
+./segmented_character_voice/alancao/alancao_2_91.wav|0|ㄦˊ ㄈㄟˉㄌㄧˇㄒㄧㄥˋ ㄉㄜ˙ ㄐㄧㄚˉㄉㄚˋ ㄊㄡˊㄓㄨˋ ㄌㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_2_92.wav|0|ㄕㄣˋㄓˋ ㄎㄞˉㄕˇ ㄐㄧㄝˋㄑㄧㄢˊㄅㄟˋ ㄊㄡˊ。
+./segmented_character_voice/alancao/alancao_2_93.wav|0|ㄋㄚˋ ㄇㄛˊ ㄐㄧㄡˋ ㄌㄧˊ ㄈㄨˋㄓㄞˋ ㄌㄟˇㄌㄟˇ。
+./segmented_character_voice/alancao/alancao_2_94.wav|0|ㄔㄥˊㄨㄟˋ ㄕㄢˉㄏㄜˊ ㄉㄚˋㄕㄣˊ ㄅㄨˋㄩㄢˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_95.wav|0|ㄅㄣˇㄑㄧˉ ㄕˋㄆㄧㄣˊ ㄒㄧㄤˇ ㄌㄧㄠˊ ㄉㄜ˙ ㄗㄨㄟˋㄏㄡˋㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_96.wav|0|ㄐㄧㄡˋㄕˋ ㄍㄨㄢˉㄩˊㄒㄧㄣˉㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_2_97.wav|0|ㄒㄧㄤˇㄧㄠˋ ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄍㄞˋㄌㄩˋ ㄊㄨˊㄗㄞˇ ㄔㄤˇ ㄕㄥˉㄘㄨㄣˊ。
+./segmented_character_voice/alancao/alancao_2_98.wav|0|ㄨㄣˇㄉㄧㄥˋ ㄆㄧㄥˊㄏㄜˊ ㄉㄜ˙ ㄒㄧㄣˉㄊㄞˋ ㄅㄧˋㄅㄨˋㄎㄜˇㄕㄠˇ。
+./segmented_character_voice/alancao/alancao_2_99.wav|0|ㄓㄜˋ ㄌㄧˇ ㄨㄛˇㄍㄟˇ ㄉㄚˋㄐㄧㄚˉ ㄧˉㄍㄜˋ ㄈㄟˉㄔㄤˊ ㄐㄩˋㄧㄡˇ ㄎㄜˇㄘㄠˉㄗㄨㄛˋㄒㄧㄥˋ ㄉㄜ˙ ㄇㄛˊㄕˋ。
+./segmented_character_voice/alancao/alancao_2_100.wav|0|ㄉㄨㄟˋ ㄩˊ ㄐㄧㄢˋㄌㄧˋ ㄨㄣˇㄉㄧㄥˋ ㄉㄜ˙ ㄒㄧㄣˉㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_2_101.wav|0|ㄧㄡˇ ㄈㄟˉㄔㄤˊ ㄉㄚˋ ㄉㄜ˙ ㄅㄤˉㄓㄨˋ。
+./segmented_character_voice/alancao/alancao_2_102.wav|0|ㄩㄥˋㄍㄨㄛˋ ㄓㄜˋㄍㄜˋ ㄈㄤˉㄈㄚˇ ㄉㄜ˙ ㄌㄠˇㄍㄜˉ ㄍㄠˋㄙㄨˋ ㄨㄛˇ ㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_103.wav|0|ㄘㄨㄥˊㄘˇ ㄧˇㄏㄡˋㄇㄞˇㄑㄧㄡˊ ㄨㄢˊㄑㄧㄡˊ ㄧㄠˉㄅㄨˋㄙㄨㄢˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_104.wav|0|ㄊㄡˊㄅㄨˋㄊㄥˊ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_105.wav|0|ㄨㄢˇㄕㄤˋ ㄕㄨㄟˋㄐㄩㄝˊ ㄧㄝˇ ㄕㄨㄟˋ ㄉㄜˊ ㄒㄧㄤˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_106.wav|0|ㄕㄡˇㄒㄧㄢˉ ㄕˋ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄒㄩㄢˇㄑㄩˇ。
+./segmented_character_voice/alancao/alancao_2_107.wav|0|ㄐㄧㄣˇㄌㄧㄤˋ ㄓˇ ㄘㄢˉ ㄩˇ ㄋㄚˋㄒㄧㄝˉ ㄋㄧˇ ㄧㄡˇ ㄕˊㄐㄧㄢˉ ㄗㄞˋ ㄉㄧㄢˋㄕˋㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_108.wav|0|ㄑㄩˋ ㄨㄢˊㄓㄥˇ ㄍㄨㄢˉㄎㄢˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_109.wav|0|ㄓㄜˋㄍㄜˋ ㄊㄧㄠˊㄐㄧㄢˋ ㄐㄧㄡˋ ㄅㄧㄢˋㄒㄧㄤˉ ㄆㄞˊㄔㄨˊ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_110.wav|0|ㄉㄚˋㄅㄨˋㄈㄣˋ ㄉㄜ˙ ㄧㄝˇㄐㄧˉ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_111.wav|0|ㄒㄧㄤˉㄒㄧㄣˋ ㄔㄨˊㄌㄜ˙ ㄕㄠˇㄅㄨˋㄈㄣˋ ㄓㄨㄥˋ ㄎㄡˇㄨㄟˋ ㄉㄜ˙ ㄌㄠˇㄍㄜˉ。
+./segmented_character_voice/alancao/alancao_2_112.wav|0|ㄅㄨˋㄏㄨㄟˋ ㄧㄡˇㄖㄣˊ ㄩㄢˋㄧˋㄏㄨㄚˉ ㄕˊㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_2_113.wav|0|ㄑㄩˋ ㄎㄢˋ ㄧˉㄔㄤˇ ㄧㄣˋㄉㄨˋ ㄔㄠˉㄐㄧˊ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_2_114.wav|0|ㄗㄞˋ ㄗˉㄐㄧㄣˉ ㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_115.wav|0|ㄇㄟˇㄧˉㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄊㄡˊㄖㄨˋ ㄉㄜ˙ ㄗˉㄐㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_2_116.wav|0|ㄐㄧㄢˋㄧˋ ㄐㄧㄡˋㄕˋ ㄧˉㄔㄤˇ ㄑㄧㄡˊㄆㄧㄠˋ ㄉㄜ˙ ㄐㄧㄚˋㄍㄜˊ。
+./segmented_character_voice/alancao/alancao_2_117.wav|0|ㄅㄧˇㄖㄨˊ ㄓㄨㄥˉㄔㄠˉ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_118.wav|0|ㄧˉㄔㄤˇ ㄑㄧㄡˊㄆㄧㄠˋ ㄉㄜ˙ ㄐㄧㄚˋㄍㄜˊ ㄉㄚˋㄍㄞˋ ㄗㄞˋ ㄧˋㄅㄞˇ ㄉㄠˋ ㄦˋㄅㄞˇㄩㄢˊ ㄓˉㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_2_119.wav|0|ㄓㄜˋ ㄐㄧㄡˋㄕˋ ㄑㄧㄚˋㄉㄠˋ ㄏㄠˇ ㄔㄨˋ ㄉㄜ˙ ㄧˉㄍㄜˋㄗˉ ㄐㄧㄣˉㄌㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_2_120.wav|0|ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄗˉㄐㄧㄣˉ ㄊㄡˊㄖㄨˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_2_121.wav|0|ㄨˊㄌㄨㄣˋ ㄕㄨˉㄧㄥˊ ㄉㄡˉ ㄅㄨˋㄏㄨㄟˋ ㄧㄥˇㄒㄧㄤˇ ㄉㄠˋ ㄋㄧˇ ㄉㄜ˙ ㄒㄧㄣˉㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_2_122.wav|0|ㄕㄨˉ ㄌㄜ˙ ㄐㄧㄡˋ ㄉㄤˉㄕˋ ㄇㄞˇ ㄌㄜ˙ ㄧˉㄔㄤˇ ㄑㄧㄡˊㄆㄧㄠˋ。
+./segmented_character_voice/alancao/alancao_2_123.wav|0|ㄏㄞˊ ㄕㄥˇㄑㄩˋ ㄌㄜ˙ ㄒㄧㄢˋㄔㄤˇ ㄎㄢˋㄑㄧㄡˊ ㄒㄩˉㄧㄠˋ ㄐㄧˇㄉㄧˋ ㄊㄧㄝˇ。
+./segmented_character_voice/alancao/alancao_2_124.wav|0|ㄆㄞˊㄉㄨㄟˋ ㄕㄤˋ ㄘㄜˋㄙㄨㄛˇㄓˉㄌㄟˋ ㄉㄜ˙ ㄇㄚˊㄈㄢˊ。
+./segmented_character_voice/alancao/alancao_2_125.wav|0|ㄧˉㄉㄧㄢˇ ㄉㄡˉ ㄅㄨˋㄎㄨㄟˉ。
+./segmented_character_voice/alancao/alancao_2_126.wav|0|ㄧㄥˊㄌㄜ˙ ㄉㄜ˙ ㄏㄨㄚˋ ㄋㄚˋ ㄐㄧㄡˋ ㄍㄥˋㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_2_127.wav|0|ㄅㄨˋㄐㄧㄣˇ ㄅㄞˊ ㄆㄧㄠˊ ㄧˉㄔㄤˇ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_2_128.wav|0|ㄦˊㄑㄧㄝˇ ㄧㄥˊㄉㄜ˙ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_129.wav|0|ㄨㄢˇㄕㄤˋ ㄎㄜˇㄧˇ ㄑㄩˋ ㄌㄨˉ ㄔㄨㄢˋ。
+./segmented_character_voice/alancao/alancao_2_130.wav|0|ㄏㄨㄛˋㄓㄜˇ ㄑㄩˋ ㄧˉㄒㄧㄝˉ ㄑㄧㄠˊㄕㄢˉ ㄌㄠˇㄕˉ ㄐㄧㄥˉㄔㄤˊㄑㄩˋ ㄉㄜ˙ ㄉㄧˋㄈㄤˉ。
+./segmented_character_voice/alancao/alancao_2_131.wav|0|ㄎㄢˋㄏㄨㄟˋ ㄅㄨˋㄏㄨㄟˋ ㄧㄡˇ ㄡˇㄩˋ ㄉㄜ˙ ㄐㄧˉㄏㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_2_132.wav|0|ㄗㄨˊㄑㄧㄡˊ ㄅㄧˇㄙㄞˋ ㄉㄨㄟˋ ㄨㄛˇ ㄌㄞˊ ㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_2_133.wav|0|ㄐㄧㄡˋㄕˋ ㄧˉㄍㄜˋ ㄗㄞˋ ㄍㄨㄢˉㄙㄞˋ ㄕˊ ㄗㄥˉㄑㄧㄤˊ ㄉㄨㄟˋ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄘㄢˉㄩˇㄍㄢˇ。
+./segmented_character_voice/alancao/alancao_2_134.wav|0|ㄘˋㄐㄧˉ ㄉㄨㄛˉㄅㄚˉㄢˋ ㄈㄣˉㄇㄧˋ ㄉㄜ˙ ㄧㄡˊㄒㄧˋ。
+./segmented_character_voice/alancao/alancao_2_135.wav|0|ㄐㄧㄡˋ ㄏㄠˇㄅㄧˇ ㄔˉ ㄈㄢˋ ㄔㄤˋㄎㄟˋ ㄕˊ ㄏㄜˉ ㄧˉㄉㄧㄢˇ ㄒㄧㄠˇㄐㄧㄡˇ ㄧˉㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_2_136.wav|0|ㄉㄤˉㄖㄢˊ ㄌㄧㄥˋㄧˋㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_137.wav|0|ㄩˋㄕㄜˋ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄔㄥˊㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_2_138.wav|0|ㄧㄝˇ ㄋㄥˊㄍㄟˇ ㄨㄛˇ ㄉㄞˋㄌㄞˊ ㄒㄧㄤˉㄉㄤˉ ㄉㄚˋ ㄉㄜ˙ ㄔㄥˊㄐㄧㄡˋㄍㄢˇ。
+./segmented_character_voice/alancao/alancao_2_139.wav|0|ㄨㄛˇㄆㄧㄥˊㄕˊ ㄧㄡˇ ㄗˋㄐㄧˇ ㄉㄜ˙ ㄍㄨㄥˉㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_2_140.wav|0|ㄅㄨˋㄏㄨㄟˋ ㄅㄚˇ ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ。
+./segmented_character_voice/alancao/alancao_2_141.wav|0|ㄉㄤˉㄗㄨㄛˋ ㄕˋ ㄧˉㄍㄜˋ ㄖㄤˋ ㄖㄣˊ ㄈㄚˉㄐㄧㄚˉ ㄓˋㄈㄨˋ ㄉㄜ˙ ㄕˋㄧㄝˋ。
+./segmented_character_voice/alancao/alancao_2_142.wav|0|ㄨㄛˇ ㄅㄣˇㄕㄣˉ ㄓㄤˇ ㄑㄧˉ ㄓㄨㄢˉㄓㄨˋ ㄗㄨˊㄑㄧㄡˊ ㄅㄣˇㄕㄣˉ。
+./segmented_character_voice/alancao/alancao_2_143.wav|0|ㄅㄚˇ ㄈㄥˉㄒㄧㄢˇ ㄎㄨㄥˋㄓˋ ㄈㄤˋㄗㄞˋ ㄉㄧˋㄧˉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_2_144.wav|0|ㄓㄜˋ ㄈㄢˇㄦˊ ㄖㄤˋ ㄨㄛˇ ㄕˊㄒㄧㄢˋ ㄌㄜ˙ ㄓㄤˇ ㄑㄧˉ ㄨㄣˇㄉㄧㄥˋ ㄉㄜ˙ ㄧㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_2_145.wav|0|ㄓㄜˋㄐㄧㄡˋ ㄏㄨㄟˊㄉㄠˋ ㄌㄜ˙ ㄨㄛˇ ㄎㄞˉㄆㄧㄢˉ ㄙㄨㄛˇㄐㄧㄤˇ ㄉㄜ˙ ㄋㄚˋㄐㄩˋ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_2_146.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄋㄧˇ ㄇㄟˇ ㄧˉㄘˋ ㄊㄡˊㄓㄨˋ。
+./segmented_character_voice/alancao/alancao_2_147.wav|0|ㄉㄡˉ ㄕˋ ㄒㄧㄤˇ ㄓㄨˋ ㄗㄣˇㄇㄜ˙ ㄅㄨˋㄕㄨˉ ㄏㄨㄛˋㄓㄜˇ ㄕㄠˇㄕㄨˉ。
+./segmented_character_voice/alancao/alancao_2_148.wav|0|ㄧㄥˊㄌㄧˋ ㄗˋㄖㄢˊㄦˊㄖㄢˊ ㄐㄧㄡˋ ㄔㄥˊ ㄌㄜ˙ ㄕㄨㄟˇㄉㄠˋㄑㄩˊㄔㄥˊ ㄉㄜ˙ ㄕˋㄑㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_2_149.wav|0|ㄗㄨㄟˋㄏㄡˋㄗㄨㄥˇㄐㄧㄝˊ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_2_150.wav|0|ㄅㄣˇㄑㄧˉ ㄕˋㄆㄧㄣˊ ㄌㄧㄠˊ ㄌㄜ˙ ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ ㄧㄡˊㄒㄧˋㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_2_151.wav|0|ㄕˊㄒㄧㄢˋ ㄕㄠˇㄎㄨㄟˉ ㄑㄧㄢˊ ㄉㄜ˙ ㄙㄢˉㄉㄚˋ ㄍㄨㄢˉㄐㄧㄢˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_152.wav|0|ㄉㄧˋㄧˉ, ㄗㄨㄣˉㄓㄨㄥˋ ㄎㄜˉㄒㄩㄝˊ。
+./segmented_character_voice/alancao/alancao_2_153.wav|0|ㄒㄧㄤˉㄒㄧㄣˋ ㄎㄜˉㄒㄩㄝˊ。
+./segmented_character_voice/alancao/alancao_2_154.wav|0|ㄈㄤˋㄑㄧˋ ㄧˉㄧㄝˋ ㄅㄠˋㄈㄨˋ。
+./segmented_character_voice/alancao/alancao_2_155.wav|0|ㄉㄧㄠˇ ㄙˉㄋㄧˋㄒㄧˊ ㄉㄜ˙ ㄏㄨㄢˋㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_2_156.wav|0|ㄦˋ, ㄐㄧㄢˇㄕㄠˇ ㄊㄡˊㄓㄨˋ ㄆㄧㄣˊㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_157.wav|0|ㄓˇ ㄨㄢˊ ㄕㄨˊㄒㄧˉ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_158.wav|0|ㄅㄠˇㄓㄥˋ ㄕㄥˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_2_159.wav|0|ㄙㄢˉ, ㄧㄝˇ ㄕˋ ㄗㄨㄟˋ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_2_160.wav|0|ㄅㄠˇㄔˊㄌㄧㄤˊㄏㄠˇ ㄉㄜ˙ ㄒㄧㄣˉㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_2_161.wav|0|ㄅㄚˇ ㄗㄨˊㄑㄧㄡˊㄅㄛˊㄘㄞˇ ㄉㄤˉㄗㄨㄛˋ ㄗㄥˉㄐㄧㄚˉ ㄗˋㄐㄧˇ ㄍㄨㄢˉㄙㄞˋ ㄕˊ。
+./segmented_character_voice/alancao/alancao_2_162.wav|0|ㄘㄢˉㄩˇㄍㄢˇ ㄏㄜˊ ㄘˋㄐㄧˉ ㄍㄢˇ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄧㄡˊㄒㄧˋ。
+./segmented_character_voice/alancao/alancao_2_163.wav|0|ㄎㄨㄥˋㄓˋ ㄏㄠˇ ㄊㄡˊㄓㄨˋ ㄉㄜ˙ ㄗˉ ㄐㄧㄣˉㄌㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_2_164.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄧㄣˉㄓㄠˉ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_2_165.wav|0|ㄨㄛˇ ㄧㄝˇ ㄐㄧㄤˉㄐㄧㄢˉㄔˊ ㄧˋㄓˊ ㄧˇㄌㄞˊ ㄉㄜ˙ ㄈㄥˉㄍㄜˊ。
+./segmented_character_voice/alancao/alancao_2_166.wav|0|ㄇㄟˇㄓㄡˉ ㄏㄜˊ ㄉㄚˋㄐㄧㄚˉ ㄧˋㄑㄧˇ ㄍㄨㄛˋ ㄧˉㄅㄧㄢˋ ㄙㄞˋㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_2_167.wav|0|ㄌㄧㄠˊㄧˉㄌㄧㄠˊ ㄓㄨㄥˋㄉㄧㄢˇ ㄔㄤˇㄘˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_168.wav|0|ㄗㄨㄟˋㄏㄡˋㄏㄨㄟˋ ㄒㄩㄢˇㄔㄨˉ ㄧˉㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄐㄧㄣˋㄒㄧㄥˊ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_169.wav|0|ㄕㄨˊㄒㄧˉ ㄨㄛˇ ㄉㄜ˙ ㄍㄨㄢˉㄓㄨㄥˋ ㄉㄡˉ ㄓˉㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_2_170.wav|0|ㄨㄛˇ ㄉㄜ˙ ㄐㄧㄝˊㄇㄨˋㄌㄧˇ ㄧㄡˇ ㄧˉㄐㄩˋ ㄎㄡˇㄊㄡˊ ㄔㄢˊ。
+./segmented_character_voice/alancao/alancao_2_171.wav|0|ㄐㄧㄡˋㄕˋ ㄆㄟˊㄌㄩˋ ㄈㄢˇㄧㄥˋ ㄧˉㄑㄧㄝˋ ㄕˋㄔㄤˇ ㄧㄡˇㄒㄧㄠˋ ㄒㄧㄣˋㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_2_172.wav|0|ㄙㄨㄛˇㄧㄡˇ ㄉㄜ˙ ㄆㄢˊㄎㄡˇ ㄈㄣˉㄒㄧˉ ㄉㄡˉ ㄕˋ ㄗˋㄑㄧˉㄑㄧˉㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_2_173.wav|0|ㄙㄨㄛˇㄧˇ ㄨㄛˇ ㄉㄜ˙ ㄕˋ ㄆㄧㄣˊㄌㄧˇ ㄘㄨㄥˊ ㄌㄞˊ ㄅㄨˋㄏㄨㄟˋ ㄧㄡˇ。
+./segmented_character_voice/alancao/alancao_2_174.wav|0|ㄕㄥˉㄆㄢˊ ㄐㄧㄤˋㄆㄢˊ ㄕㄥˉㄕㄨㄟˇ ㄐㄧㄤˋㄕㄨㄟˇ ㄓˉㄌㄟˋ ㄉㄜ˙ ㄆㄢˊㄎㄡˇ ㄈㄣˉㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_2_175.wav|0|ㄓㄨㄥˋㄉㄧㄢˇ ㄩㄥˇㄩㄢˇ ㄕˋ ㄍㄨㄢˉㄓㄨˋ ㄍㄜˋㄗˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄅㄣˇㄕㄣˉ ㄉㄜ˙ ㄐㄧˉㄅㄣˇㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_176.wav|0|ㄒㄧˉㄨㄤˋ ㄖㄣˋㄊㄨㄥˊ ㄓㄜˋㄍㄜˋ ㄌㄧˇㄋㄧㄢˋ ㄉㄜ˙ ㄆㄥˊㄧㄡˇ。
+./segmented_character_voice/alancao/alancao_2_177.wav|0|ㄋㄥˊㄍㄡˋ ㄉㄨㄛˉㄉㄨㄛˉ ㄉㄧㄢˇㄗㄢˋ ㄍㄨㄢˉㄓㄨˋ ㄏㄜˊ ㄓˉㄔˊ。
+./segmented_character_voice/alancao/alancao_2_178.wav|0|ㄧㄥˉㄔㄠˉ ㄧㄝˋ ㄨㄟˋㄇㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_179.wav|0|ㄧˋㄑㄧˇ ㄌㄞˊ ㄍㄠˇ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_2_180.wav|0|ㄒㄧㄚˋㄓㄡˉ ㄧㄥˉㄔㄠˉ ㄌㄧㄢˊㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_2_181.wav|0|ㄐㄧㄡˋㄐㄧㄤˉ ㄓㄥˋㄕˋ ㄎㄞˉㄓㄢˋ。
+./segmented_character_voice/alancao/alancao_2_182.wav|0|ㄨㄛˇ ㄧㄝˇ ㄐㄧㄤˉㄆㄟˊ ㄉㄚˋㄐㄧㄚˉ ㄧˋㄑㄧˇ ㄗㄡˇ ㄨㄢˊ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄥˉㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_2_183.wav|0|ㄇㄟˇㄓㄡˉ ㄧˉㄑㄧˉ ㄇㄟˇㄓㄡˉ ㄧˉㄔㄤˇ ㄑㄧㄡˊ ㄉㄜ˙ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_2_184.wav|0|ㄨㄛˇㄇㄣ˙ ㄅㄨˋㄐㄧㄢˋ ㄅㄨˋㄙㄢˋ。
+./segmented_character_voice/alancao/alancao_3_0.wav|0|ㄌㄠˇㄍㄜˉ ㄇㄣ˙ ㄉㄚˋㄐㄧㄚˉ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_3_1.wav|0|ㄨㄛˇ ㄕˋ ㄕㄡˋ ㄖㄤˋ ㄆㄧㄥˊㄅㄢˋ ㄍㄠˉㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_3_2.wav|0|ㄧㄥˉㄔㄠˉ ㄉㄧˋㄧˉ ㄌㄨㄣˊ ㄇㄟˊ ㄧㄡˇ ㄖㄤˋ ㄖㄣˊ ㄕˉㄨㄤˋ。
+./segmented_character_voice/alancao/alancao_3_3.wav|0|ㄏㄣˇㄉㄨㄛˉ ㄔㄤˇ ㄐㄧㄥˉㄘㄞˇ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_4.wav|0|ㄑㄧㄝˋㄦˇㄒㄧˉ ㄉㄚˇ ㄌㄧˋㄨˋㄆㄨˇ。
+./segmented_character_voice/alancao/alancao_3_5.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄚˇ ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ。
+./segmented_character_voice/alancao/alancao_3_6.wav|0|ㄉㄡˉ ㄉㄚˇㄔㄨˉ ㄌㄜ˙ ㄍㄠˉㄕㄨㄟˇㄆㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_3_7.wav|0|ㄨㄛˇㄇㄣ˙ ㄉㄧˋㄧˉ ㄌㄨㄣˊ ㄉㄜ˙ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_8.wav|0|ㄅㄛˊㄣˉ· ㄇㄠˊㄙˉ ㄉㄨㄟˋㄓㄣˋ ㄒㄧˉㄏㄢˋㄇㄨˇㄌㄧㄢˊ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_9.wav|0|ㄧㄝˇ ㄕˋ ㄔㄥˊㄍㄨㄥˉ ㄗㄡˇㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_3_10.wav|0|ㄒㄧㄤˋ ㄓㄨˋ ㄨㄛˇㄇㄣ˙ ㄅㄣˇㄙㄞˋ ㄐㄧˋㄕㄠˇㄕㄨˉ ㄉㄤˉㄧㄥˊ ㄉㄜ˙ ㄇㄨˋㄅㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_3_11.wav|0|ㄇㄞˋㄔㄨˉ ㄌㄜ˙ ㄐㄧㄢˉㄕˊ ㄉㄜ˙ ㄧˉㄅㄨˋ。
+./segmented_character_voice/alancao/alancao_3_12.wav|0|ㄅㄣˇㄑㄧˉ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ ㄈㄣˉㄨㄟˋ ㄌㄧㄤˇㄍㄜˋ ㄅㄨˋㄈㄣˋ。
+./segmented_character_voice/alancao/alancao_3_13.wav|0|ㄉㄧˋㄧˉ ㄅㄨˋㄈㄣˋ ㄍㄨㄛˋ ㄧˉㄅㄧㄢˋ ㄉㄧˋㄦˋ ㄌㄨㄣˊ ㄉㄜ˙ ㄙㄞˋㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_3_14.wav|0|ㄊㄨㄟˉㄐㄧㄢˋ ㄑㄧˊㄓㄨㄥˉ ㄉㄜ˙ ㄧˉㄔㄤˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_15.wav|0|ㄉㄧˋㄦˋ ㄅㄨˋㄈㄣˋ ㄏㄨㄟˋㄌㄧㄠˊ ㄧˉㄒㄧㄚˋ ㄐㄧㄣˋㄑㄧˉ ㄍㄥˉㄒㄧㄣˉ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_3_16.wav|0|ㄧㄣˉㄨㄟˋ ㄌㄧㄢˊㄙㄞˋ ㄧㄝˇ ㄕˋ ㄍㄤˉㄍㄤˉ ㄎㄞˉㄕˇ。
+./segmented_character_voice/alancao/alancao_3_17.wav|0|ㄏㄣˇㄉㄨㄛˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄨㄛˇ ㄏㄞˊㄇㄟˊㄧㄡˇ ㄐㄧˉㄏㄨㄟˋ ㄎㄢˋㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_3_18.wav|0|ㄙㄨㄛˇㄧˇ ㄅㄣˇㄌㄨㄣˊ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_3_19.wav|0|ㄨㄛˇ ㄓˇ ㄕㄨㄛˉ ㄕㄡˇㄌㄨㄣˊ ㄨㄛˇ ㄍㄨㄢˉㄔㄚˊㄍㄨㄛˋ ㄉㄜ˙ ㄐㄧˇㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_20.wav|0|ㄇㄟˊㄧㄡˇ ㄎㄢˋㄍㄨㄛˋ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ ㄗㄢˋㄕˊ ㄅㄨˋ ㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_3_21.wav|0|ㄙㄨㄟˊㄓㄨˋ ㄙㄞˋㄔㄥˊ ㄉㄜ˙ ㄕㄣˉㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_3_22.wav|0|ㄉㄚˋㄅㄨˋㄈㄣˋ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄡˉ ㄏㄨㄟˋ ㄧㄡˇ ㄐㄧˉㄏㄨㄟˋ ㄈㄨˋㄍㄞˋ ㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_3_23.wav|0|ㄖㄜˋㄘˋ ㄉㄨㄟˋ ㄇㄢˋㄌㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_3_24.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄧˉㄔㄤˇ ㄐㄧㄠˉㄉㄧㄢˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_25.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄕㄡˇㄏㄨㄟˊㄏㄜˊ ㄅㄧㄠˇㄒㄧㄢˋ ㄅㄨˋㄐㄧˊ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_3_26.wav|0|ㄉㄨㄟˋㄌㄤˊㄉㄨㄟˋ ㄉㄜ˙ ㄗㄨㄟˋ ㄏㄡˋ ㄕˊㄈㄣˉ ㄓㄨㄥˉㄅㄟˋ ㄧㄚˉㄓㄨˋ ㄇㄥˇㄗㄡˋ。
+./segmented_character_voice/alancao/alancao_3_27.wav|0|ㄕㄡˇㄌㄨㄣˊㄅㄧㄠˇㄒㄧㄢˋ ㄔㄨˉ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ ㄕˋ。
+./segmented_character_voice/alancao/alancao_3_28.wav|0|ㄈㄤˊㄕㄡˇ ㄗㄨˇㄓˉ ㄏㄣˇ ㄏㄨㄣˋㄌㄨㄢˋ。
+./segmented_character_voice/alancao/alancao_3_29.wav|0|ㄏㄡˋ ㄈㄤˊㄒㄧㄢˋ ㄕㄤˋ ㄨㄢˋ ㄅㄧˇㄙㄚˋㄎㄚˇ ㄧˉㄖㄢˊ ㄅㄨˋㄨㄣˇ。
+./segmented_character_voice/alancao/alancao_3_30.wav|0|ㄏㄡˋ ㄧㄠˉ ㄨㄟˋㄓˋ ㄎㄚˇㄙㄞˋ ㄇㄧˇ ㄌㄨㄛˊ ㄉㄜ˙ ㄧˊㄉㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_3_31.wav|0|ㄈㄨˋㄍㄞˋ ㄏㄜˊ ㄉㄠˋㄨㄟˋㄌㄩˋ ㄉㄡˉ ㄧㄡˇ ㄏㄣˇㄉㄚˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_3_32.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄧˇㄍㄨㄢˇ ㄎㄨㄟˉㄅㄠˋ。
+./segmented_character_voice/alancao/alancao_3_33.wav|0|ㄊㄨㄥˉㄍㄨㄛˋ ㄅㄣˇㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄅㄧㄠˇㄒㄧㄢˋ ㄗㄨㄟˋ ㄌㄧㄤˋㄧㄢˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_3_34.wav|0|ㄌㄤˊㄉㄨㄟˋ ㄑㄧㄢˊㄈㄥˉ ㄎㄨˋㄋㄧˉㄧㄚˋ ㄉㄜ˙ ㄙㄢˉㄘˋ ㄍㄜˋ ㄖㄣˊㄓㄤˇ ㄊㄨˊㄅㄣˉㄒㄧˊ。
+./segmented_character_voice/alancao/alancao_3_35.wav|0|ㄨㄛˇㄇㄣ˙ ㄧˋㄑㄧˇ ㄌㄞˊ ㄎㄢˋ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_3_36.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄓㄨㄥˉㄔㄤˇ ㄈㄤˊㄕㄡˇ ㄓㄨㄥˉ ㄉㄜ˙ ㄧˉㄒㄧㄝˉ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_3_37.wav|0|ㄕㄨㄣˋㄉㄞˋ ㄕㄨㄛˉ ㄧˉㄐㄩˋ。
+./segmented_character_voice/alancao/alancao_3_38.wav|0|ㄌㄠˇ ㄑㄧㄡˊㄇㄧˊ ㄉㄡˉ ㄓˉㄉㄠˋ ㄧˉㄐㄩˋ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_3_39.wav|0|ㄊㄧㄢˉㄒㄧㄚˋ ㄕㄣˊㄈㄥˉ ㄔㄨˉㄇㄚˇㄐㄧㄣˋ。
+./segmented_character_voice/alancao/alancao_3_40.wav|0|ㄇㄚˇ ㄊㄡˊㄕˋ ㄎㄨˋㄋㄧˉㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_3_41.wav|0|ㄇㄚˇ ㄐㄧㄣˋ ㄔㄨˉㄆㄧㄣˇ。
+./segmented_character_voice/alancao/alancao_3_42.wav|0|ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄇㄚˇ ㄐㄧㄣˋ ㄕˋ ㄇㄛˊㄌㄚˉ ㄊㄚˇ ㄉㄜ˙ ㄊㄧˋ ㄅㄨˇ。
+./segmented_character_voice/alancao/alancao_3_43.wav|0|ㄏㄡˋ ㄅㄢˋㄉㄨㄢˋ ㄗㄨˉㄐㄧㄝˋ ㄉㄠˋ ㄌㄤˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_44.wav|0|ㄅㄣˇㄙㄞˋㄐㄧˋ ㄧㄥˉㄔㄠˉ ㄉㄧˋㄧˉ ㄌㄨㄣˊㄇㄧㄢˋ ㄉㄨㄟˋ ㄇㄢˋㄔㄥˊ ㄘㄢˊㄖㄨㄛˋ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄈㄤˊㄕㄡˇ。
+./segmented_character_voice/alancao/alancao_3_45.wav|0|ㄕㄣˊㄈㄥˉ ㄈㄨˋㄊㄧˇ。
+./segmented_character_voice/alancao/alancao_3_46.wav|0|ㄐㄧㄡˋ ㄒㄧㄤˋ ㄓㄤˇ ㄕㄢˉㄓㄠˋㄗ˙ ㄌㄨㄥˊㄅㄢˉ ㄑㄧˋㄐㄧㄣˋ ㄐㄧˉㄔㄨˉ。
+./segmented_character_voice/alancao/alancao_3_47.wav|0|ㄖㄨˊㄖㄨˋ ㄨˊㄖㄣˊ ㄓˉㄐㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_3_48.wav|0|ㄓㄜˋㄇㄧㄥˊ ㄑㄧㄢˊㄈㄥˉ ㄓˊㄉㄜ˙ ㄍㄨㄢˉ ㄓㄨˋ。
+./segmented_character_voice/alancao/alancao_3_49.wav|0|ㄌㄧㄥˋㄧˋㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_50.wav|0|ㄓㄜˋㄧㄝˇ ㄕˋ ㄧㄣˉㄨㄟˋ ㄇㄢˋㄔㄥˊ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄈㄤˊㄕㄡˇ ㄕˊㄗㄞˋ ㄊㄞˋㄎㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_3_51.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄎㄚˇㄙㄞˉㄇㄧˇ ㄌㄨㄛˊ ㄉㄜ˙ ㄓㄨㄤˋㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_3_52.wav|0|ㄓㄣˉㄉㄜ˙ ㄌㄧㄥˋㄖㄣˊ ㄉㄢˉㄧㄡˉ。
+./segmented_character_voice/alancao/alancao_3_53.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄎㄢˋ ㄖㄜˋㄘˋ。
+./segmented_character_voice/alancao/alancao_3_54.wav|0|ㄖㄜˋㄘˋ ㄉㄧˋㄧˉ ㄌㄨㄣˊ ㄏㄜˊ ㄅㄨˋㄌㄨㄣˊㄊㄜˋ ㄈㄨˋㄉㄜˊㄓㄢˋ ㄔㄥˊㄦˋㄅㄧˇ ㄦˋ。
+./segmented_character_voice/alancao/alancao_3_55.wav|0|ㄅㄧㄠˇㄒㄧㄢˋ ㄔㄠˉ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_3_56.wav|0|ㄎㄞˇㄣˉ ㄉㄜ˙ ㄌㄧˊㄉㄨㄟˋ ㄉㄨㄟˋ ㄩˊ ㄖㄜˋㄘˋ ㄌㄞˊㄐㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_3_57.wav|0|ㄨˊㄌㄨㄣˋ ㄕˋ ㄕˊㄌㄧˋ ㄏㄞˊㄕˋ ㄒㄧㄣˉㄌㄧˇ ㄕㄤˋ ㄉㄜ˙ ㄔㄨㄥˉㄐㄧˉ ㄉㄡˉ ㄕˋ ㄐㄩˋㄉㄚˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_3_58.wav|0|ㄎㄞˇㄣˉㄗㄨㄛˋ ㄨㄟˋ ㄧˉㄇㄧㄥˊ ㄉㄧㄥˇㄐㄧˊ ㄓㄨㄥˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_3_59.wav|0|ㄋㄥˊ ㄨㄣˇㄉㄧㄥˋ ㄅㄚˇㄨㄛˋ ㄉㄜˊㄈㄣˉ ㄐㄧˉㄏㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_60.wav|0|ㄧㄡˇ ㄎㄨㄥˇㄅㄨˋ ㄉㄜ˙ ㄩˋㄑㄧˉ ㄐㄧㄣˋㄑㄧㄡˊ ㄓㄨㄢˇㄏㄨㄚˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_3_61.wav|0|ㄊㄨㄥˊㄕˊ ㄏㄞˊㄧㄡˇ ㄅㄨˋㄒㄩㄣˋ ㄩˊ ㄓㄨㄥˉㄔㄤˇ ㄉㄚˋㄘˋ ㄉㄜ˙ ㄐㄧㄥˉㄓㄨㄣˇ ㄔㄨㄢˊㄑㄧㄡˊ ㄏㄜˊ ㄗㄨˇㄓˉ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_62.wav|0|ㄕˋ ㄓㄨㄥˋㄉㄨㄛˉ ㄐㄧㄠˋㄌㄧㄢˋ ㄒㄧㄣˉㄇㄨˋ ㄓㄨㄥˉ ㄨㄢˊㄇㄟˇ ㄓㄨㄥˉㄈㄥˉ ㄉㄜ˙ ㄇㄨˊㄅㄢˇ。
+./segmented_character_voice/alancao/alancao_3_63.wav|0|ㄗㄨㄛˋㄨㄟˋ ㄊㄚˉ ㄉㄜ˙ ㄊㄧˋㄉㄞˋㄓㄜˇ。
+./segmented_character_voice/alancao/alancao_3_64.wav|0|ㄉㄧˋㄧˉ ㄔㄤˇㄅㄧˇㄙㄞˋ ㄙㄞˋㄏㄡˋㄆㄧㄥˊ ㄌㄨㄣˋㄑㄩˉ ㄅㄟˋ ㄆㄣˉㄉㄜˊ ㄏㄣˇㄘㄢˇ。
+./segmented_character_voice/alancao/alancao_3_65.wav|0|ㄨㄛˇ ㄉㄠˋ ㄐㄩㄝˊㄉㄜˊ ㄎㄜˇㄧˇ ㄍㄟˇㄊㄚˉ ㄍㄥˋ ㄉㄨㄛˉ ㄉㄜ˙ ㄋㄞˋㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_3_66.wav|0|ㄘㄨㄥˊ ㄞˉㄈㄨˊㄉㄨㄣˋ ㄕˊㄉㄞˋ ㄨㄛˇ ㄐㄧㄡˋ ㄍㄨㄢˉ ㄓㄨˋ ㄓㄜˋ ㄇㄧㄥˊ ㄑㄧㄡˊ ㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_3_67.wav|0|ㄌㄧˇㄔㄚˊ ㄌㄧˋㄙㄨㄥˉ ㄗㄞˋ ㄧㄥˉㄔㄠˉ ㄕㄤˋㄅㄢˋ ㄑㄩˉㄑㄧㄡˊㄉㄨㄟˋ ㄉㄚˇㄕㄡˇ ㄈㄚˉㄑㄧㄢˊㄈㄥˉ ㄉㄜ˙ ㄕˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_68.wav|0|ㄕˋ ㄨˊ ㄒㄩˉㄓˋㄧˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_3_69.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄐㄧㄣˋㄑㄧㄡˊ ㄔㄨˋ ㄕㄤˋ ㄕㄨㄤˉㄇㄟˊㄧㄡˇ ㄖㄣˋㄏㄜˊ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_3_70.wav|0|ㄙㄨㄟˉㄖㄢˊ ㄊㄚˉ ㄉㄜ˙ ㄓㄨㄥˉㄐㄧㄝˊ ㄋㄥˊㄌㄧˋ ㄅㄨˋㄖㄨˊ ㄎㄞˇㄣˉ。
+./segmented_character_voice/alancao/alancao_3_71.wav|0|ㄉㄢˋㄕˋ ㄩㄣˋㄉㄨㄥˋ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_72.wav|0|ㄓˉㄉㄧㄢˇ ㄋㄥˊㄌㄧˋ ㄏㄜˊ ㄔㄨㄤˋㄗㄠˋㄌㄧˋ ㄉㄡˉ ㄗㄞˋ ㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_73.wav|0|ㄕㄡˇㄌㄨㄣˊ ㄅㄧˇㄙㄞˋ ㄐㄧㄥˉㄔㄤˊ ㄎㄜˇㄧˇ ㄎㄢˋㄉㄠˋ ㄊㄚˉ ㄗㄞˋ ㄐㄧㄣˋㄑㄩˉ ㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_3_74.wav|0|ㄗㄨㄛˋ ㄓˉㄉㄧㄢˇ ㄏㄜˊ ㄙㄨㄣˉㄒㄧㄥˋ ㄇㄧㄣˇ。
+./segmented_character_voice/alancao/alancao_3_75.wav|0|ㄅㄨˋㄌㄨˇㄙㄞˉ ㄈㄨˉㄙˉㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_3_76.wav|0|ㄇㄞˋㄉㄧˊㄒㄩㄣˋ。
+./segmented_character_voice/alancao/alancao_3_77.wav|0|ㄧˋㄑㄧˇ ㄉㄚˇ ㄧˉㄒㄧㄝˉ ㄌㄧㄤˇㄖㄣˊ ㄙㄢˉㄖㄣˊ ㄓˉㄐㄧㄢˉ ㄉㄜ˙ ㄒㄧㄠˇㄑㄧㄡˊ ㄆㄟˋㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_3_78.wav|0|ㄌㄧˇㄔㄚˊ ㄌㄧˋㄙㄨㄥˉ ㄏㄞˊㄧㄡˇ ㄅㄨˋㄘㄨㄛˋ ㄉㄜ˙ ㄔㄨㄤˋㄗㄠˋㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_79.wav|0|ㄋㄥˊ ㄅㄚˇ ㄧˉㄒㄧㄝˉ ㄅㄨˊㄕˋ ㄐㄧˉㄏㄨㄟˋ ㄉㄜ˙ ㄑㄧㄡˊ ㄐㄧㄣˋㄒㄧㄥˊ ㄔㄨㄤˋㄗㄠˋㄒㄧㄥˋ ㄉㄜ˙ ㄔㄨˋㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_3_80.wav|0|ㄐㄧㄣˋㄦˊ ㄓㄨㄢˇㄏㄨㄚˋ ㄨㄟˋ ㄉㄜˊㄈㄣˉ ㄐㄧˉㄏㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_81.wav|0|ㄓㄜˋㄧˉㄉㄧㄢˇ ㄏㄜˊ ㄖㄜˋㄕㄨˉㄙˉㄌㄟˋ ㄕˋ。
+./segmented_character_voice/alancao/alancao_3_82.wav|0|ㄕˋ ㄑㄧㄢˊㄈㄥˉ ㄓㄨㄥˉ ㄈㄟˉㄔㄤˊ ㄒㄧˉㄑㄩㄝˉ ㄉㄜ˙ ㄧˉㄓㄨㄥˇ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_83.wav|0|ㄓㄜˋㄧㄝˇ ㄕˋ ㄆㄧㄥˊㄩㄥˉ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ ㄏㄜˊ ㄧㄡˉㄒㄧㄡˋ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_3_84.wav|0|ㄧˉㄍㄜˋ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄈㄣˉㄕㄨㄟˇ ㄌㄧㄥˇ。
+./segmented_character_voice/alancao/alancao_3_85.wav|0|ㄅㄣˇㄔㄤˇ ㄖㄜˋㄘˋ ㄕㄡˋ ㄖㄤˋ ㄆㄧㄥˊㄆㄢˋ ㄎㄢˋㄏㄠˇ ㄖㄜˋㄘˋ。
+./segmented_character_voice/alancao/alancao_3_86.wav|0|ㄓㄜˋㄕˋ ㄖㄜˋㄘˋ ㄕˉㄑㄩˋ ㄎㄞˇㄣˉ ㄉㄜ˙ ㄉㄧˋㄧˉ ㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_3_87.wav|0|ㄖㄜˋㄘˋ ㄑㄧㄡˊㄇㄧˊ ㄧˊㄉㄧㄥˋ ㄏㄨㄟˋ ㄈㄟˉㄔㄤˊ ㄉㄜ˙ ㄏㄨㄞˊㄋㄧㄢˋ ㄊㄚˉ。
+./segmented_character_voice/alancao/alancao_3_88.wav|0|ㄨㄛˇㄇㄣ˙ ㄆㄨˇㄊㄨㄥˉ ㄧㄥˉㄔㄠˉ ㄑㄧㄡˊㄇㄧˊ。
+./segmented_character_voice/alancao/alancao_3_89.wav|0|ㄧㄝˇ ㄏㄨㄟˋ ㄒㄧㄤˇㄋㄧㄢˋ ㄓㄜˋㄨㄟˋ ㄘㄥˊㄐㄧㄥˉ ㄉㄜ˙ ㄧㄥˉㄔㄠˉ ㄉㄧˋㄧˉ ㄓㄨㄥˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_3_90.wav|0|ㄍㄢˇㄒㄧㄝˋ ㄎㄞˇㄣˉ ㄉㄨㄛˉㄋㄧㄢˊ ㄌㄞˊㄍㄟˇ ㄨㄛˇㄇㄣ˙ ㄉㄞˋㄌㄞˊ ㄉㄜ˙ ㄐㄧㄥˉㄘㄞˇ ㄅㄧㄠˇㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_91.wav|0|ㄒㄧˉㄨㄤˋ ㄊㄚˉ ㄗㄞˋ ㄧˇ ㄏㄡˋ ㄉㄜ˙ ㄓˊㄧㄝˋ ㄕㄥˉㄧㄚˊ ㄌㄧˇ ㄋㄥˊㄍㄡˋ ㄧˉㄑㄧㄝˋ ㄕㄨㄣˋㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_92.wav|0|ㄇㄢˋㄔㄥˊ ㄉㄨㄟˋㄓㄣˋㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ。
+./segmented_character_voice/alancao/alancao_3_93.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄌㄧㄥˋ ㄧˉㄔㄤˇ ㄓㄨㄥˋㄊㄡˊㄒㄧˋ。
+./segmented_character_voice/alancao/alancao_3_94.wav|0|ㄇㄢˋㄔㄥˊ ㄕㄡˇㄏㄨㄟˊㄏㄜˊ ㄑㄧㄥˉㄑㄩˇ ㄅㄛˊㄣˉ ㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_95.wav|0|ㄉㄚˇ ㄌㄜ˙ ㄧˉㄍㄜˋ ㄍㄠˉㄌㄧㄡˊㄉㄨㄥˋㄒㄧㄥˋ ㄉㄜ˙ ㄓㄣˋㄖㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_3_96.wav|0|ㄍㄜˊㄋㄚˋㄌㄧˋ ㄕㄣˊㄇㄟˊㄧㄡˇ ㄕㄡˇㄈㄚˉ。
+./segmented_character_voice/alancao/alancao_3_97.wav|0|ㄑㄧㄡˊㄉㄨㄟˋ ㄇㄟˊㄧㄡˇ ㄍㄨˋㄉㄧㄥˋ ㄉㄜ˙ ㄗㄨㄛˇㄧㄡˋ ㄅㄧㄢˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_3_98.wav|0|ㄦˊㄕˋ ㄧㄡˊ ㄚˉㄦˇㄨㄚˇㄌㄟˊㄙˉ， ㄈㄨˊㄉㄥˉ， ㄅㄧˋㄒㄧˊ。
+./segmented_character_voice/alancao/alancao_3_99.wav|0|ㄙㄢˉㄍㄜˋ ㄖㄣˊ ㄗㄞˋ ㄑㄧㄢˊㄔㄤˇ ㄗˋㄧㄡˊ ㄆㄠˇ ㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_100.wav|0|ㄍㄟˇㄌㄧㄤˇㄍㄜˋ ㄅㄧㄢˉㄏㄨㄟˋㄨㄟˋ ㄌㄧㄡˊㄔㄨˉ ㄌㄜ˙ ㄗㄨˊㄍㄡˋ ㄉㄜ˙ ㄑㄧㄢˊ ㄧㄚˉㄎㄨㄥˉㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_3_101.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄌㄧˇ ㄎㄜˉㄌㄧㄡˊ ㄧˉㄙˉ ㄗㄞˋ ㄗㄨㄛˇㄌㄨˋ ㄉㄜ˙ ㄧㄚˉㄕㄤˋ ㄈㄨˊㄉㄨˋ ㄒㄧㄤˉㄉㄤˉ ㄉㄜ˙ ㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_3_102.wav|0|ㄉㄤˉㄖㄢˊ ㄋㄩㄝˋㄘㄞˊㄐㄩˊ。
+./segmented_character_voice/alancao/alancao_3_103.wav|0|ㄇㄢˋㄔㄥˊ ㄏㄨㄟˋ ㄒㄧㄤˋ ㄓㄜˋㄧㄤˋ ㄉㄚˇㄉㄜˊ ㄐㄧˉㄐㄧㄣˋ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_3_104.wav|0|ㄙㄨㄟˊㄧˋ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_3_105.wav|0|ㄅㄣˇㄌㄨㄣˊㄇㄧㄢˋ ㄉㄨㄟˋㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ。
+./segmented_character_voice/alancao/alancao_3_106.wav|0|ㄍㄨㄚˉㄌㄧˇ ㄠˋㄌㄚˉ ㄅㄧˋㄖㄢˊ ㄏㄞˊㄕˋ ㄏㄨㄟˋㄩㄥˋ ㄓㄡˉㄏㄡˋㄨㄟˋ ㄊㄧˇㄍㄜˊ ㄉㄜ˙ ㄍㄜˊㄨㄚˇㄉㄧˊㄦˇ。
+./segmented_character_voice/alancao/alancao_3_107.wav|0|ㄏㄨㄛˋㄓㄜˇ ㄚˉㄎㄜˋ ㄌㄞˊ ㄉㄚˇ ㄗㄨㄛˇ ㄅㄧㄢˉㄏㄡˋㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_108.wav|0|ㄐㄧㄢˇㄕㄠˇ ㄐㄧㄣˋㄍㄨㄥˉ ㄓㄨㄥˉ ㄉㄜ˙ ㄖㄣˊㄩㄢˊ ㄊㄡˊㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_3_109.wav|0|ㄓㄨㄟˉㄑㄧㄡˊ ㄍㄨㄥˉㄕㄡˇ ㄆㄧㄥˊㄏㄥˊ。
+./segmented_character_voice/alancao/alancao_3_110.wav|0|ㄉㄜˊㄅㄨˋ ㄌㄠˊㄋㄟˋ ㄕㄡˇㄌㄨㄣˊ ㄓㄨㄥˋㄕㄤˉ。
+./segmented_character_voice/alancao/alancao_3_111.wav|0|ㄕㄤˋㄅㄢˋ ㄙㄞˋㄐㄧˋ ㄉㄡˉ ㄐㄧㄤˉㄧㄡˊㄎㄜˉ ㄨㄚˇㄒㄧˉ ㄑㄧˊㄌㄞˊ ㄉㄧㄥˇ ㄊㄧˋ。
+./segmented_character_voice/alancao/alancao_3_112.wav|0|ㄇㄢˋㄔㄥˊ ㄐㄧㄣˋㄍㄨㄥˉ ㄓㄨㄥˉ ㄔㄨㄤˋㄗㄠˋ ㄐㄧˉㄏㄨㄟˋ ㄉㄜ˙ ㄋㄥˊㄌㄧˋ ㄧㄡˇㄙㄨㄛˇ ㄒㄧㄚˋㄐㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_3_113.wav|0|ㄉㄢˋㄎㄜˉ ㄨㄚˇㄒㄧˉ ㄑㄧˊ ㄉㄜ˙ ㄍㄨㄥˉㄕㄡˇ ㄍㄥˋㄨㄟˋ ㄆㄧㄥˊㄏㄥˊ。
+./segmented_character_voice/alancao/alancao_3_114.wav|0|ㄒㄧㄤˇㄧㄠˋ ㄐㄧˉㄅㄞˋ ㄓㄜˋㄓˉ ㄇㄢˋㄔㄥˊ ㄧˉㄖㄢˊ ㄈㄟˉㄔㄤˊ ㄎㄨㄣˋㄋㄢˊ。
+./segmented_character_voice/alancao/alancao_3_115.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇㄕㄡˇ ㄌㄨㄣˊㄉㄚˋㄕㄥˋ ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ。
+./segmented_character_voice/alancao/alancao_3_116.wav|0|ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄊㄧˉ ㄉㄜˊ ㄏㄣˇ ㄎㄞˉㄈㄤˋ。
+./segmented_character_voice/alancao/alancao_3_117.wav|0|ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ ㄗㄞˋ ㄎㄜˋㄔㄤˇ ㄈㄤˋㄕㄡˇ ㄏㄜˊ ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄨㄟˋ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_3_118.wav|0|ㄗㄨㄟˋㄏㄡˋㄅㄟˋ ㄉㄚˇㄅㄠˋ。
+./segmented_character_voice/alancao/alancao_3_119.wav|0|ㄋㄧㄡˇㄎㄚˇ ㄉㄨㄟˋ ㄇㄢˋㄔㄥˊ ㄉㄜ˙ ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_120.wav|0|ㄇㄢˋㄔㄥˊ ㄗㄨㄛˋㄨㄟˋ ㄧˉㄓˉ ㄔㄥˊㄕㄨˊ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_3_121.wav|0|ㄎㄣˇㄉㄧㄥˋ ㄅㄨˋㄏㄨㄟˋ ㄏㄜˊ ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄨㄟˋ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_3_122.wav|0|ㄔㄤˇㄇㄧㄢˋ ㄧㄥˉㄍㄞˉ ㄌㄟˋㄕˋ ㄕㄜˋㄑㄩˉ ㄉㄨㄟˋㄨˇ ㄉㄨㄟˋ ㄚˉㄙˉ ㄋㄚˋ ㄉㄜ˙ ㄋㄚˋㄔㄤˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_123.wav|0|ㄏㄡˋㄔㄤˇ ㄎㄨㄥˋㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_3_124.wav|0|ㄖㄢˊ ㄏㄡˋ ㄓˊㄐㄧㄝˉ ㄓㄤˇ ㄔㄨㄢˊ ㄈㄢˇㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_3_125.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_126.wav|0|ㄧˇ ㄨㄛˇ ㄉㄨㄟˋ ㄊㄚˉㄇㄣ˙ ㄕㄤˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄍㄨㄢˉㄔㄚˊ。
+./segmented_character_voice/alancao/alancao_3_127.wav|0|ㄞˉㄉㄧˊㄏㄠˊ ㄕˋ ㄅㄨˋㄏㄨㄟˋ ㄍㄡˇ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄐㄧㄠˋㄌㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_128.wav|0|ㄉㄚˋㄅㄨˋㄈㄣˋ ㄕˊㄏㄡˋ ㄉㄡˉ ㄐㄧㄢˉㄔˊ ㄧˇ ㄨㄛˇ ㄨㄟˋ ㄓㄨˇ。
+./segmented_character_voice/alancao/alancao_3_129.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄧˋㄊㄨˊ。
+./segmented_character_voice/alancao/alancao_3_130.wav|0|ㄎㄜˇㄧˇ ㄘㄨㄥˊ ㄊㄚˉㄕㄡˇ ㄈㄚˉㄌㄤˇ ㄙˉㄊㄚˇㄈㄨˉ。
+./segmented_character_voice/alancao/alancao_3_131.wav|0|ㄏㄞˊㄕˋ ㄐㄧㄢˉㄔˊ ㄕˇㄩㄥˋ ㄊㄨㄛˉㄋㄚˋㄌㄧˋㄌㄞˊ ㄆㄢˋㄉㄨㄢˋ。
+./segmented_character_voice/alancao/alancao_3_132.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄕㄡˇㄈㄚˉㄌㄤˇ ㄙˉㄊㄚˇㄈㄨˉ。
+./segmented_character_voice/alancao/alancao_3_133.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄐㄧㄡˋ ㄏㄨㄟˋ ㄊㄧˉ ㄉㄜˊ ㄒㄧㄤˉ ㄉㄨㄟˋ ㄅㄠˇㄕㄡˇ ㄏㄜˊ ㄨㄣˇㄊㄨㄛˇ ㄧˉㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_3_134.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄕˇㄩㄥˋ ㄊㄨㄛˉㄋㄚˋㄌㄧˋ ㄕㄡˇㄈㄚˉ。
+./segmented_character_voice/alancao/alancao_3_135.wav|0|ㄗㄜˊㄕˋ ㄧㄠˋ ㄧˇㄍㄨㄥˉ ㄉㄞˋㄕㄡˇ ㄏㄜˊ ㄇㄢˋㄔㄥˊ ㄓㄥˋㄇㄧㄢˋ ㄧㄥˋㄍㄤˉ。
+./segmented_character_voice/alancao/alancao_3_136.wav|0|ㄅㄣˇㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄕˋ ㄧˉㄔㄤˇ ㄉㄧㄢˇㄒㄧㄥˊ ㄉㄜ˙ ㄍㄠˉㄅㄨˋㄑㄩㄝˋ ㄉㄧㄥˋㄒㄧㄥˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_3_137.wav|0|ㄑㄩˇㄐㄩㄝˊ ㄩˊ ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄜ˙ ㄧˋㄊㄨˊ。
+./segmented_character_voice/alancao/alancao_3_138.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄉㄚˇ ㄉㄨㄟˋ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_3_139.wav|0|ㄎㄜˇㄋㄥˊ ㄏㄨㄟˋ ㄅㄟˋ ㄉㄚˇㄅㄠˋ。
+./segmented_character_voice/alancao/alancao_3_140.wav|0|ㄉㄢˋ ㄧㄝˇ ㄎㄜˇㄋㄥˊ ㄏㄨㄟˋㄌㄨㄢˋ ㄑㄩㄢˊ ㄉㄚˇㄙˇ ㄌㄠˇㄕˉㄈㄨˋ。
+./segmented_character_voice/alancao/alancao_3_141.wav|0|ㄉㄚˇㄔㄨˉ ㄉㄚˋㄅㄧˇㄈㄣˉ ㄉㄜ˙ ㄇㄧㄥˊㄐㄩˊ。
+./segmented_character_voice/alancao/alancao_3_142.wav|0|ㄗㄨㄟˋ ㄏㄡˋ ㄗㄞˋㄌㄧㄠˊ ㄧˉㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_3_143.wav|0|ㄒㄧˉㄏㄢˋㄇㄨˇ ㄉㄨㄟˋ ㄑㄧㄝˋㄦˇㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_3_144.wav|0|ㄑㄧㄝˋㄦˇ ㄒㄧˉㄕㄡˇ ㄌㄨㄣˊ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ ㄖㄤˋ ㄖㄣˊ ㄦˇㄇㄨˋㄧˉㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_3_145.wav|0|ㄗㄞˋ ㄓㄥˇㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄔㄤˇㄇㄧㄢˋ ㄕˋ ㄧㄚˉㄓˋ ㄌㄧˋㄨˋㄆㄨˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_3_146.wav|0|ㄣˉㄗㄨㄛˇ ㄗㄞˋ ㄓㄨㄥˉㄔㄤˇ ㄉㄚˋㄕˉㄐㄧˊ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_147.wav|0|ㄨㄢˊㄑㄩㄢˊ ㄍㄞˋㄍㄨㄛˋ ㄌㄜ˙ ㄌㄧˋㄨˋㄆㄨˇ ㄉㄜ˙ ㄌㄧㄤˇㄍㄜˋ ㄓㄨㄥˉㄔㄤˇ ㄒㄧㄣˉㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_3_148.wav|0|ㄑㄧㄢˊㄈㄥˉ ㄐㄧㄝˊㄎㄜˋㄒㄩㄣˋ ㄋㄥˊㄌㄧˋ ㄅㄨˋㄘㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_3_149.wav|0|ㄧㄡˇ ㄉㄨㄟˋ ㄎㄤˋㄧㄡˇ ㄙㄨˋㄉㄨˋ。
+./segmented_character_voice/alancao/alancao_3_150.wav|0|ㄓㄜˋㄓㄡˉ ㄏㄞˊㄧㄡˇ ㄎㄞˇㄙㄞˉㄉㄨㄛˉ ㄏㄜˊ ㄌㄚˉㄨㄟˊㄧㄚˋ ㄏㄨㄛˇㄒㄧㄢˋ ㄕㄤˋㄔㄜˉ。
+./segmented_character_voice/alancao/alancao_3_151.wav|0|ㄓㄨㄥˉㄔㄤˇ ㄆㄟˋㄓˋ ㄎㄢˉㄔㄥˉ ㄏㄠˊㄏㄨㄚˊ。
+./segmented_character_voice/alancao/alancao_3_152.wav|0|ㄗㄨㄟˋ ㄓˊㄉㄜˊㄧˋㄊㄧˊ ㄉㄜ˙ ㄏㄞˊㄕˋ ㄅㄛˉㄑㄧㄝˋㄉㄧˋㄋㄨㄛˋ ㄉㄞˋ ㄋㄧㄢˊ ㄑㄧㄥˉㄖㄣˊ ㄉㄜ˙ ㄕˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_3_153.wav|0|ㄓㄣˉㄉㄜ˙ ㄧㄡˇ ㄧˉㄊㄠˋ。
+./segmented_character_voice/alancao/alancao_3_154.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄑㄧㄝˋㄦˇㄒㄧˉ ㄓˊㄉㄜ˙ ㄑㄧˉㄉㄞˋ。
+./segmented_character_voice/alancao/alancao_3_155.wav|0|ㄏㄨㄟˋ ㄓㄨㄥˋㄉㄧㄢˇ ㄍㄣˉ ㄗㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_3_156.wav|0|ㄒㄧˉㄏㄢˋㄇㄨˇㄌㄧㄢˊ ㄧㄥˇㄩㄢˊ ㄧˉㄖㄢˊ ㄇㄟˊㄧㄡˇ ㄉㄚˋ ㄉㄜ˙ ㄐㄧㄣˋㄓㄢˇ。
+./segmented_character_voice/alancao/alancao_3_157.wav|0|ㄓㄨㄥˉㄔㄤˇ ㄉㄚˋㄊㄨㄟˇ ㄆㄚˋ ㄎㄨㄟˊㄊㄚˇ。
+./segmented_character_voice/alancao/alancao_3_158.wav|0|ㄧㄝˇ ㄧㄡˇ ㄎㄜˇㄋㄥˊ ㄓㄨㄢˇㄏㄨㄟˊ ㄇㄢˋㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_3_159.wav|0|ㄉㄞˋㄊㄧˋ ㄉㄜˊ ㄅㄨˋㄌㄚˉ ㄋㄟˋ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_3_160.wav|0|ㄅㄣˇㄙㄞˋ ㄐㄧˋㄒㄧˉㄏㄢˋㄇㄨˇ ㄉㄜ˙ ㄑㄧㄢˊㄐㄧㄥˇ ㄅㄨˋㄖㄨㄥˊ ㄌㄜˋㄍㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_3_161.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊㄌㄧㄠˊ ㄧˉㄒㄧㄚˋ ㄐㄧㄣˋㄑㄧˉ ㄉㄜ˙ ㄍㄥˉㄒㄧㄣˉ ㄐㄧˋㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_3_162.wav|0|ㄒㄧㄚˋㄓㄡˉ ㄎㄞˉㄕˇ ㄨㄛˇㄏㄨㄟˋ ㄒㄧㄡˉㄐㄧㄚˋ ㄌㄩˇㄒㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_3_163.wav|0|ㄓㄜˋㄉㄨㄢˋ ㄕˊㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_3_164.wav|0|ㄔㄠˉㄙㄢˉㄓˋ ㄨˇㄌㄨㄣˊ ㄉㄜ˙ ㄑㄧㄢˊㄓㄢˉ ㄧˉㄖㄢˊ ㄏㄨㄟˋㄐㄧˋㄒㄩˋ ㄍㄥˉㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_3_165.wav|0|ㄎㄜˇㄋㄥˊ ㄨㄛˇ ㄈㄚˉㄒㄧㄢˋ ㄆㄧㄥˊㄕˊ ㄓㄜˋㄧㄤˋ ㄗㄨㄛˋ ㄅㄧˇ ㄐㄧㄠˋ ㄒㄧˋ ㄓˋ ㄉㄜ˙ ㄓㄨㄥˉㄉㄥˇ ㄓㄤˇ ㄉㄨˋㄕˋㄆㄧㄣˊ。
+./segmented_character_voice/alancao/alancao_3_166.wav|0|ㄐㄧㄝˋ ㄕˊㄏㄨㄟˋ ㄧˇ ㄍㄥˋ ㄉㄨㄢˇ ㄉㄜ˙ ㄕˋㄆㄧㄣˊ。
+./segmented_character_voice/alancao/alancao_3_167.wav|0|ㄏㄨㄛˋㄓㄜˇ ㄧˇ ㄨㄣˊㄗˋ ㄉㄜ˙ ㄒㄧㄥˊㄕˋ ㄌㄞˊ ㄍㄥˉㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_3_168.wav|0|ㄓㄜˋㄘˋ ㄒㄧㄡˉㄐㄧㄚˋ ㄨㄛˇㄏㄨㄟˋ ㄗㄞˋ ㄔㄥˊㄉㄨˉ ㄉㄞˋ ㄌㄧㄤˇㄍㄜˋ ㄒㄧㄥˉㄑㄧˉ ㄗㄨㄛˇㄧㄡˋ。
+./segmented_character_voice/alancao/alancao_3_169.wav|0|ㄧㄡˇ ㄗㄞˋ ㄔㄥˊㄉㄨˉ ㄉㄜ˙ ㄌㄠˇㄍㄜˉ ㄏㄨㄢˉㄧㄥˊ ㄑㄧㄥˇ ㄨㄛˇ ㄔˉ ㄈㄢˋ。
+./segmented_character_voice/alancao/alancao_3_170.wav|0|ㄏㄜˊ ㄒㄧㄢˋ ㄒㄧㄚˋ ㄐㄧㄠˉㄌㄧㄡˊ ㄌㄧㄢˊㄐㄧㄝˉ。
+./segmented_character_voice/alancao/alancao_3_171.wav|0|ㄓㄜˋㄌㄧㄤˇㄓㄡˉ ㄔㄨˊㄌㄜ˙ ㄔˉㄏㄜˉ ㄨㄢˊㄌㄜˋ。
+./segmented_character_voice/alancao/alancao_3_172.wav|0|ㄨㄛˇ ㄏㄞˊㄧㄡˇ ㄧˉㄍㄜˋ ㄐㄧˋㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_3_173.wav|0|ㄐㄧㄡˋㄕˋ ㄊㄧㄠˉㄓㄢˋㄧˇ ㄔㄠˉㄍㄠˉ ㄉㄜ˙ ㄔㄡˉㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_3_174.wav|0|ㄋㄧˋㄊㄧㄢˉ ㄉㄜ˙ ㄖㄤˋ ㄑㄧㄡˊㄕㄥˋㄆㄧㄥˊ ㄈㄨˋ ㄨㄢˊㄈㄚˇ ㄦˊㄨㄣˊㄇㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_3_175.wav|0|ㄏㄠˋㄔㄥˉ ㄕˋㄐㄧㄝˋ ㄕㄤˋ ㄗㄨㄟˋ ㄅㄧㄢˋㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_3_176.wav|0|ㄗㄨㄟˋㄋㄢˊ ㄧㄥˊㄌㄧˋ ㄉㄜ˙ ㄓㄨㄥˉㄍㄨㄛˊ ㄐㄧㄣˋㄘㄞˇ。
+./segmented_character_voice/alancao/alancao_3_177.wav|0|ㄧㄡˇ ㄗㄞˋ ㄔㄥˊㄉㄨˉ ㄎㄞˉㄐㄧㄣˋ ㄘㄞˇㄉㄧㄢˋ ㄉㄜ˙ ㄌㄠˇㄍㄜˉ ㄎㄜˇㄧˇ ㄌㄧㄢˊ ㄒㄧˋ ㄨㄛˇ。
+./segmented_character_voice/alancao/alancao_3_178.wav|0|ㄨㄛˇㄉㄠˋ ㄕˊㄏㄡˋ ㄑㄩˋ ㄉㄧㄢˋㄌㄧˇ ㄔㄨˉㄆㄧㄠˋ。
+./segmented_character_voice/alancao/alancao_3_179.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄉㄜ˙ ㄐㄧˇㄑㄧˉ ㄧㄣˊㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_3_180.wav|0|ㄨㄛˇ ㄧㄝˇ ㄏㄨㄟˋ ㄌㄧㄤˋㄔㄨˉ ㄨㄛˇ ㄉㄜ˙ ㄐㄧㄥˋㄘㄞˇ ㄕˊㄉㄢˉ。
+./segmented_character_voice/alancao/alancao_3_181.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄧˋㄑㄧˇ ㄌㄞˊ ㄍㄠˇ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_3_182.wav|0|ㄛˊ ㄅㄨˋ。
+./segmented_character_voice/alancao/alancao_3_183.wav|0|ㄨㄟˋ ㄊㄧˇㄩˋ ㄈㄨˊㄌㄧˋ ㄕˋㄧㄝˋ ㄗㄨㄛˋ ㄍㄨㄥˋㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_3_184.wav|0|ㄧˇㄕㄤˋ ㄐㄧㄡˋㄕˋ ㄅㄣˇㄑㄧˉ ㄉㄜ˙ ㄑㄩㄢˊㄅㄨˋ ㄋㄟˋㄖㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_3_185.wav|0|ㄨㄛˇㄇㄣ˙ ㄒㄧㄚˋㄑㄧˉ ㄗㄞˋㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_0.wav|0|ㄌㄠˇㄍㄜˉ ㄇㄣ˙ ㄉㄚˋㄐㄧㄚˉ ㄏㄠˇ, ㄨㄛˇ ㄕˋ ㄕㄥˋㄕㄤˋ ㄆㄧㄥˊㄆㄢˋ ㄍㄠˉㄝˊㄙˋㄞˋㄚˋ, ㄏㄨㄢˉㄧㄥˊ ㄕㄡˉㄎㄢˋ ㄓㄜˋ ㄧˉㄌㄨㄣˊ ㄉㄜ˙ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_1_1.wav|0|ㄒㄧㄚˋㄓㄡˉ ㄧㄡˇ ㄡˉㄍㄨㄢˉ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ, ㄙㄨㄛˇㄧˇ ㄅㄣˇㄓㄡˉ ㄧㄥˉㄔㄠˉ ㄌㄧㄢˊㄙㄞˋ ㄧㄡˇ ㄙˋㄓˉ ㄘㄢˉㄐㄧㄚˉ ㄡˉㄍㄨㄢˉ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄡˉ ㄏㄨㄟˋ ㄕㄡˋㄉㄠˋ ㄧˊㄉㄧㄥˋ ㄉㄜ˙ ㄧㄥˇㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_1_2.wav|0|ㄐㄧㄝˉㄒㄧㄚˋㄌㄞˊ ㄨㄛˇㄇㄣ˙ ㄐㄧㄡˋ ㄓㄨㄥˋㄉㄧㄢˇ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄅㄣˇㄌㄨㄣˊ ㄓㄜˋ ㄐㄧˇㄓˉ ㄘㄢˉㄩˋ ㄡˉㄍㄨㄢˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_3.wav|0|ㄕㄡˇㄒㄧㄢˉ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄡˉㄍㄨㄢˉ ㄉㄜ˙ ㄙㄞˋㄔㄥˊ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_1_4.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄉㄚˇ ㄐㄧㄚˉㄌㄚˉ, ㄓㄨˇㄔㄤˇ ㄉㄚˇㄐㄧㄚˉ ㄌㄚˉㄊㄚˇ ㄙㄚˋㄌㄟˊ, ㄚˉㄙㄣˉㄋㄚˋ ㄎㄜˋㄔㄤˇ ㄉㄚˇ ㄌㄤˇㄙˉ。
+./segmented_character_voice/alancao/alancao_1_5.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄗㄨˇ, ㄕㄡˇㄌㄨㄣˊ ㄧˇㄐㄧㄥˉ ㄙㄢˉㄅㄧˇ ㄙˋ ㄕㄨˉㄍㄟˇ ㄌㄜ˙ ㄅㄞˋ ㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_1_6.wav|0|ㄉㄢˋㄕˋ ㄊㄚˉㄇㄣ˙ ㄅㄧㄥˋ ㄅㄨˊㄕˋ ㄨㄢˊㄑㄩㄢˊ ㄇㄟˊㄧㄡˇ ㄔㄨˉㄒㄧㄢˋ ㄉㄜ˙ ㄎㄜˇㄋㄥˊ。
+./segmented_character_voice/alancao/alancao_1_7.wav|0|ㄧㄣˉㄨㄟˋ ㄐㄧㄚˉ ㄌㄚˉㄊㄚˇ ㄙㄚˋㄌㄟˊ, ㄍㄜˉㄅㄣˇㄏㄚˉㄍㄣˉ ㄉㄡˉ ㄕˋ ㄕˊㄌㄧˋ ㄅㄧˇㄐㄧㄠˋ ㄖㄨㄛˋ ㄉㄜ˙ ㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_8.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄙㄨㄟˉㄖㄢˊ ㄒㄧㄢˋㄗㄞˋ ㄉㄨㄟˋㄋㄟˋ ㄅㄧˇㄐㄧㄠˋ ㄉㄨㄥˋㄉㄤˋ, ㄉㄢˋㄕˋ ㄋㄚˊㄒㄧㄚˋ ㄓㄜˋ ㄌㄧㄤˇㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄨㄣˋㄊㄧˊ ㄑㄧˊㄕˊ ㄅㄧㄥˋㄅㄨˋㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_1_9.wav|0|ㄙㄨㄛˇㄧˇ ㄇㄢˋㄌㄧㄢˊ ㄉㄜ˙ ㄡˉㄍㄨㄢˉ ㄎㄣˇㄉㄧㄥˋ ㄏㄞˊㄕˋ ㄅㄨˊㄏㄨㄟˋ ㄈㄤˋㄑㄧˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_10.wav|0|ㄚˉㄙㄣˉㄋㄚˋ ㄕㄡˇㄌㄨㄣˊ ㄙˋㄅㄧˇ ㄌㄧㄥˊ ㄉㄚˋㄕㄥˋ ㄚˉㄧㄥˉ ㄏㄨㄛˋㄨㄣˉ。
+./segmented_character_voice/alancao/alancao_1_11.wav|0|ㄓㄜˋ ㄧˉㄌㄨㄣˊ ㄉㄚˇ ㄌㄤˇㄙˉ ㄧㄝˇ ㄕˋ ㄧˊㄍㄜˋ ㄋㄩㄝˋㄘㄞˋㄐㄩˊ, ㄧㄚˉㄌㄧˋ ㄅㄨˊㄏㄨㄟˋ ㄊㄜˋㄅㄧㄝˊ ㄉㄜ˙ ㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_1_12.wav|0|ㄌㄧㄥˋㄨㄞˋ ㄧˉㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄕˋ ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ, ㄓㄨˇㄔㄤˇ ㄧㄥˊㄓㄢˋ ㄉㄚˋ ㄅㄚˉㄌㄧˊ。
+./segmented_character_voice/alancao/alancao_1_13.wav|0|ㄓㄜˋ ㄧˉㄔㄤˇ ㄡˉㄍㄨㄢˉ ㄌㄧㄢˊㄙㄞˋ, ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄕˋ ㄈㄣˉ ㄗㄞˋ ㄌㄜ˙ ㄙˇㄨㄤˊ ㄓˉㄗㄨˇ。
+./segmented_character_voice/alancao/alancao_1_14.wav|0|ㄕㄡˇㄌㄨㄣˊ ㄅㄧˇㄙㄞˋ ㄌㄧㄥˊㄅㄧˇ ㄌㄧㄥˊ ㄓㄢˋㄆㄧㄥˊㄟˉㄙㄧˉ ㄇㄧˇㄌㄢˊ。
+./segmented_character_voice/alancao/alancao_1_15.wav|0|ㄧㄠˋ ㄒㄧㄤˇ ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄙˇㄨㄤˊ ㄓˉㄗㄨˇ ㄔㄨˉㄒㄧㄢˋ ㄉㄜ˙ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_1_16.wav|0|ㄋㄚˋㄇㄜ˙ ㄉㄚˇ ㄉㄨㄛˉㄊㄜˋㄇㄥˊㄉㄜˊ ㄉㄜ˙ ㄌㄧㄤˇㄔㄤˇ ㄕˋ ㄅㄧˋㄒㄩˉ ㄧㄠˋ ㄋㄚˊㄒㄧㄚˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_17.wav|0|ㄖㄢˊㄏㄡˋ ㄉㄚˇ ㄅㄚˉㄌㄧˊ ㄉㄜ˙ㄏㄨㄚˋ ㄧㄝˇ ㄧㄠˋ ㄓㄥˉㄑㄩˇ ㄐㄧㄣˇㄌㄧㄤˋ ㄋㄚˊㄈㄣˉ。
+./segmented_character_voice/alancao/alancao_1_18.wav|0|ㄙㄨㄛˇㄧˇ ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄓㄜˋㄓㄡˉ ㄡˉㄍㄨㄢˉ ㄉㄜ˙ ㄧㄚˉㄌㄧˋ ㄧㄥˉㄍㄞˉ ㄕˋ ㄗㄨㄟˋㄉㄚˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_19.wav|0|ㄇㄢˋㄔㄥˊ ㄉㄚˇ ㄌㄞˊㄅㄧˇㄒㄧˉ ㄇㄟˊㄧㄡˇ ㄕㄣˊㄇㄜ˙ ㄒㄩㄢˊㄋㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_20.wav|0|ㄌㄧㄤˇㄍㄜˋ ㄉㄨㄟˋㄕㄤˋ ㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄐㄧㄡˋ ㄐㄧㄠˉㄈㄥˉ ㄍㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_1_21.wav|0|ㄇㄢˋㄔㄥˊ ㄉㄤˉㄕˊ ㄓㄨˇㄔㄤˇ ㄏㄞˊㄕˋ ㄑㄧˉㄅㄧˇ ㄌㄧㄥˊ ㄊㄨˊㄕㄚˉ ㄌㄜ˙ ㄌㄞˊㄅㄧˇㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_1_22.wav|0|ㄌㄞˊㄅㄧˇㄒㄧˉ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄕˊㄌㄧˋ ㄏㄞˊㄕˋ ㄐㄧˋㄒㄩˋ ㄇㄞˋㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_1_23.wav|0|ㄕˊㄌㄧˋ ㄐㄧㄣˋㄧˊㄅㄨˋ ㄒㄩㄝˉㄖㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_1_24.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋ ㄧˉㄔㄤˇ ㄧㄝˇ ㄇㄟˊㄧㄡˇ ㄖㄣˋㄏㄜˊ ㄉㄜ˙ ㄒㄩㄢˊㄋㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_25.wav|0|ㄗㄨㄥˇㄊㄧˇ ㄌㄞˊㄎㄢˋ。
+./segmented_character_voice/alancao/alancao_1_26.wav|0|ㄙˋㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄇㄢˋㄌㄧㄢˊ ㄏㄜˊ ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ。
+./segmented_character_voice/alancao/alancao_1_27.wav|0|ㄊㄚˉㄇㄣ˙ ㄗㄞˋ ㄡˉㄍㄨㄢˉ ㄅㄧˇㄙㄞˋ ㄧㄚˉㄌㄧˋ ㄅㄧˇㄐㄧㄠˋ ㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_1_28.wav|0|ㄒㄩˉㄧㄠˋ ㄐㄧㄣˋㄒㄧㄥˊ ㄧˊㄉㄧㄥˋ ㄉㄜ˙ ㄌㄧㄡˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_29.wav|0|ㄦˊ ㄚˉㄙㄣˉㄋㄚˋ ㄏㄜˊ ㄇㄢˋㄔㄥˊ ㄉㄜ˙ ㄙㄞˋㄔㄥˊ ㄗㄜˊ ㄒㄧㄤˉㄉㄨㄟˋ ㄅㄧˇㄐㄧㄠˋ ㄑㄧㄥˉㄙㄨㄥˉ ㄧˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_30.wav|0|ㄩㄢˊㄗㄜˊㄕㄤˋ ㄌㄞˊㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_1_31.wav|0|ㄐㄧㄡˋㄕˋㄕㄨㄛˉ ㄘㄢˉㄐㄧㄚˉ ㄡˉㄍㄨㄢˉ ㄉㄜ˙ ㄓㄜˋㄒㄧㄝˉ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_32.wav|0|ㄗㄞˋ ㄓㄜˋ ㄧˉㄌㄨㄣˊ ㄌㄧㄢˊㄙㄞˋ ㄌㄧˇ ㄉㄡˉ ㄏㄨㄟˋ ㄧㄡˇㄙㄨㄛˇ ㄅㄠˇㄌㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_33.wav|0|ㄗㄣˇㄇㄜ˙ ㄧˇ ㄗㄨㄟˋㄒㄧㄠˇ ㄉㄜ˙ ㄉㄞˋㄐㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_34.wav|0|ㄗㄨㄟˋㄒㄧㄠˇ ㄉㄜ˙ ㄊㄧˇㄋㄥˊ ㄒㄧㄠˉㄏㄠˋ。
+./segmented_character_voice/alancao/alancao_1_35.wav|0|ㄧˊㄍㄜˋ ㄑㄧㄡˊ ㄋㄚˊㄒㄧㄚˋ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_36.wav|0|ㄓㄜˋㄕˋ ㄊㄚˉㄇㄣ˙ ㄗㄨㄟˋㄉㄚˋ ㄉㄜ˙ ㄓㄨㄟˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_37.wav|0|ㄔㄨㄢˉㄆㄢˊ ㄉㄜ˙ ㄧˋㄩㄢˋ ㄧㄝˇ ㄅㄨˊㄏㄨㄟˋ ㄑㄧㄤˊㄌㄧㄝˋ。
+./segmented_character_voice/alancao/alancao_1_38.wav|0|ㄙㄨㄛˇㄧˇ ㄕㄨㄛˉ ㄑㄩˋ ㄓㄜˋ ㄙˋㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_39.wav|0|ㄨㄛˇㄇㄣ˙ ㄒㄩˉㄧㄠˋ ㄍㄜˊㄨㄞˋ ㄉㄜ˙ ㄒㄧㄠˇㄒㄧㄣˉ ㄧˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_40.wav|0|ㄒㄧㄚˋㄇㄧㄢˋ ㄨㄛˇㄇㄣ˙ ㄐㄧㄡˋ ㄌㄞˊ ㄏㄨㄟˊㄉㄠˋ ㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄧㄥˉㄔㄠˉ ㄙㄞˋㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_1_41.wav|0|ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄉㄨㄟˋㄓㄣˋ ㄚˉㄙㄣˉㄋㄚˋ。
+./segmented_character_voice/alancao/alancao_1_42.wav|0|ㄚˉㄙㄣˉㄋㄚˋ ㄒㄧㄢˋㄗㄞˋ ㄉㄜ˙ ㄕㄤˉㄅㄧㄥˋ ㄑㄧㄥˊㄎㄨㄤˋ ㄅㄧˇㄐㄧㄠˋㄧㄢˊㄓㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_1_43.wav|0|ㄊㄨㄛˉㄙㄚˋㄉㄜˊ  ㄇㄚˇㄉㄧㄥˉ ㄋㄟˋㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_44.wav|0|ㄌㄧㄤˇㄍㄜˋ ㄋㄥˊ ㄉㄚˇ ㄗㄨㄛˇㄌㄨˋ ㄧㄡˇ ㄊㄨˉㄆㄛˋ ㄋㄥˊㄌㄧˋ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_45.wav|0|ㄉㄡˉ ㄕˋ ㄧㄡˇㄕㄤˉ ㄗㄞˋ ㄕㄣˉ。
+./segmented_character_voice/alancao/alancao_1_46.wav|0|ㄖㄢˊㄏㄡˋ ㄕㄤˋㄓㄡˉ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄏㄞˊ ㄓㄜˊ ㄌㄜ˙ ㄌㄞˋㄙˉ。
+./segmented_character_voice/alancao/alancao_1_47.wav|0|ㄐㄩˋㄕㄨㄛˉ ㄇㄨˋㄑㄧㄢˊ ㄐㄩˋㄕㄨㄛˉ ㄙㄚˋㄎㄚˇㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_1_48.wav|0|ㄎㄜˇㄋㄥˊ ㄧㄝˇ ㄉㄚˇ ㄅㄨˋㄌㄧㄠˇ。
+./segmented_character_voice/alancao/alancao_1_49.wav|0|ㄙㄨㄛˇㄧˇ ㄚˉㄙㄣˉㄋㄚˋ ㄒㄧㄢˋㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄕㄤˉㄅㄧㄥˋ ㄑㄧㄥˊㄎㄨㄤˋ ㄅㄧˇㄐㄧㄠˋㄧㄢˊㄓㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_1_50.wav|0|ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄓㄜˋㄅㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_1_51.wav|0|ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄕㄤˋㄓㄡˉ ㄧㄡˇ ㄧˊㄍㄜˋ ㄓㄨㄥˋㄅㄤˋ ㄧㄢˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_52.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄎㄜˇㄋㄥˊ ㄅㄨˊㄕˋ ㄏㄣˇ ㄌㄧㄠˇㄐㄧㄝˇ。
+./segmented_character_voice/alancao/alancao_1_53.wav|0|ㄊㄚˉ ㄘㄨㄥˊ ㄌㄧˋㄗˉㄌㄧㄢˊ ㄧㄣˇㄐㄧㄣˋ ㄌㄜ˙ ㄊㄞˋㄌㄟˉ ㄧㄚˋㄉㄤˉㄙˉ。
+./segmented_character_voice/alancao/alancao_1_54.wav|0|ㄊㄞˋㄌㄟˉ ㄧㄚˋㄉㄤˉㄙˉ ㄕˋ ㄧˊㄍㄜˋ ㄈㄟˉㄔㄤˊ ㄋㄧㄢˊㄑㄧㄥˉ ㄉㄜ˙ ㄧˊㄍㄜˋ ㄏㄡˋㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_1_55.wav|0|ㄎㄜˇㄧˇ ㄅㄚˇ ㄊㄚˉ ㄌㄧˇㄐㄧㄝˇ ㄨㄟˋ ㄕˋ ㄧˊㄍㄜˋ ㄕㄢˉㄓㄞˋ ㄅㄢˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_56.wav|0|ㄅㄨˋ ㄐㄧㄠˋ ㄕㄢˉㄓㄞˋ ㄅㄢˇ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_1_57.wav|0|ㄑㄧˇㄍㄞˋ ㄅㄢˇ ㄉㄜ˙ ㄎㄢˇㄊㄜˋ。
+./segmented_character_voice/alancao/alancao_1_58.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄉㄚˋㄐㄧㄚˉ ㄑㄩˋ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄉㄜ˙ ㄕㄨˋㄐㄩˋ。
+./segmented_character_voice/alancao/alancao_1_59.wav|0|ㄊㄚˉ ㄗㄞˋ ㄕㄤˋ ㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄧㄥˉㄔㄠˉ ㄑㄧㄤˇㄉㄨㄢˋ ㄈㄤˊㄕㄡˇ ㄈㄤˉㄇㄧㄢˋ ㄉㄜ˙ ㄍㄜˋㄒㄧㄤˋ ㄕㄨˋㄐㄩˋ。
+./segmented_character_voice/alancao/alancao_1_60.wav|0|ㄉㄡˉ ㄈㄟˉㄔㄤˊ ㄉㄜ˙ ㄈㄟˉㄔㄤˊ ㄉㄜ˙ ㄐㄧㄥˉㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_1_61.wav|0|ㄕˋ ㄧˉㄇㄧㄥˊ ㄕˊㄌㄧˋㄆㄞˋ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_62.wav|0|ㄊㄚˉ ㄕㄤˋ ㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄨㄥˋㄕㄤˉ ㄙㄞˋㄐㄧˋ ㄅㄠˋㄒㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_1_63.wav|0|ㄧㄝˇ ㄓˊㄐㄧㄝˉ ㄉㄠˇㄓˋ ㄌㄜ˙ ㄌㄧˋㄓˋ ㄌㄧㄢˊ ㄉㄜ˙ ㄐㄧㄤˋㄐㄧˊ。
+./segmented_character_voice/alancao/alancao_1_64.wav|0|ㄎㄜˇㄧˇ ㄍㄨㄢˉㄓㄨˋ ㄧˉㄒㄧㄚˋ ㄓㄜˋㄇㄧㄥˊ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_65.wav|0|ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄓㄜˋㄍㄜˋ ㄒㄧㄚˋㄔㄨㄤˉ ㄗㄨㄥˇㄐㄧˋ ㄉㄜ˙ ㄧㄥˇㄩㄢˊ ㄊㄡˊㄖㄨˋ ㄈㄟˉㄔㄤˊ ㄉㄜ˙ ㄉㄚˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_66.wav|0|ㄧˇㄐㄧㄥˉ ㄧˇㄐㄧㄥˉ ㄔㄠˉㄍㄨㄛˋ ㄌㄜ˙ ㄧˊㄍㄜˋㄧˋ。
+./segmented_character_voice/alancao/alancao_1_67.wav|0|ㄑㄧˊㄕˊ ㄕˊㄌㄧˋ ㄕˋ ㄧㄡˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_68.wav|0|ㄓㄜˋㄍㄜˋ ㄉㄨㄟˋ ㄙㄨㄛˇㄧˇ ㄓㄜˋㄧㄤˋ ㄅㄧˇㄙㄞˋ ㄎㄠˇㄌㄩˋ ㄉㄠˋ ㄚˉㄙㄣˉㄋㄚˋ ㄉㄜ˙ ㄕㄤˉㄅㄧㄥˋ ㄑㄧㄥˊㄎㄨㄤˋ ㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_1_69.wav|0|ㄏㄜˊ ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄉㄜ˙ ㄕˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_70.wav|0|ㄇㄨˋㄑㄧㄢˊ ㄕˋㄔㄤˇ ㄉㄧㄥˋㄐㄧㄚˋ ㄚˉㄙㄣˉㄋㄚˋ ㄎㄜˋㄔㄤˇ ㄓˇ ㄖㄤˋㄔㄨˉ ㄧˊㄍㄜˋ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_71.wav|0|ㄅㄨˋ ㄐㄧㄢˋㄧˋ ㄑㄩˋ ㄚˉㄙㄣˉㄋㄚˋ。
+./segmented_character_voice/alancao/alancao_1_72.wav|0|ㄧㄣˉㄨㄟˋ ㄓㄜˋㄔㄤˇ ㄑㄧㄡˊㄧㄠˋ ㄉㄧˉㄈㄤˊ ㄧˉㄒㄧㄚˋ ㄅㄛˊㄣˉㄇㄠˊ ㄙˉ ㄅㄠˋㄌㄥˇ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_1_73.wav|0|ㄐㄧㄝˉㄒㄧㄚˋㄌㄞˊ ㄞˉㄈㄨˊㄉㄨㄣˋ ㄉㄚˇㄌㄨˊㄉㄨㄣˋ。
+./segmented_character_voice/alancao/alancao_1_74.wav|0|ㄐㄧㄢˇㄉㄢˉ ㄕㄨㄛˉ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_75.wav|0|ㄌㄨˊㄉㄨㄣˋ ㄕㄤˋㄓㄡˉ ㄕˋ ㄗㄞˋ ㄓㄨˇㄔㄤˇ ㄘㄞˊㄆㄢˋ ㄕㄣˉㄕㄤˋ ㄕˋ ㄓㄢˋ ㄗㄨˊ ㄌㄜ˙ ㄆㄧㄢˊㄧ˙ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_76.wav|0|ㄓㄜˋㄔㄤˇ ㄘㄞˊㄆㄢˋ ㄎㄣˇㄉㄧㄥˋ ㄅㄤˉㄅㄨˋㄌㄧㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_77.wav|0|ㄓˊㄐㄧㄝˉ ㄎㄢˋㄏㄠˇ ㄞˉㄈㄨˊㄉㄨㄣˋ ㄐㄧㄡˋ ㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_78.wav|0|ㄎㄜˇㄧˇ ㄓㄜˋㄔㄤˇ ㄕˋ ㄊㄨㄟˉㄐㄧㄢˋ ㄞˉㄈㄨˊㄉㄨㄣˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_79.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄉㄚˇ ㄕㄨㄟˇㄐㄧㄥˉ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_80.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄗㄞˋ ㄌㄧㄢˊㄙㄞˋ ㄅㄟˉ ㄍㄤˉㄍㄤˉ ㄉㄚˇ ㄍㄨㄛˋ ㄕㄨㄟˇㄐㄧㄥˉ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_81.wav|0|ㄓㄜˋㄓㄨㄥˇ ㄅㄟˋㄎㄠˋㄅㄟˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_82.wav|0|ㄗㄞˋ ㄗㄨˊㄑㄧㄡˊ ㄌㄧˇ ㄕˋ ㄅㄧㄥˋ ㄅㄨˊㄕˋ ㄘㄞˊ ㄔㄤˊㄐㄧㄢˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_83.wav|0|ㄨㄛˇㄇㄣ˙ ㄧㄣˋㄒㄧㄤˋ ㄓㄨㄥˉ ㄗㄨㄟˋㄕㄣˉ ㄉㄜ˙ ㄐㄧㄡˋㄕˋ ㄧˇㄑㄧㄢˊ ㄏㄨㄤˊㄇㄚˇ ㄏㄜˊ ㄅㄚˉ ㄙㄞˋㄋㄨㄛˋ ㄋㄚˋ。
+./segmented_character_voice/alancao/alancao_1_84.wav|0|ㄐㄧㄥˉㄔㄤˊ ㄉㄚˇㄔㄨˉ ㄧˉㄒㄧㄝˉ ㄅㄟˋㄎㄠˋㄅㄟˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_85.wav|0|ㄡˉㄍㄨㄢˉ ㄉㄚˇ ㄨㄢˊ ㄉㄚˇ ㄍㄨㄛˊㄨㄤˊㄅㄟˉ。
+./segmented_character_voice/alancao/alancao_1_86.wav|0|ㄍㄨㄛˊㄨㄤˊㄅㄟˉ ㄉㄚˇ ㄨㄢˊ ㄉㄚˇ ㄌㄧㄢˊㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_87.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄔㄤˇ ㄉㄜ˙ ㄕˋㄔㄤˇ ㄉㄧㄥˋㄐㄧㄚˋ ㄐㄧㄡˋ ㄅㄧˇㄐㄧㄠˋ ㄧㄡˇㄧˋㄙˉ。
+./segmented_character_voice/alancao/alancao_1_88.wav|0|ㄨㄛˇㄇㄣ˙ ㄎㄜˇㄧˇ ㄎㄢˋ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_89.wav|0|ㄗㄞˋ ㄓㄡˉㄓㄨㄥˉ ㄉㄚˇ ㄌㄧㄢˊㄙㄞˋ ㄅㄟˉ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_90.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄕˋ ㄖㄤˋ ㄌㄧㄥˊㄉㄧㄢˇ ㄑㄧˉ ㄨˇㄍㄜˋ ㄑㄧㄡˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_91.wav|0|ㄉㄤˉㄕˊ ㄓˇ ㄖㄤˋ ㄌㄧㄥˊㄉㄧㄢˇ ㄑㄧˉ ㄨˇㄍㄜˋ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_92.wav|0|ㄐㄧㄝˊㄍㄨㄛˇ ㄙㄢˉㄅㄧˇ ㄌㄧㄥˊ ㄨㄢˊㄕㄥˋ ㄕㄨㄟˇㄐㄧㄥˉ ㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_93.wav|0|ㄋㄚˋㄇㄜ˙ ㄐㄧㄣˉㄊㄧㄢˉ ㄌㄧㄢˊㄙㄞˋ ㄌㄧˇ ㄍㄟˇㄔㄨˉ ㄉㄜ˙ ㄖㄤˋㄅㄨˋ ㄐㄧㄡˋ ㄗㄥˉㄐㄧㄚˉ ㄌㄜ˙ ㄧˊㄍㄜˋ ㄌㄧㄥˊㄉㄧㄢˇ ㄦˋㄨˇ。
+./segmented_character_voice/alancao/alancao_1_94.wav|0|ㄐㄧㄡˋ ㄉㄨㄛˉㄐㄧㄚˉ ㄌㄜ˙ ㄧˊㄍㄜˋ ㄌㄧㄥˊㄉㄧㄢˇ ㄦˋㄨˇ。
+./segmented_character_voice/alancao/alancao_1_95.wav|0|ㄕˊㄐㄧˋㄕㄤˋ ㄖㄨˊㄍㄨㄛˇ ㄅㄨˋ ㄎㄠˇㄌㄩˋ ㄡˉㄍㄨㄢˉ ㄉㄜ˙ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_1_96.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄓㄜˋㄔㄤˇ ㄧㄥˉㄍㄞˉ ㄕˋ ㄎㄜˇㄧˇ ㄖㄤˋㄔㄨˉ ㄧˋㄉㄧㄢˇ ㄦˋㄨˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_97.wav|0|ㄉㄢˋㄕˋ ㄎㄠˇㄌㄩˋ ㄉㄠˋ ㄊㄚˉ ㄡˉㄍㄨㄢˉㄧㄡˇ ㄧˉㄓㄨㄥˇ ㄅㄧˇㄐㄧㄠˋ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_98.wav|0|ㄙㄨㄛˇㄧˇ ㄐㄧˉㄍㄡˋ ㄧㄝˇ ㄗㄞˋ ㄉㄧㄥˋㄐㄧㄚˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_99.wav|0|ㄐㄧㄝˊㄏㄜˊ ㄌㄜ˙ ㄓㄜˋㄍㄜˋ ㄎㄠˇㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_1_100.wav|0|ㄧㄡˋ ㄐㄧㄤˋ ㄌㄜ˙ ㄌㄧㄥˊㄉㄧㄢˇ ㄦˋㄨˇ。
+./segmented_character_voice/alancao/alancao_1_101.wav|0|ㄙㄨㄛˇㄧˇ ㄗㄨㄟˋㄓㄨㄥˉ ㄕˋ ㄖㄤˋㄔㄨˉ ㄧˊㄍㄜˋ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_102.wav|0|ㄉㄢˋ ㄓㄜˋㄓㄨㄥˇ ㄅㄧˇㄙㄞˋ ㄇㄢˋㄌㄧㄢˊ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄐㄧㄡˋㄕˋㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_1_103.wav|0|ㄕˋ ㄍㄜˋ ㄉㄧㄢˇㄒㄧㄥˊ ㄉㄜ˙ ㄍㄠˉ ㄅㄛˉㄉㄨㄥˋㄒㄧㄥˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_104.wav|0|ㄊㄚˉ ㄧㄠˋㄅㄨˋㄖㄢˊ ㄐㄧㄡˋ ㄍㄟˇ ㄋㄧˇ ㄉㄚˇㄔㄨˉ ㄧˊㄍㄜˋ ㄔㄠˉ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_1_105.wav|0|ㄐㄧㄡˋ ㄒㄧㄤˋ ㄓㄡˉㄓㄨㄥˉ ㄉㄜ˙ ㄙㄢˉ ㄅㄧˇ ㄌㄧㄥˊ ㄧˉㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_1_106.wav|0|ㄧㄠˋㄅㄨˋㄖㄢˊ ㄍㄟˇ ㄋㄧˇ ㄔㄠˉ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_1_107.wav|0|ㄧㄠˋㄅㄨˋㄖㄢˊ ㄐㄧㄡˋㄕˋ ㄐㄧˊㄉㄚˋ ㄉㄜ˙ ㄉㄧˉㄩˊ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_1_108.wav|0|ㄓˊㄐㄧㄝˉ ㄅㄠˋㄌㄥˇ。
+./segmented_character_voice/alancao/alancao_1_109.wav|0|ㄆㄧㄥˊㄉㄧㄠˋ ㄏㄨㄛˋㄓㄜˇ ㄕㄨˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_110.wav|0|ㄨㄛˇㄇㄣ˙ ㄗㄞˋ ㄨㄢˊㄑㄧㄡˊ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_111.wav|0|ㄓㄜˋㄓㄨㄥˇ ㄍㄠˉ ㄅㄛˉㄉㄨㄥˋㄒㄧㄥˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_112.wav|0|ㄕˋ ㄨㄛˇㄇㄣ˙ ㄈㄟˉㄔㄤˊ ㄊㄠˇㄧㄢˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_113.wav|0|ㄨㄛˇㄇㄣ˙ ㄒㄩˉㄧㄠˋ ㄉㄜ˙ ㄕˋ ㄋㄚˋㄓㄨㄥˇ ㄑㄩㄝˋㄉㄧㄥˋㄒㄧㄥˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_114.wav|0|ㄐㄧㄡˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄇㄟˊㄧㄡˇ ㄕㄣˊㄇㄜ˙ ㄅㄛˉㄉㄨㄥˋㄒㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_1_115.wav|0|ㄊㄚˉ ㄗㄨㄥˇㄕˋ ㄋㄥˊ ㄉㄚˇㄔㄨˉ ㄈㄨˊㄏㄜˊ ㄩˋㄑㄧˉ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_116.wav|0|ㄨㄛˇㄐㄩˇ ㄧˊㄍㄜˋ ㄉㄧㄢˇㄒㄧㄥˊ ㄌㄧˋㄗ˙。
+./segmented_character_voice/alancao/alancao_1_117.wav|0|ㄨㄟˋㄕㄣˊㄇㄜ˙ ㄨㄛˇ ㄋㄚˋㄇㄜ˙ ㄒㄧˇㄏㄨㄢˉ ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ。
+./segmented_character_voice/alancao/alancao_1_118.wav|0|ㄐㄧㄡˋㄕˋ ㄧㄣˉㄨㄟˋ ㄊㄚˉ ㄓㄜˋㄍㄜˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄇㄟˊㄕㄣˊㄇㄜ˙ ㄅㄛˉㄉㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_1_119.wav|0|ㄊㄚˉ ㄧˋㄓˊ ㄉㄡˉ ㄕˋ ㄈㄨˊㄏㄜˊ ㄩˋㄑㄧˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_120.wav|0|ㄊㄚˉ ㄉㄜ˙ ㄕㄤˋㄒㄧㄢˋ ㄏㄜˊ ㄒㄧㄚˋㄒㄧㄢˋ ㄓˉㄐㄧㄢˉ ㄉㄜ˙ ㄅㄛˉㄉㄨㄥˋ ㄅㄨˊㄏㄨㄟˋ ㄊㄞˋ ㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_1_121.wav|0|ㄙㄨㄛˇㄧˇ ㄇㄢˋㄌㄧㄢˊ ㄉㄚˇ ㄕㄨㄟˇㄌㄧㄥˊ ㄨㄤˊ ㄓㄜˋㄧㄤˋ ㄅㄨˋ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_122.wav|0|ㄅㄨˋ ㄐㄧㄢˋㄧˋ ㄘㄢˉㄩˋ。
+./segmented_character_voice/alancao/alancao_1_123.wav|0|ㄎㄢˋㄎㄢˋ ㄐㄧㄡˋ ㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_124.wav|0|ㄎㄢˋㄖㄜˋㄋㄠˋ ㄐㄧㄡˋ ㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_125.wav|0|ㄨㄤˇ ㄏㄨㄥˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_126.wav|0|ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄉㄚˇ ㄅㄛˊㄣˉ ㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_127.wav|0|ㄕㄤˋㄓㄡˉ ㄨㄛˇ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ ㄓㄜˋㄍㄜˋ ㄐㄧㄝˊㄇㄨˋ。
+./segmented_character_voice/alancao/alancao_1_128.wav|0|ㄨㄛˇ ㄗㄨㄛˋ ㄨㄢˊ ㄧˇㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_129.wav|0|ㄨㄛˇ ㄉㄤˉㄕˊ ㄧㄝˇ ㄍㄟˇ ㄞˋㄉㄧˊ ㄏㄠˊㄉㄚˇ ㄌㄜ˙ ㄧˊㄍㄜˋ ㄉㄧㄢˋㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_1_130.wav|0|ㄨㄛˇ ㄐㄧㄠˋ ㄊㄚˉ ㄎㄢˋ ㄌㄜ˙ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_131.wav|0|ㄊㄚˉ ㄧㄝˇ ㄊㄧㄥˉㄑㄩˇ ㄌㄜ˙ ㄨㄛˇ ㄉㄜ˙ ㄐㄧㄢˋㄧˋ。
+./segmented_character_voice/alancao/alancao_1_132.wav|0|ㄐㄧㄡˋㄕˋ ㄓˊㄐㄧㄝˉ ㄅㄚˇ ㄊㄨㄛˉㄋㄚˋㄌㄧˋ ㄈㄤˋㄗㄞˋ ㄊㄧˋㄅㄨˇㄒㄧˊ ㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_1_133.wav|0|ㄅㄨˊㄧㄠˋ ㄖㄤˋ ㄊㄚˉ ㄏㄜˊ ㄐㄧˉㄇㄚˇㄌㄧㄤˊㄙˉ ㄊㄨㄥˊㄕˊ ㄕㄡˇㄈㄚˉ。
+./segmented_character_voice/alancao/alancao_1_134.wav|0|ㄓㄜˋㄧㄤˋ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_135.wav|0|ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄧㄝˇ ㄉㄚˇㄔㄨˉ ㄧˉㄔㄤˇ ㄏㄢˉㄔㄤˋㄌㄧㄣˊㄌㄧˊ ㄉㄜ˙ ㄉㄚˋㄕㄥˋ。
+./segmented_character_voice/alancao/alancao_1_136.wav|0|ㄅㄚˉㄅㄧˇ ㄌㄧㄥˊ ㄒㄩㄝˋㄒㄧˇ ㄒㄧㄝˋㄨㄟˊㄌㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_1_137.wav|0|ㄓㄜˋㄓㄡˉ ㄧㄡˋ ㄕˋ ㄇㄧㄢˋㄉㄨㄟˋ ㄌㄧㄥˋ ㄧˊㄍㄜˋ ㄅㄧˇㄐㄧㄠˋ ㄖㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_1_138.wav|0|ㄕˊㄌㄧˋ ㄅㄧˇㄐㄧㄠˋ ㄖㄨㄛˋ ㄉㄜ˙ ㄅㄠˇㄐㄧˊ ㄉㄨㄟˋ ㄅㄛˊㄣˉ ㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_139.wav|0|ㄅㄛˊㄣˉ ㄌㄧˋ ㄓㄨˇㄧㄠˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ ㄐㄧㄡˋㄕˋ ㄊㄚˉ ㄓㄜˋㄊㄠˋ ㄉㄚˇㄈㄚˇ。
+./segmented_character_voice/alancao/alancao_1_140.wav|0|ㄓㄜˋㄊㄠˋ ㄉㄧˋㄇㄧㄢˋ ㄔㄨㄢˊㄎㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_1_141.wav|0|ㄇㄢˋㄇㄢˋㄊㄨㄣˉㄊㄨㄣˉ ㄉㄜ˙ ㄏㄡˋㄔㄤˇ ㄔㄨˉ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_142.wav|0|ㄖㄢˊㄏㄡˋ ㄉㄚˇ ㄉㄠˋ ㄑㄧㄢˊㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_1_143.wav|0|ㄉㄚˇㄈㄚˇ ㄗㄞˋ ㄧㄥˉㄍㄨㄢˉ ㄔˉㄉㄜ˙ㄎㄞˉ。
+./segmented_character_voice/alancao/alancao_1_144.wav|0|ㄉㄢˋㄕˋ ㄉㄠˋ ㄌㄜ˙ ㄧㄥˉㄔㄠˉ。
+./segmented_character_voice/alancao/alancao_1_145.wav|0|ㄋㄚˋ ㄋㄧˇ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ ㄕˊㄌㄧˋ ㄓㄣˉㄉㄜ˙ ㄐㄧㄡˋ ㄅㄨˋㄍㄡˋㄎㄢˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_146.wav|0|ㄋㄧˇ ㄗㄞˋ ㄓㄜˋㄓㄨㄥˇ ㄔㄨㄢˊㄑㄧㄝˋ ㄍㄨㄛˋㄔㄥˊ ㄓㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_147.wav|0|ㄋㄧˇ ㄓˇㄧㄠˋ ㄧㄡˇ ㄕㄠˉㄨㄟˉ ㄧㄡˇ ㄧˊㄍㄜˋ ㄑㄧㄡˊㄩㄢˊ ㄋㄥˊㄌㄧˋ ㄅㄨˋㄍㄡˋ。
+./segmented_character_voice/alancao/alancao_1_148.wav|0|ㄋㄧˇ ㄉㄜ˙ㄝˊㄈㄨˋㄞˋㄚˋㄝˊㄙˋㄊㄧˋ ㄊㄧˋㄡˉㄧㄡˉㄙㄧˉㄝˇㄑㄩˋ ㄇㄟˊㄧㄡˇ ㄔㄨˇㄌㄧˇ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_1_149.wav|0|ㄋㄧˇ ㄇㄚˇㄕㄤˋ ㄐㄧㄡˋㄕˋ ㄉㄧㄡˉㄑㄧㄡˊ ㄅㄟˋ ㄉㄚˇ ㄈㄢˇㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_1_150.wav|0|ㄙㄨㄛˇㄧˇ ㄊㄚˉ ㄖㄨˊㄍㄨㄛˇ ㄐㄧㄢˉㄔˊ ㄓㄜˋㄓㄨㄥˇ ㄉㄚˇㄈㄚˇ ㄉㄜ˙ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_1_151.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄧㄥˉㄔㄠˉ ㄉㄜ˙ ㄅㄠˇㄐㄧˊ ㄑㄧㄢˊㄐㄧㄥˇ。
+./segmented_character_voice/alancao/alancao_1_152.wav|0|ㄓㄣˉㄉㄜ˙ ㄧㄝˇ ㄅㄨˊㄕˋ ㄏㄣˇ ㄌㄜˋㄍㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_1_153.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄔㄤˇ ㄑㄧㄡˊ ㄅㄛˊㄣˉ ㄌㄧˋ ㄑㄧˊㄕˊ ㄕˋ ㄇㄟˊㄧㄡˇ ㄖㄣˋㄏㄜˊ ㄐㄧˉㄏㄨㄟˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_154.wav|0|ㄨㄟˊㄧˉ ㄉㄜ˙ ㄒㄧㄚˊㄘˉ ㄗㄞˋㄩˊ ㄐㄧˉㄍㄡˋ ㄉㄧㄥˋㄐㄧㄚˋ ㄍㄟˇ ㄉㄜ˙ ㄍㄨㄛˋ ㄍㄠˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_155.wav|0|ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄖㄤˋ ㄧˋㄉㄧㄢˇ ㄨˇ。
+./segmented_character_voice/alancao/alancao_1_156.wav|0|ㄎㄠˇㄌㄩˋ ㄉㄠˋ ㄋㄧㄡˇㄎㄚˇㄙˉㄦˇ ㄓㄡˉㄓㄨㄥˉㄧㄠˋ ㄉㄚˇㄉㄚˋ ㄅㄚˉㄌㄧˊ。
+./segmented_character_voice/alancao/alancao_1_157.wav|0|ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄊㄚˉ ㄎㄜˇㄋㄥˊ ㄏㄞˊㄕˋ ㄐㄧㄡˋ ㄧㄥˊ ㄧˊㄍㄜˋ ㄑㄧㄡˊ ㄐㄧㄡˋ ㄍㄡˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_158.wav|0|ㄏㄨㄟˋ ㄌㄧㄡˊㄌㄧˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_159.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄓㄨㄥˇ ㄅㄧˇㄙㄞˋ ㄨㄛˇㄇㄣ˙ ㄧㄝˇ ㄅㄨˋ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_160.wav|0|ㄌㄤˊㄉㄨㄟˋ ㄉㄚˇ ㄇㄢˋㄔㄥˊ。
+./segmented_character_voice/alancao/alancao_1_161.wav|0|ㄇㄢˋㄔㄥˊ ㄓㄡˉㄓㄨㄥˉㄧㄠˋ ㄋㄩㄝˋㄘㄞˋ。
+./segmented_character_voice/alancao/alancao_1_162.wav|0|ㄡˉㄍㄨㄢˉㄧㄠˋ ㄋㄩㄝˋㄘㄞˋ。
+./segmented_character_voice/alancao/alancao_1_163.wav|0|ㄑㄧˊㄕˊ ㄕㄨˊㄒㄧˉ ㄨㄛˇ ㄉㄜ˙ ㄆㄥˊㄧㄡˇ ㄎㄜˇㄧˇ ㄓˉㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_1_164.wav|0|ㄋㄧˇ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄨㄛˇ ㄍㄨㄛˋㄨㄤˇ ㄋㄚˋㄇㄜ˙ ㄉㄨㄛˉㄑㄧˉ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_1_165.wav|0|ㄌㄧㄤˇㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ。
+./segmented_character_voice/alancao/alancao_1_166.wav|0|ㄨㄛˇ ㄐㄧˉㄅㄣˇㄕㄤˋ ㄘㄨㄥˊㄌㄞˊㄅㄨˋ ㄆㄥˋ ㄇㄢˋㄔㄥˊ ㄓㄜˋㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_167.wav|0|ㄩㄢˊㄧㄣˉ ㄨㄛˇ ㄧˇㄑㄧㄢˊ ㄧㄝˇ ㄕㄨㄛˉ ㄍㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_1_168.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄉㄚˋㄐㄧㄚˉ ㄧㄝˇ ㄐㄧㄡˋ ㄎㄢˋㄎㄢˋ ㄐㄧㄡˋ ㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_1_169.wav|0|ㄇㄢˋㄔㄥˊ ㄨㄛˇ ㄓㄜˋㄍㄜˋ ㄉㄨㄟˋ ㄨㄛˇ ㄕˋ ㄘㄨㄥˊㄌㄞˊㄅㄨˋ ㄏㄨㄟˋ ㄊㄨㄟˉㄐㄧㄢˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_170.wav|0|ㄗㄨㄟˋㄏㄡˋ ㄕˋ ㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄔㄨㄥˊㄊㄡˊㄒㄧˋ。
+./segmented_character_voice/alancao/alancao_1_171.wav|0|ㄖㄜˋㄘˋ ㄓㄨˇㄔㄤˇ ㄧㄥˊ ㄗㄞˋ ㄌㄧˋㄨˋㄆㄨˇ。
+./segmented_character_voice/alancao/alancao_1_172.wav|0|ㄖㄜˋㄘˋ ㄅㄣˇㄙㄞˋㄐㄧˋ ㄏㄜˊ ㄌㄧˋㄨˋㄆㄨˇ。
+./segmented_character_voice/alancao/alancao_1_173.wav|0|ㄕˋ ㄌㄧㄤˇㄓˉ ㄉㄡˉ ㄕˋ ㄗㄡˇ ㄗㄞˋ ㄓㄥˋㄑㄩㄝˋㄍㄨㄟˇㄉㄠˋ ㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_1_174.wav|0|ㄧˋㄓˊ ㄔㄨˋㄗㄞˋ ㄕㄤˋㄕㄥˉ ㄑㄩˉㄕˋ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_175.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄖㄜˋ ㄘˋ。
+./segmented_character_voice/alancao/alancao_1_176.wav|0|ㄗㄞˋ ㄉㄚˇ ㄚˉㄙㄣˉㄋㄚˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄓㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_177.wav|0|ㄧㄝˇ ㄉㄚˇㄔㄨˉ ㄌㄜ˙ ㄒㄧㄤˉㄉㄤˉ ㄍㄠˉ ㄉㄜ˙ ㄕㄨㄟˇㄓㄨㄣˇ。
+./segmented_character_voice/alancao/alancao_1_178.wav|0|ㄅㄟˇㄌㄨㄣˊ ㄉㄜ˙ ㄉㄜˊㄅㄧˇ ㄦˋㄅㄧˇㄦˋㄅㄧˉㄆㄧㄥˊ ㄚˉㄙㄣˉㄋㄚˋ。
+./segmented_character_voice/alancao/alancao_1_179.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄖㄜˋㄘˋ ㄗㄨㄟˋ ㄇㄧㄥˊㄒㄧㄢˇ ㄉㄜ˙ ㄧˊㄍㄜˋ ㄓㄨㄢˇㄅㄧㄢˋ ㄐㄧㄡˋㄕˋ。
+./segmented_character_voice/alancao/alancao_1_180.wav|0|ㄗㄞˋ ㄌㄧㄤˇ ㄙㄢˉㄌㄨㄣˊ ㄍㄨㄛˋㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_181.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄓˊㄐㄧㄝˉ ㄅㄟˋ ㄓㄨㄢˇㄉㄠˋ ㄌㄜ˙ ㄓㄨㄥˉㄈㄥˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_1_182.wav|0|ㄐㄧˇㄉㄧㄠˋ ㄌㄜ˙ ㄌㄧˇㄕㄚˉㄌㄧˋㄙㄨㄥˉ ㄉㄜ˙ ㄕㄡˇㄈㄚˉ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_1_183.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄓㄨㄢˇ ㄓㄨㄥˉㄈㄥˉ ㄕˋ ㄧˊㄍㄜˋ。
+./segmented_character_voice/alancao/alancao_1_184.wav|0|ㄒㄩˉㄧㄠˋ ㄧˉㄈㄣˉㄨㄟˊㄦˋ ㄌㄞˊㄎㄢˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_1_185.wav|0|ㄕㄡˇㄒㄧㄢˉ ㄊㄚˉ ㄍㄜˋㄖㄣˊ ㄉㄜ˙ ㄊㄜˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_186.wav|0|ㄓㄜˋ ㄐㄧㄡˋ ㄉㄠˇㄓˋ ㄌㄜ˙ ㄊㄚˉ ㄗㄞˋ ㄓㄨㄥˉㄈㄥˉ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_1_187.wav|0|ㄧㄡˇ ㄍㄥˋ ㄉㄨㄛˉ ㄉㄜ˙ ㄕㄜˋㄇㄣˊ ㄐㄧˉㄏㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_188.wav|0|ㄅㄨˋㄍㄨㄢˇ ㄕˋ ㄗㄞˋ ㄉㄚˋ ㄐㄧㄣˋㄑㄩˉ ㄉㄜ˙ ㄌㄧㄤˇㄍㄜˋ ㄐㄧㄠˇ。
+./segmented_character_voice/alancao/alancao_1_189.wav|0|ㄏㄞˊㄧㄡˇ ㄓㄨㄥˉㄌㄨˋ ㄓㄥˋ ㄓㄨㄥˉㄧㄤˉ。
+./segmented_character_voice/alancao/alancao_1_190.wav|0|ㄊㄚˉㄋㄚˊㄑㄧㄡˊ ㄉㄡˉ ㄕˋ ㄎㄜˇㄧˇ。
+./segmented_character_voice/alancao/alancao_1_191.wav|0|ㄕㄠˉㄨㄟˉ ㄊㄧㄠˊㄓㄥˇ ㄐㄧㄡˋ ㄎㄜˇㄧˇ ㄕㄜˋㄇㄣˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_192.wav|0|ㄓㄜˋ ㄐㄧㄡˋㄕˋ ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_1_193.wav|0|ㄐㄧㄣˋㄑㄧㄡˊ ㄧㄝˇ ㄅㄧˇㄐㄧㄠˋ ㄉㄨㄛˉ ㄉㄜ˙ ㄩㄢˊㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_1_194.wav|0|ㄓㄨㄢˇ ㄉㄠˋ ㄓㄨㄥˉㄈㄥˉ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_1_195.wav|0|ㄊㄚˉ ㄍㄜˋㄖㄣˊ ㄊㄧˉ ㄉㄜˊ ㄅㄧˇㄐㄧㄠˋ ㄕㄨˉㄈㄨˊ。
+./segmented_character_voice/alancao/alancao_1_196.wav|0|ㄉㄢˋㄕˋ ㄗㄨㄛˋㄨㄟˊ ㄧˊㄍㄜˋ ㄅㄧㄢˉㄈㄥˉ ㄔㄨˉㄕㄣˉ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_197.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄊㄚˉ ㄉㄜ˙ ㄐㄧˋㄋㄥˊ ㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_198.wav|0|ㄉㄧㄢˇ ㄉㄜ˙ ㄐㄧㄡˋ ㄅㄨˊㄕˋ ㄓㄨㄥˉㄈㄥˉ ㄉㄜ˙ ㄐㄧˋㄋㄥˊ ㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_199.wav|0|ㄙㄨㄛˇㄧˇ ㄧㄡˇ ㄧˉㄒㄧㄝˉ ㄒㄧㄤˋ ㄉㄨㄟˋㄎㄤˋ。
+./segmented_character_voice/alancao/alancao_1_200.wav|0|ㄎㄤˊ ㄖㄣˊ  ㄅㄟˋㄕㄣˉ ㄋㄚˊㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_201.wav|0|ㄏㄞˊㄧㄡˇ ㄗㄨㄟˋㄏㄡˋ ㄐㄧㄡˋㄕˋ ㄊㄡˊㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_202.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄐㄧˉㄏㄨˉ ㄨㄢˊㄑㄩㄢˊ ㄇㄟˊㄧㄡˇ ㄊㄡˊㄑㄧㄡˊ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_203.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄒㄧㄝˉ ㄉㄧㄢˇㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_1_204.wav|0|ㄊㄚˉ ㄧㄡˋ ㄅㄧˇ ㄌㄧˇㄕㄚˉㄌㄧˋㄙㄨㄥˉ ㄧㄠˋ ㄔㄚˋㄧˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_205.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄉㄚˇ ㄓㄨㄥˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_1_206.wav|0|ㄓㄜˋㄍㄜˋ ㄕˋ ㄧˊㄍㄜˋ ㄧㄡˇㄌㄧˋㄧㄡˇㄅㄧˋ ㄉㄜ˙ ㄕˋ。
+./segmented_character_voice/alancao/alancao_1_207.wav|0|ㄊㄚˉ ㄉㄚˇ ㄧㄡˇㄒㄧㄝˉ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_208.wav|0|ㄐㄧㄡˋㄕˋ ㄍㄠˉㄨㄟˋ ㄈㄤˊㄕㄡˇ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_209.wav|0|ㄊㄚˉㄏㄨㄟˋ ㄒㄧㄤˉㄉㄨㄟˋ ㄅㄧˇㄐㄧㄠˋ ㄕㄨˉㄈㄨˊ。
+./segmented_character_voice/alancao/alancao_1_210.wav|0|ㄉㄚˇ ㄋㄚˋㄓㄨㄥˇ ㄅㄨˋ ㄉㄨㄣˉㄎㄥˉ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_211.wav|0|ㄉㄢˋㄕˋ ㄧˊㄉㄢˋ ㄉㄚˇ ㄋㄚˋㄓㄨㄥˇ ㄉㄨㄣˉㄎㄥˉ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_212.wav|0|ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊㄎㄚˇ ㄗㄞˋ ㄓㄨㄥˉㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_1_213.wav|0|ㄊㄚˉ ㄐㄧㄡˋ ㄉㄜˊ。
+./segmented_character_voice/alancao/alancao_1_214.wav|0|ㄊㄚˉ ㄐㄧㄡˋ ㄉㄜˊ ㄔㄜˋㄉㄠˋ ㄏㄣˇ ㄕㄣˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_1_215.wav|0|ㄘㄞˊㄋㄥˊ ㄋㄚˊㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_216.wav|0|ㄧㄣˉㄨㄟˋ ㄊㄚˉ ㄗㄞˋ ㄐㄧㄣˋ ㄑㄩˉㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_1_217.wav|0|ㄊㄚˉ ㄕˋ ㄎㄤˊ ㄅㄨˋㄌㄧㄠˇ ㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_1_218.wav|0|ㄋㄚˊ ㄅㄨˋㄌㄧㄠˇ ㄑㄧㄡˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_219.wav|0|ㄓㄜˋ ㄐㄧㄡˋ ㄊㄚˉ ㄐㄧㄡˋ ㄏㄨㄟˋ ㄉㄚˇ ㄉㄜˊ ㄅㄨˋ ㄕㄨˉㄈㄨˊ ㄧˋㄉㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_1_220.wav|0|ㄅㄨˋㄍㄨㄛˋ ㄓㄜˋㄓㄡˉ ㄉㄚˇ ㄉㄜ˙ ㄌㄧㄡˋㄆㄨˇ。
+./segmented_character_voice/alancao/alancao_1_221.wav|0|ㄋㄚˋ ㄐㄧㄡˋㄕˋ ㄉㄧㄢˇㄒㄧㄥˊ ㄉㄜ˙ ㄧˉㄓˉ。
+./segmented_character_voice/alancao/alancao_1_222.wav|0|ㄅㄨˋ ㄉㄨㄣˉㄎㄥˉ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_1_223.wav|0|ㄙㄨㄛˇㄧˇ ㄙㄨㄣˉㄒㄧㄣˉㄇㄧㄥˊ ㄧㄥˉㄍㄞˉ ㄨㄣˋㄊㄧˊ ㄅㄨˋ ㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_1_224.wav|0|ㄌㄧㄡˋㄆㄨˇ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_1_225.wav|0|ㄐㄧㄣˋㄍㄨㄥˉ ㄕˋ ㄅㄞˇㄏㄨㄚˉㄑㄧˊㄈㄤˋ。
+./segmented_character_voice/alancao/alancao_1_226.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄧㄣˇㄐㄧㄣˋ ㄌㄜ˙ ㄇㄞˋ ㄎㄚˇㄌㄧˋㄙˉ ㄊㄜˋ。
+./segmented_character_voice/alancao/alancao_1_227.wav|0|ㄙㄨㄛˇㄅㄛˊㄙˉ ㄌㄨㄛˋㄧˉ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄓˉㄔˊ ㄧˇㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_228.wav|0|ㄈㄥˉㄒㄧㄢˋ ㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_1_229.wav|0|ㄨㄟˋㄕㄣˊㄇㄜ˙ ㄌㄧㄡˋㄆㄨˇ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_1_230.wav|0|ㄋㄥˊ ㄉㄚˇㄔㄨˉ ㄋㄚˋㄇㄜ˙ ㄉㄨㄛˉ ㄋㄧˋㄓㄨㄢˇ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_231.wav|0|ㄐㄧㄡˋㄕˋ ㄧㄣˉㄨㄟˋ ㄊㄚˉ ㄈㄥˉㄒㄧㄢˋ ㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_1_232.wav|0|ㄧㄡˇ ㄗㄨˊㄍㄡˋ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_1_233.wav|0|ㄎㄜˇㄧˇ ㄒㄧㄥˊㄔㄥˊ ㄌㄧㄤˇㄍㄜˋ ㄆㄧˉㄘˋ。
+./segmented_character_voice/alancao/alancao_1_234.wav|0|ㄕㄤˋㄒㄧㄚˋㄅㄢˋㄔㄤˇ ㄌㄞˊ ㄐㄧㄣˋㄒㄧㄥˊ ㄔㄨㄥˉㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_1_235.wav|0|ㄌㄨˊㄋㄧㄝˋㄙˉ  ㄐㄧㄚˉㄎㄜˋㄅㄛˉ  ㄉㄧˊㄠˋ ㄍㄜˉㄖㄨㄛˋㄊㄚˇ。
+./segmented_character_voice/alancao/alancao_1_236.wav|0|ㄌㄨˋㄧˋㄙˉ ㄉㄧˊㄧㄚˋㄙˉ  ㄙㄚˋㄌㄚˉ ㄏㄜˋ。
+./segmented_character_voice/alancao/alancao_1_237.wav|0|ㄌㄧㄤˇㄊㄠˋ ㄅㄢˉㄗ˙ ㄌㄞˊ ㄔㄨㄥˉ ㄋㄧˇ。
+./segmented_character_voice/alancao/alancao_1_238.wav|0|ㄙㄨㄛˇㄧˇ ㄐㄧㄥˉㄔㄤˊ ㄋㄥˊㄍㄡˋ ㄉㄚˇㄔㄨˉ ㄋㄧˋㄓㄨㄢˇ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_239.wav|0|ㄉㄢˋㄕˋ ㄊㄨㄥˊㄕˊ ㄊㄚˉ ㄔㄤˇㄔㄤˇ ㄉㄧㄡˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_240.wav|0|ㄦˊㄑㄧㄝˇ ㄐㄧㄥˉㄔㄤˊ ㄕˋ ㄒㄧㄢˉ ㄉㄧㄡˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_1_241.wav|0|ㄧㄝˇ ㄅㄠˋㄌㄨˋ ㄌㄜ˙ ㄊㄚˉ ㄏㄡˋㄈㄤˊㄒㄧㄢˋ ㄉㄜ˙ ㄅㄨˋㄗㄨˊ。
+./segmented_character_voice/alancao/alancao_1_242.wav|0|ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄓㄨㄢˇㄏㄨㄟˋ ㄗㄨㄥˇㄐㄧㄝˊ ㄋㄚˋ ㄧˉㄑㄧˉ ㄕˋㄆㄧㄣˊ。
+./segmented_character_voice/alancao/alancao_1_243.wav|0|ㄧㄝˇ ㄐㄧㄡˋㄕˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄧˋㄧˉ ㄑㄧㄥˉ ㄔㄠˉㄑㄧㄢˊ ㄓㄢˋㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_1_244.wav|0|ㄨㄛˇ ㄐㄧㄡˋ ㄐㄧㄥˉㄑㄩㄝˋ ㄉㄧˋ ㄓˇㄔㄨˉ ㄌㄜ˙ ㄌㄧㄡˋㄆㄨˇ ㄉㄜ˙ ㄓㄜˋㄍㄜˋ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_1_245.wav|0|ㄌㄧㄡˋㄆㄨˇ ㄒㄧㄢˋㄗㄞˋ ㄓㄨˇㄧㄠˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_1_246.wav|0|ㄅㄨˊㄕˋ ㄐㄧㄣˋㄍㄨㄥˉ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_1_247.wav|0|ㄦˊㄕˋ ㄈㄤˊㄕㄡˇ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_1_248.wav|0|ㄊㄚˉ ㄏㄡˋㄇㄧㄢˋ ㄓㄣˉㄕˋ ㄕㄡˇ ㄅㄨˊㄓㄨˋ。
+./segmented_character_voice/alancao/alancao_1_249.wav|0|ㄓㄜˋㄔㄤˇ ㄉㄚˇ ㄊㄨㄛˉㄊㄜˋㄋㄚˋㄇㄨˇㄖㄜˋㄘˋ。
+./segmented_character_voice/alancao/alancao_1_250.wav|0|ㄋㄧˇ ㄈㄢˋㄉㄞˋㄎㄜˋ  ㄋㄧˇ ㄇㄚˇㄉㄧˋㄆㄨˇ ㄓㄜˋㄍㄜˋ ㄙㄨˋㄉㄨˋ。
+./segmented_character_voice/alancao/alancao_1_251.wav|0|ㄅㄟˋ ㄙㄨㄣˉㄒㄧㄥˉㄇㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_1_252.wav|0|ㄅㄟˋ ㄅㄨˋㄌㄢˊ ㄩㄝˉㄏㄢˋㄒㄩㄣˋ。
+./segmented_character_voice/alancao/alancao_1_253.wav|0|ㄏㄞˊㄧㄡˇ ㄎㄨˋㄌㄨˋ ㄙㄞˉ ㄈㄨˉㄙˉㄐㄧˉ ㄙㄢˉㄍㄜˋ ㄖㄣˊㄔㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_1_254.wav|0|ㄓˇㄧㄠˋ ㄋㄧˇ ㄑㄧㄢˊㄔㄤˇ ㄉㄧˇ ㄑㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_1_255.wav|0|ㄅㄟˋ ㄋㄚˋㄍㄜˋ ㄅㄧˇ ㄙㄨˉㄇㄚˇ ㄇㄞˋㄉㄧˊㄒㄩㄣˋ ㄋㄨㄥˋㄔㄨˉㄌㄞˊ。
+./segmented_character_voice/alancao/alancao_1_256.wav|0|ㄉㄚˇ ㄔㄨˉㄌㄞˊ ㄐㄧㄡˋㄕˋ ㄓˊㄐㄧㄝˉ ㄧˉㄐㄧㄠˇ ㄓˊㄔㄨㄢˊ。
+./segmented_character_voice/alancao/alancao_1_257.wav|0|ㄉㄚˇ ㄋㄧˇ ㄕㄣˉㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_1_258.wav|0|ㄓㄣˉㄉㄜ˙ ㄍㄡˋ ㄌㄧㄡˋㄆㄨˇ ㄈㄤˊㄒㄧㄢˋ ㄏㄜˉ ㄧˉㄏㄨˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_1_259.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄇㄨˋㄑㄧㄢˊ ㄕˋㄔㄤˇ ㄉㄧㄥˋㄐㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_1_260.wav|0|ㄖㄜˋㄘˋ ㄕㄡˋㄖㄤˋ ㄆㄧㄥˊㄅㄢˋ。
+./segmented_character_voice/alancao/alancao_1_261.wav|0|ㄅㄣˇㄓㄡˉ ㄧㄝˇ ㄕˋ ㄨㄛˇ ㄍㄨㄥˉㄊㄨㄟˉ ㄉㄜ˙ ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_1_262.wav|0|ㄍㄨㄥˉㄎㄞˉ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_1_263.wav|0|ㄊㄨㄛˉㄊㄜˋㄋㄚˋㄇㄨˇㄖㄜˋㄘˋ。
+./segmented_character_voice/alancao/alancao_1_264.wav|0|ㄧˇㄕㄤˋ ㄐㄧㄡˋㄕˋ ㄅㄣˇㄑㄧˉ ㄑㄧㄥˉ ㄔㄠˉㄑㄧㄢˊ ㄓㄢˋ ㄉㄜ˙ ㄑㄩㄢˊㄅㄨˋㄋㄟˋㄖㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_1_265.wav|0|ㄨㄛˇㄇㄣ˙ ㄒㄧㄚˋㄑㄧˉ ㄗㄞˋㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_0.wav|0|ㄌㄠˇㄍㄜˉ ㄇㄣ˙ ㄉㄚˋㄐㄧㄚˉ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_4_1.wav|0|ㄨㄛˇ ㄕˋ ㄕㄡˋㄖㄤˋ ㄆㄧㄥˊㄅㄢˋㄍㄠˉㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_4_2.wav|0|ㄑㄧㄢˉㄏㄨˉ ㄨㄢˋㄏㄨㄢˋㄕˇ ㄔㄨˉㄌㄞˊ。
+./segmented_character_voice/alancao/alancao_4_3.wav|0|ㄧㄥˉㄔㄠˉ ㄉㄜ˙ ㄒㄧㄣˉㄙㄞˋ ㄐㄧˋㄓㄨㄥˉ ㄩˊ ㄐㄧㄤˉㄗㄞˋ ㄓㄜˋ ㄧˉㄓㄡˉ ㄓㄥˋㄕˋ ㄎㄞˉㄉㄚˇ。
+./segmented_character_voice/alancao/alancao_4_4.wav|0|ㄅㄣˇㄑㄧˉ ㄕˋㄆㄧㄣˊ ㄈㄣˉㄨㄟˋ ㄌㄧㄤˇㄍㄜˋ ㄅㄨˋㄈㄣˋ。
+./segmented_character_voice/alancao/alancao_4_5.wav|0|ㄒㄧㄢˉㄍㄨㄛˋ ㄧˉㄅㄧㄢˋ ㄧㄥˉㄔㄠˉ ㄒㄧㄚˋㄐㄧˋ ㄓㄨㄢˇㄏㄨㄟˋ ㄍㄜˋㄓˉ ㄓㄨˇㄧㄠˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄘㄠˉㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_4_6.wav|0|ㄓㄜˋ ㄅㄨˋㄈㄣˋ ㄉㄜ˙ ㄆㄧㄥˊㄐㄧㄚˋㄏㄨㄟˋ ㄅㄧˇㄐㄧㄠˋ ㄓㄨˇㄍㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_4_7.wav|0|ㄉㄧˋㄦˋ ㄅㄨˋㄈㄣˋ ㄗㄜˊㄕˋ ㄔㄨㄢˊㄊㄨㄥˇ ㄐㄧㄝˊㄇㄨˋ。
+./segmented_character_voice/alancao/alancao_4_8.wav|0|ㄆㄠˉㄧㄥˋㄅㄧˋ ㄕˊㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_4_9.wav|0|ㄛˊ ㄅㄨˋ。
+./segmented_character_voice/alancao/alancao_4_10.wav|0|ㄕˋ ㄉㄧˋㄧˉ ㄌㄨㄣˊ ㄧㄥˉㄔㄠˉ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄊㄨㄟˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_11.wav|0|ㄒㄧㄚˋㄇㄧㄢˋ ㄓㄥˋㄕˋ ㄎㄞˉㄕˇ。
+./segmented_character_voice/alancao/alancao_4_12.wav|0|ㄓㄜˋㄓㄤˉ ㄊㄨˊ ㄕˋ ㄧㄥˉㄔㄠˉ ㄐㄧㄝˊㄓˇ ㄇㄨˋㄑㄧㄢˊ ㄗㄞˋ ㄉㄜˊ ㄓㄨㄢˇㄨㄤˇ ㄓㄢˋㄕㄤˋ。
+./segmented_character_voice/alancao/alancao_4_13.wav|0|ㄍㄜˋㄍㄜˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄓㄨㄢˇㄏㄨㄟˋ ㄐㄧㄥˋ ㄊㄡˊㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_4_14.wav|0|ㄢˋ ㄘㄨㄥˊ ㄍㄠˉㄉㄠˋ ㄉㄧˉ ㄆㄞˊㄌㄧㄝˋ ㄉㄜ˙ ㄅㄧㄠˇㄍㄜˊ。
+./segmented_character_voice/alancao/alancao_4_15.wav|0|ㄉㄠˋ ㄓㄨㄢˇㄏㄨㄟˋ ㄐㄧㄝˊㄓˇ ㄖˋㄑㄧˉ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_4_16.wav|0|ㄓㄜˋㄍㄜˋ ㄕㄨˋㄐㄩˋ ㄎㄣˇㄉㄧㄥˋ ㄏㄞˊㄏㄨㄟˋ ㄧㄡˇ ㄅㄧㄢˋㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_17.wav|0|ㄖㄨˊㄖㄜˋ ㄘˋ ㄉㄜ˙ ㄎㄞˇㄣˉ ㄎㄜˇㄋㄥˊ ㄌㄧˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_18.wav|0|ㄒㄧˉㄏㄢˋㄇㄨˇㄌㄧㄢˊ ㄕㄡˇㄨㄛˋ ㄓㄨㄥˋㄐㄧㄣˉ ㄎㄜˇㄋㄥˊ ㄏㄞˊㄏㄨㄟˋ ㄧㄡˇ ㄅㄨˇㄑㄧㄤˊ。
+./segmented_character_voice/alancao/alancao_4_19.wav|0|ㄉㄢˋ ㄐㄧㄣˉㄊㄧㄢˉ ㄨㄛˇㄇㄣ˙ ㄉㄜ˙ ㄊㄠˇㄌㄨㄣˋ。
+./segmented_character_voice/alancao/alancao_4_20.wav|0|ㄐㄧㄡˋ ㄧˇㄉㄜˊㄓㄨㄢˇ ㄧˇㄐㄧㄥˉ ㄑㄩㄝˋㄖㄣˋ ㄉㄜ˙ ㄓㄨㄢˇㄏㄨㄟˋ ㄨㄟˋㄓㄨㄣˇ。
+./segmented_character_voice/alancao/alancao_4_21.wav|0|ㄓㄨㄢˇㄏㄨㄟˋ ㄔㄨㄢˊㄧㄢˊ ㄗㄢˋㄕˊ ㄅㄨˋ ㄎㄠˇㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_4_22.wav|0|ㄓㄨㄢˇㄏㄨㄟˋ ㄓˉㄔㄨˉ ㄐㄧㄢˇㄓㄨㄢˇㄏㄨㄟˋ ㄕㄡˉㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_4_23.wav|0|ㄐㄧㄡˋㄕˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄓㄨㄢˇㄏㄨㄟˋ ㄐㄧㄥˋ ㄊㄡˊㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_4_24.wav|0|ㄐㄧㄥˋ ㄊㄡˊㄖㄨˋ ㄎㄜˇㄧˇ ㄌㄧˇㄐㄧㄝˇ ㄨㄟˋ ㄧˉㄍㄜˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄒㄧㄣˉㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_4_25.wav|0|ㄉㄨㄟˋㄓㄣˋㄖㄨㄥˊ ㄉㄜ˙ ㄅㄨˇㄑㄧㄤˊ ㄌㄧˋㄉㄨˋ。
+./segmented_character_voice/alancao/alancao_4_26.wav|0|ㄧㄝˇ ㄐㄧㄢˉ ㄐㄧㄝˉㄊㄧˇㄒㄧㄢˋ ㄌㄜ˙ ㄐㄩˋㄌㄜˋㄅㄨˋ ㄌㄠˇ ㄅㄢˇ ㄉㄜ˙ ㄙㄞˋㄐㄧˋ ㄇㄨˋㄅㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_4_27.wav|0|ㄊㄡˊㄖㄨˋ ㄌㄧˋㄉㄨˋ ㄉㄚˋ ㄉㄜ˙ ㄐㄩˋㄌㄜˋㄅㄨˋ ㄌㄠˇ ㄅㄢˇ。
+./segmented_character_voice/alancao/alancao_4_28.wav|0|ㄉㄨㄟˋㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄔㄥˊㄐㄧˉ ㄒㄧㄤˉㄧㄥˉ ㄧㄝˇ ㄏㄨㄟˋ ㄧㄡˇ ㄍㄥˋ ㄍㄠˉ ㄉㄜ˙ ㄧㄠˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_29.wav|0|ㄓㄜˋㄧㄝˇㄏㄨㄟˋ ㄑㄧㄢˊ ㄗㄞˋ ㄉㄜ˙ ㄧㄥˇㄒㄧㄤˇ ㄉㄠˋ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄧˉㄕˋ ㄑㄧˋㄏㄜˊㄑㄧㄡˊㄩㄢˊ ㄉㄜ˙ ㄒㄧㄣˉㄊㄞˋ。
+./segmented_character_voice/alancao/alancao_4_30.wav|0|ㄒㄧㄣˉㄩㄢˊ ㄉㄜ˙ ㄧㄣˇㄖㄨˋ ㄏㄨㄟˋ ㄗㄞˋ ㄕㄡˇㄈㄚˉ ㄨㄟˋㄓˋ ㄕㄤˋ ㄒㄧㄥˊㄔㄥˊ ㄐㄧㄥˋㄓㄥˉ。
+./segmented_character_voice/alancao/alancao_4_31.wav|0|ㄧㄝˇ ㄐㄧㄡˋㄕˋ ㄨㄛˇㄇㄣ˙ ㄙㄨˊㄔㄥˉ ㄉㄜ˙ ㄋㄟˋㄐㄩㄢˇ。
+./segmented_character_voice/alancao/alancao_4_32.wav|0|ㄒㄧㄣˉㄙㄞˋ ㄐㄧˋㄌㄠˇ ㄅㄢˇ ㄏㄨㄚˉ ㄌㄜ˙ ㄐㄧˇㄍㄜˋ ㄧˋㄧㄠˋ ㄍㄠˇ ㄕˋㄑㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_4_33.wav|0|ㄋㄚˋ ㄒㄧㄚˋㄇㄧㄢˋ ㄉㄜ˙ ㄉㄚˇ ㄍㄨㄥˉㄖㄣˊ ㄎㄣˇㄉㄧㄥˋ ㄧㄝˇ ㄉㄜˊ ㄙㄢˉㄐㄩㄣˉㄩㄥˋ ㄇㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_4_34.wav|0|ㄔㄥˊㄐㄧˉ ㄏㄠˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_35.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄒㄩˋㄩㄝˉ ㄐㄧㄚˉㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_4_36.wav|0|ㄖㄣˊㄖㄣˊ ㄧㄡˇㄖㄡˋ ㄔˉ。
+./segmented_character_voice/alancao/alancao_4_37.wav|0|ㄈㄢˇㄓㄥˋ ㄌㄠˇ ㄅㄢˇ ㄅㄨˋㄔㄚˋ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_4_38.wav|0|ㄒㄧㄤˉㄈㄢˇ ㄖㄨˊㄍㄨㄛˇ ㄌㄠˇ ㄅㄢˇ ㄎㄡˉㄇㄣˊ。
+./segmented_character_voice/alancao/alancao_4_39.wav|0|ㄕㄜˇ ㄅㄨˋㄉㄜˊ ㄏㄨㄚˉㄑㄧㄢˊ ㄅㄨˇㄑㄧㄤˊ ㄓㄣˋㄖㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_4_40.wav|0|ㄕㄣˋㄓˋ ㄒㄧㄤˋ ㄒㄧˉㄏㄢˋㄇㄨˇㄌㄧㄢˊ ㄓㄜˋㄓㄨㄥˇ。
+./segmented_character_voice/alancao/alancao_4_41.wav|0|ㄇㄞˋ ㄌㄜ˙ ㄉㄤˉㄐㄧㄚˉ ㄓㄨˇㄌㄧˋ ㄧㄝˇ ㄅㄨˋ ㄇㄞˇ ㄖㄣˊ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_42.wav|0|ㄑㄧㄡˊㄩㄢˊ ㄉㄜ˙ ㄒㄧㄣˉㄑㄧˋ ㄎㄣˇㄉㄧㄥˋ ㄏㄨㄟˋ ㄕㄡˋㄉㄠˋ ㄧㄥˇㄒㄧㄤˇ。
+./segmented_character_voice/alancao/alancao_4_43.wav|0|ㄌㄠˇ ㄅㄢˇ ㄉㄡˉ ㄉㄨㄟˋ ㄔㄥˊㄐㄧˉ ㄇㄟˊㄧㄡˇ ㄓㄨㄟˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_44.wav|0|ㄋㄚˋ ㄨㄛˇㄇㄣ˙ ㄒㄧㄚˋㄇㄧㄢˋ ㄉㄚˇ ㄍㄨㄥˉㄖㄣˊ ㄏㄜˊㄎㄨˇ ㄒㄧㄚˉㄘㄠˉㄒㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_4_45.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄧˋㄑㄧˇ ㄌㄞˊ ㄊㄤˇㄆㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_4_46.wav|0|ㄕㄤˋㄙㄞˋㄐㄧˋ ㄧㄥˉㄔㄠˉ ㄐㄧㄡˋ ㄧㄡˇ ㄧˉㄓˉ ㄒㄧㄚˋㄔㄨㄤˉ ㄌㄧㄥˊㄧㄥˇㄩㄢˊ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_47.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄎㄜˇㄧˇ ㄘㄞˉ ㄧˉ ㄘㄞˉ ㄕˋ ㄋㄚˇㄓˉ。
+./segmented_character_voice/alancao/alancao_4_48.wav|0|ㄊㄧˊㄕˋ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_49.wav|0|ㄓㄜˋㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄖㄨˊㄐㄧㄣˉ ㄧˇㄐㄧㄥˉ ㄗㄞˋ ㄊㄧˉ ㄧㄥˉㄍㄨㄢˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_50.wav|0|ㄕㄤˋㄇㄧㄢˋ ㄉㄜ˙ ㄈㄣˉㄒㄧˉ ㄐㄧㄡˋㄕˋ ㄒㄧㄤˇ ㄓˇㄔㄨˉ。
+./segmented_character_voice/alancao/alancao_4_51.wav|0|ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄊㄡˊㄖㄨˋ ㄕㄨㄟˇㄆㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_4_52.wav|0|ㄎㄜˇㄧˇ ㄗㄨㄛˋㄨㄟˋ ㄨㄛˇㄇㄣ˙ ㄙㄞˋ ㄐㄧˋㄔㄨˉ ㄩˋㄘㄜˋ ㄅㄧˇㄙㄞˋ ㄉㄜ˙ ㄧˉㄊㄧㄠˊ ㄘㄢˉㄎㄠˇ ㄒㄧㄣˋㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_4_53.wav|0|ㄉㄤˉㄖㄢˊ ㄓㄜˋㄧㄝˇ ㄅㄨˊㄕˋ ㄐㄩㄝˊㄉㄨㄟˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_54.wav|0|ㄒㄧㄣˉ ㄩㄢˊㄧㄣˇ ㄖㄨˋ ㄉㄜ˙ ㄇㄛˊㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_4_55.wav|0|ㄏㄨㄟˋㄍㄟˇ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄞˋㄌㄞˊ ㄒㄩˇㄉㄨㄛˉ ㄉㄜ˙ ㄅㄨˋㄑㄩㄝˋ ㄉㄧㄥˋㄒㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_4_56.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄓㄨˇㄐㄧㄠˋ ㄌㄧㄢˋㄋㄥˊ ㄅㄨˋㄋㄥˊ ㄔㄨˋㄌㄧˇ ㄏㄠˇ ㄍㄥˋ ㄧㄥˉㄕˋ ㄒㄧㄣˉ ㄌㄠˇㄑㄧㄡˊㄩㄢˊㄉㄜ˙ㄍㄨㄢˉ ㄒㄧˋ。
+./segmented_character_voice/alancao/alancao_4_57.wav|0|ㄈㄟˉㄔㄤˊ ㄓㄨㄥˋㄧㄠˋ。
+./segmented_character_voice/alancao/alancao_4_58.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄨㄛˇㄇㄣ˙ ㄐㄧㄡˋ ㄢˋ ㄓㄨㄢˇㄏㄨㄟˋㄐㄧㄣˋ ㄊㄡˊㄖㄨˋ ㄘㄨㄥˊ ㄍㄠˉㄉㄠˋ ㄉㄧˉ ㄉㄜ˙ ㄕㄨㄣˋㄒㄩˋ。
+./segmented_character_voice/alancao/alancao_4_59.wav|0|ㄌㄞˊ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄍㄜˋㄓˉ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄜ˙ ㄒㄧㄚˋ ㄔㄨㄤˉ ㄘㄠˉㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_4_60.wav|0|ㄧㄣˉㄨㄟˋ ㄕˊㄐㄧㄢˉ ㄧㄡˇㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_61.wav|0|ㄓˇ ㄊㄠˇㄌㄨㄣˋ ㄐㄧㄣˋ ㄊㄡˊㄖㄨˋ ㄅㄧˇㄐㄧㄠˋ ㄍㄠˉ ㄉㄜ˙ ㄑㄧㄡˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_62.wav|0|ㄚˉㄦˇㄊㄜˋㄊㄚˇ ㄅㄣˇㄘˋ ㄒㄧㄚˋㄔㄨㄤˉ ㄉㄜ˙ ㄗㄨㄟˋㄉㄚˋ ㄧㄥˊㄐㄧㄚˉ。
+./segmented_character_voice/alancao/alancao_4_63.wav|0|ㄕㄡˇㄒㄧㄢˉ ㄌㄞˊ ㄎㄢˋㄉㄜˊㄌㄢˊㄌㄞˋㄙˉ。
+./segmented_character_voice/alancao/alancao_4_64.wav|0|ㄒㄧㄚˋㄐㄧˋ ㄅㄧㄠˉㄨㄤˊ。
+./segmented_character_voice/alancao/alancao_4_65.wav|0|ㄧㄥˉㄔㄠˉ ㄉㄧˋㄧˉ ㄏㄡˋ ㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_4_66.wav|0|ㄨㄛˇㄇㄣ˙ ㄉㄡˉ ㄓˉㄉㄠˋ ㄍㄨㄟˋ ㄉㄜ˙ ㄉㄨㄥˉㄒㄧˉ ㄅㄨˋ ㄧˊㄉㄧㄥˋ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_4_67.wav|0|ㄅㄧˇㄖㄨˊ ㄇㄢˋㄌㄧㄢˊ ㄉㄜ˙ ㄢˉㄉㄨㄥˉㄋㄧˊ。
+./segmented_character_voice/alancao/alancao_4_68.wav|0|ㄉㄢˋㄕˋ ㄏㄠˇ ㄉㄜ˙ ㄉㄨㄥˉㄒㄧˉ ㄧˊㄉㄧㄥˋ ㄕˋ ㄍㄨㄟˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_69.wav|0|ㄧˋㄉㄧㄢˇ ㄧˉㄌㄧㄡˋㄧˋㄡˉ ㄉㄜ˙ ㄕㄣˉㄐㄧㄚˋ ㄐㄧㄡˋ ㄕㄨㄛˉㄇㄧㄥˊ ㄌㄜ˙ ㄧˉㄑㄧㄝˋ。
+./segmented_character_voice/alancao/alancao_4_70.wav|0|ㄉㄜˊㄌㄢˊㄌㄞˋㄙˉ ㄧㄝˇ ㄕˋ ㄒㄧㄚˋ ㄔㄨㄤˉㄌㄧˊㄉㄨㄟˋ ㄉㄜ˙ ㄓㄚˉㄎㄚˇ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄨㄟˉㄌㄧˋ ㄐㄧㄚˉㄑㄧㄤˊ ㄅㄢˇ。
+./segmented_character_voice/alancao/alancao_4_71.wav|0|ㄑㄩㄢˊㄇㄧㄢˋ ㄐㄧㄚˉㄑㄧㄤˊ ㄌㄜ˙ ㄚˉㄦˇㄊㄜˋㄊㄚˇ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄕˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_72.wav|0|ㄎㄞˇㄏㄚˉㄈㄨˉㄗˉ。
+./segmented_character_voice/alancao/alancao_4_73.wav|0|ㄑㄧˉㄑㄧㄢˉㄨˇㄅㄞˇ ㄨㄢˋㄡˉ ㄉㄜ˙ ㄕㄣˉㄐㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_74.wav|0|ㄓㄜˋㄍㄜˋ ㄧㄥˇㄩㄢˊ ㄧㄝˇ ㄕˋ ㄚˉㄦˇㄊㄜˋㄊㄚˇㄓㄥˉ ㄍㄨㄢˉㄓˉㄌㄨˋ ㄐㄧˊㄑㄧˊ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄧˉㄎㄨㄞˋ ㄆㄧㄣˉㄊㄨˊ。
+./segmented_character_voice/alancao/alancao_4_75.wav|0|ㄍㄨㄢˉㄩˊㄏㄚˉㄈㄨˉㄗˉ ㄉㄠˋㄉㄧˇ ㄗㄣˇㄇㄜ˙ ㄕˇㄩㄥˋ。
+./segmented_character_voice/alancao/alancao_4_76.wav|0|ㄒㄧㄤˉㄒㄧㄣˋ ㄉㄚˋㄐㄧㄚˉ ㄉㄡˉ ㄧㄡˇ ㄏㄣˇㄉㄨㄛˉ ㄉㄜ˙ ㄧˊㄨㄣˋ。
+./segmented_character_voice/alancao/alancao_4_77.wav|0|ㄚˉㄦˇㄊㄜˋㄊㄚˇ ㄗˋㄐㄧˇ ㄎㄜˇㄋㄥˊ ㄧㄝˇ ㄇㄟˊ ㄧㄡˇ ㄨㄢˊㄑㄩㄢˊ ㄒㄧㄤˇ ㄑㄧㄥˉㄔㄨˇ。
+./segmented_character_voice/alancao/alancao_4_78.wav|0|ㄧㄣˉㄨㄟˋ ㄚˉㄙㄣˉ ㄋㄚˋ ㄇㄨˋㄑㄧㄢˊ ㄉㄜ˙ ㄆㄟˋㄓˋ ㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_4_79.wav|0|ㄙˋㄏㄨˉ ㄇㄟˊㄧㄡˇ ㄊㄚˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_80.wav|0|ㄉㄚˇㄧㄥˋㄓㄤˋ ㄉㄚˇㄑㄧㄤˊㄑㄧㄤˊ ㄉㄨㄟˋ ㄏㄨㄚˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_81.wav|0|ㄌㄞˋㄙˉ ㄏㄜˊ ㄊㄨㄛˉㄇㄚˇㄙˉ ㄉㄜ˙ ㄕㄨㄤˉㄏㄡˋㄧㄠˉ ㄕˋ ㄅㄧㄠˉㄆㄟˋ。
+./segmented_character_voice/alancao/alancao_4_82.wav|0|ㄜˋㄉㄜˊ ㄍㄠˉㄉㄨㄟˋ ㄓㄤˇ ㄏㄜˊ ㄓㄨㄥˉㄔㄤˇ ㄏㄜˊㄒㄧㄣˉ ㄉㄜ˙ ㄨㄟˋㄓˋ ㄗㄢˋㄕˊ ㄧㄝˇ ㄨˊㄈㄚˇㄏㄢˋㄉㄨㄥˋ。
+./segmented_character_voice/alancao/alancao_4_83.wav|0|ㄇㄨˋㄑㄧㄢˊ ㄌㄞˊ ㄎㄢˋ ㄏㄚˉㄈㄨˉㄗˉ ㄎㄜˇㄋㄥˊ ㄔㄨㄥˉㄉㄤˉ ㄉㄜ˙ ㄐㄩㄝˊㄙㄜˋ。
+./segmented_character_voice/alancao/alancao_4_84.wav|0|ㄕˋ ㄗㄞˋ ㄖㄜˋㄙㄨˉㄙˉ ㄕㄡˋㄕㄤˉ ㄉㄜ˙ ㄓㄜˋㄉㄨㄢˋ ㄕˊㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_4_85.wav|0|ㄊㄚˉ ㄐㄧㄡˋ ㄉㄚˇ ㄧˉㄒㄧㄚˋ ㄓㄨㄥˉㄈㄥˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_86.wav|0|ㄓㄜˋㄧㄝˇ ㄕˋ ㄊㄚˉ ㄗㄞˋ ㄑㄧㄝˋㄦˇㄒㄧˉ ㄒㄧˊㄍㄨㄢˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_87.wav|0|ㄗㄞˋ ㄖㄜˋㄙㄨˉㄙˉ ㄈㄨˋ ㄔㄨˉㄧˇ ㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_88.wav|0|ㄊㄚˉ ㄍㄥˋ ㄉㄚˋ ㄉㄜ˙ ㄎㄜˇㄋㄥˊ ㄕˋ ㄏㄜˊ ㄊㄨㄛˉㄙㄚˋㄉㄜˊ ㄧˋㄑㄧˇ。
+./segmented_character_voice/alancao/alancao_4_89.wav|0|ㄔㄨㄥˉㄉㄤˉ ㄧˉㄍㄜˋㄏㄡˋㄕㄡˇ ㄉㄜ˙ ㄊㄧˋ ㄅㄨˇ。
+./segmented_character_voice/alancao/alancao_4_90.wav|0|ㄗㄞˋ ㄨˇㄏㄨㄢˋㄓˋ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_91.wav|0|ㄌㄧˋㄩㄥˋ ㄚˉㄙㄣˉ ㄋㄚˋㄑㄧㄤˊ ㄉㄚˋ ㄉㄜ˙ ㄓㄣˋㄖㄨㄥˊ ㄏㄡˋㄉㄨˋ。
+./segmented_character_voice/alancao/alancao_4_92.wav|0|ㄅㄠˇㄔˊ ㄒㄧㄚˋㄅㄢˋㄔㄤˇ ㄉㄜ˙ ㄍㄨㄥˉㄐㄧˉ ㄑㄧㄤˊㄉㄨˋ。
+./segmented_character_voice/alancao/alancao_4_93.wav|0|ㄉㄤˉㄖㄢˊ ㄗㄞˋ ㄧˉㄒㄧㄝˉ ㄋㄩㄝˋㄘㄞˋㄐㄩˊ ㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_4_94.wav|0|ㄊㄚˉ ㄧㄝˇ ㄎㄜˇㄧˇ ㄏㄜˊ ㄜˋㄉㄜˊㄍㄠˉ ㄍㄨㄥˋㄘㄨㄣˊ ㄊㄨㄥˊㄕˊ ㄕㄤˋㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_95.wav|0|ㄓㄜˋㄧㄤˋ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ ㄉㄨㄛˉㄅㄢˋ ㄐㄧㄡˋ ㄏㄨㄟˋ ㄋㄚˊㄉㄧㄠˋ ㄊㄨㄛˉㄇㄚˇㄙˉ。
+./segmented_character_voice/alancao/alancao_4_96.wav|0|ㄖㄤˋ ㄊㄚˉ ㄏㄜˊ ㄉㄜˊㄌㄢˊ。
+./segmented_character_voice/alancao/alancao_4_97.wav|0|ㄖㄤˋ ㄉㄜˊㄌㄢˊㄌㄞˋㄙˉ ㄧˉㄍㄜˋ ㄖㄣˊ ㄉㄚˇ ㄉㄢˉㄏㄡˋㄧㄠˉ。
+./segmented_character_voice/alancao/alancao_4_98.wav|0|ㄌㄧㄥˋㄨㄞˋ ㄧˉㄍㄜˋ ㄋㄠˇㄉㄨㄥˋ ㄐㄧㄡˋㄕˋ ㄗㄞˋ ㄉㄚˇ ㄧˉㄒㄧㄝˉ ㄧㄥˋㄓㄤˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_99.wav|0|ㄏㄚˉㄈㄨˉㄗˉ ㄧㄡˇ ㄇㄟˊ ㄧㄡˇ ㄎㄜˇㄋㄥˊ ㄊㄧˋㄏㄨㄢˋ ㄉㄧㄠˋ ㄜˋㄉㄜˊㄍㄠˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_100.wav|0|ㄕㄡˇㄈㄚˉ。
+./segmented_character_voice/alancao/alancao_4_101.wav|0|ㄗㄞˋ ㄑㄧㄢˊㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_102.wav|0|ㄓㄜˋㄧㄤˋ ㄚˉㄙㄣˉ ㄋㄚˋㄗㄞˋ ㄑㄧㄢˊㄔㄤˇ ㄔㄨˊㄌㄜ˙ ㄖㄜˋㄙㄨˉㄙˉ ㄧˇㄨㄞˋ。
+./segmented_character_voice/alancao/alancao_4_103.wav|0|ㄏㄞˊㄋㄥˊ ㄉㄨㄛˉ ㄧˉㄍㄜˋ ㄅㄟˋㄕㄣˉ ㄎㄤˊ ㄖㄣˊ ㄋㄚˊ ㄉㄧˋㄧˉ ㄉㄧㄢˇㄑㄧㄡˊ ㄉㄜ˙ ㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_4_104.wav|0|ㄓㄜˋㄉㄨㄟˋ ㄩˊㄏㄡˋㄔㄤˇ ㄗㄠˉㄉㄠˋ ㄧㄚˉㄆㄛˋ ㄕˊ ㄔㄨˉㄑㄧㄡˊ ㄉㄜ˙ ㄅㄤˉㄓㄨˋ ㄏㄣˇㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_4_105.wav|0|ㄧㄡˇ ㄉㄜ˙ ㄕˊㄏㄡˋ ㄐㄧㄡˋ ㄎㄜˇㄧˇ ㄓˊㄐㄧㄝˉ ㄧˉㄍㄜˋ ㄉㄚˋㄐㄧㄠˇ ㄑㄩˋ ㄓㄠˇ ㄏㄚˉㄈㄨˉㄗˉ。
+./segmented_character_voice/alancao/alancao_4_106.wav|0|ㄖㄤˋ ㄊㄚˉ ㄌㄞˊ ㄎㄤˊ ㄖㄣˊ ㄋㄚˊㄒㄧㄚˋ ㄉㄧˋㄧˉ ㄉㄧㄢˇㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_107.wav|0|ㄨㄣˇㄓㄨˋ ㄑㄧㄡˊㄑㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_108.wav|0|ㄌㄧㄥˋㄧˋㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_109.wav|0|ㄏㄚˉㄈㄨˉㄗˉ ㄎㄜˇㄧˇ ㄕㄥˋㄖㄣˋ ㄉㄨㄛˉㄍㄜˋ ㄐㄩㄝˊㄙㄜˋ。
+./segmented_character_voice/alancao/alancao_4_110.wav|0|ㄎㄜˇㄧˇ ㄍㄣˉㄐㄩˋㄔㄤˇ ㄕㄤˋ ㄉㄜ˙ ㄐㄩˊㄕˋ ㄌㄧㄥˊㄏㄨㄛˊ ㄉㄧㄠˋㄓㄥˇ。
+./segmented_character_voice/alancao/alancao_4_111.wav|0|ㄧㄣˉㄨㄟˋ ㄊㄚˉ ㄉㄨㄟˋ ㄎㄤˋㄑㄧㄤˊㄉㄨˋ ㄏㄜˊ ㄍㄠˉㄎㄨㄥˉ ㄑㄧㄡˊ ㄋㄥˊㄌㄧˋ ㄉㄡˉ ㄧㄡˉ ㄩˊ ㄜˋㄉㄜˊㄍㄠˉ。
+./segmented_character_voice/alancao/alancao_4_112.wav|0|ㄗㄞˋ ㄒㄩˉㄧㄠˋ ㄑㄧㄤˊㄍㄨㄥˉ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_113.wav|0|ㄊㄚˉ ㄎㄜˇㄧˇ ㄉㄧㄥˇ ㄕㄤˇㄑㄩˋ ㄏㄜˊ ㄖㄜˋㄙㄨˉㄙˉ ㄧˋㄑㄧˇ ㄉㄚˇㄕㄨㄤˉ ㄓㄨㄥˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_4_114.wav|0|ㄔㄨˋㄌㄧˇ ㄧˉㄒㄧㄝˉ ㄍㄠˉㄎㄨㄥˉ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_115.wav|0|ㄒㄩˉㄧㄠˋ ㄊㄨㄟˋㄈㄤˊ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_116.wav|0|ㄊㄚˉ ㄧㄝˇ ㄋㄥˊ ㄗㄞˋ ㄓㄨㄥˉㄔㄤˇ ㄐㄧㄠˇ ㄕㄚˉ ㄏㄜˊ ㄉㄧㄥˋㄨㄟˋㄑㄧㄡˊ ㄈㄤˊㄕㄡˇ ㄓㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_4_117.wav|0|ㄑㄧˇㄉㄠˋ ㄍㄥˋ ㄍㄨㄢˉㄐㄧㄢˋ ㄉㄜ˙ ㄗㄨㄛˋㄩㄥˋ。
+./segmented_character_voice/alancao/alancao_4_118.wav|0|ㄗㄨㄥˇ ㄦˊㄧㄢˊ ㄓˉ。
+./segmented_character_voice/alancao/alancao_4_119.wav|0|ㄐㄧㄝˇㄐㄩㄝˊ ㄏㄠˇ ㄖㄜˋㄙㄨˉㄙˉ ㄈㄨˋ ㄔㄨˉㄧˇ ㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_120.wav|0|ㄏㄚˉㄈㄨˉㄗˉ ㄗㄣˇㄇㄜ˙ ㄕˇㄩㄥˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_121.wav|0|ㄕˋ ㄚˉㄙㄣˉ ㄋㄚˋㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋㄓㄥˉ ㄍㄨㄢˉ ㄉㄜ˙ ㄍㄨㄢˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_122.wav|0|ㄗㄨㄟˋㄏㄡˋㄧˉㄍㄜˋ ㄧㄢˇㄩㄢˊ ㄕˋㄏㄡˋㄨㄟˋ ㄨㄟˋㄓˋ ㄕㄤˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_123.wav|0|ㄊㄧㄥˊ ㄅㄟˋㄦˇ。
+./segmented_character_voice/alancao/alancao_4_124.wav|0|ㄙˋㄑㄧㄢˉ ㄨㄢˋㄡˉ ㄉㄜ˙ ㄐㄧㄚˋㄍㄜˊ。
+./segmented_character_voice/alancao/alancao_4_125.wav|0|ㄓㄜˋㄍㄜˋ ㄑㄧㄡˊㄩㄢˊ ㄨㄛˇ ㄅㄨˊㄕˋ ㄏㄣˇ ㄕㄨˊㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_4_126.wav|0|ㄧㄣˉㄨㄟˋ ㄨㄛˇ ㄓˇ ㄎㄢˋ ㄧㄥˉㄔㄠˉ。
+./segmented_character_voice/alancao/alancao_4_127.wav|0|ㄓㄜˋ ㄌㄧˇ ㄐㄧㄡˋ ㄅㄨˋ ㄆㄧㄥˊㄐㄧㄚˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_128.wav|0|ㄊㄨㄛˉㄉㄜˊ ㄋㄚˋㄇㄨˇㄖㄜˋ ㄘˋ。
+./segmented_character_voice/alancao/alancao_4_129.wav|0|ㄖㄜˋㄘˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄨㄥˋㄉㄧㄢˇ ㄧㄢˇㄩㄢˊ ㄕˋ ㄇㄞˋㄉㄧˊㄒㄩㄣˋ。
+./segmented_character_voice/alancao/alancao_4_130.wav|0|ㄗㄨㄛˋㄨㄟˋ ㄍㄨㄥˉㄐㄧˉㄒㄧㄥˊ ㄓㄨㄥˉㄔㄤˇ ㄋㄥˊ ㄔㄨㄢˉ ㄋㄥˊㄕㄜˋ。
+./segmented_character_voice/alancao/alancao_4_131.wav|0|ㄉㄢˋㄕˋ ㄐㄧˉㄅㄣˇ ㄇㄟˊㄧㄡˇ ㄔˊㄑㄧㄡˊ ㄊㄨㄟˉㄐㄧㄣˋ ㄉㄜ˙ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_132.wav|0|ㄕㄣˉㄊㄧˇ ㄅㄧˇㄐㄧㄠˋ ㄉㄢˉㄅㄠˊ。
+./segmented_character_voice/alancao/alancao_4_133.wav|0|ㄈㄤˊㄕㄡˇ ㄕㄤˋ ㄧㄥˋㄉㄨˋ ㄅㄨˋㄍㄡˋ。
+./segmented_character_voice/alancao/alancao_4_134.wav|0|ㄅㄧˇㄐㄧㄠˋ ㄖㄨㄥˊㄧˋ ㄔˉㄆㄞˊ。
+./segmented_character_voice/alancao/alancao_4_135.wav|0|ㄗㄨㄥˉㄏㄜˊㄌㄞˊ ㄕㄨㄛˉ。
+./segmented_character_voice/alancao/alancao_4_136.wav|0|ㄐㄧㄡˋㄕˋ ㄧˉㄍㄜˋ ㄑㄧˇㄍㄞˋ ㄅㄢˇ ㄉㄜ˙ ㄅㄧˋㄈㄟˋ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_4_137.wav|0|ㄅㄛˉㄌㄨㄛˊㄏㄜˊㄎㄨˋ ㄌㄨˇㄙㄞˉ ㄈㄨˉㄙˉㄐㄧˉ ㄉㄡˉ ㄕˋ ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_4_138.wav|0|ㄐㄧㄡˋ ㄓㄨˊㄐㄧㄝˉㄗㄞˋ ㄖㄜˋㄘˋ ㄊㄧˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_139.wav|0|ㄌㄧㄤˇㄍㄜˋ ㄖㄣˊ ㄔㄥˊㄅㄠˉ ㄧㄡˋㄌㄨˋ。
+./segmented_character_voice/alancao/alancao_4_140.wav|0|ㄅㄧㄠˇㄒㄧㄢˋ ㄉㄡˉ ㄅㄨˋㄘㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_4_141.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄓˊㄐㄧㄝˉ ㄇㄞˇㄉㄨㄢˋ。
+./segmented_character_voice/alancao/alancao_4_142.wav|0|ㄅㄨˋ ㄘㄨㄣˊㄗㄞˋ ㄇㄛˊㄏㄜˊ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_143.wav|0|ㄕˋ ㄏㄣˇ ㄌㄧˇㄒㄧㄤˇ ㄉㄜ˙ ㄧㄢˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_144.wav|0|ㄓㄜˋㄐㄧㄡˋ ㄏㄠˇㄅㄧˇ ㄕˋ ㄏㄨㄣˉㄑㄧㄢˊ ㄧˇㄐㄧㄥˉ ㄊㄨㄥˊㄐㄩˉ ㄌㄜ˙ ㄧˉㄋㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_4_145.wav|0|ㄕㄨㄤˉㄈㄤˉ ㄑㄧㄥˊㄊㄡˊㄧˋㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_4_146.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄓˊㄐㄧㄝˉ ㄔㄜˇ ㄓㄣˋ。
+./segmented_character_voice/alancao/alancao_4_147.wav|0|ㄗㄨㄟˋㄏㄡˋㄌㄧㄠˊ ㄧˉㄒㄧㄚˋ ㄎㄞˇㄣˉ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_148.wav|0|ㄌㄧㄝˋㄨㄟˊㄕˋ ㄧˉㄍㄜˋ ㄅㄧˇㄐㄧㄠˋ ㄎㄡˉㄇㄣˊ ㄉㄜ˙ ㄕㄤˉㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_4_149.wav|0|ㄊㄚˉ ㄓˉㄉㄠˋ ㄩˇ ㄑㄧˊㄑㄧㄤˊ ㄌㄧㄡˊㄎㄞˇㄣˉ ㄧˉㄋㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_4_150.wav|0|ㄖㄣˊㄗㄞˋㄘㄠˊㄧㄥˊㄒㄧㄣˉㄗㄞˋㄏㄢˋ。
+./segmented_character_voice/alancao/alancao_4_151.wav|0|ㄅㄨˋㄖㄨˊ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄓˊㄐㄧㄝˉ ㄊㄠˋㄒㄧㄢˋ ㄧˉㄍㄜˋ ㄧˋ。
+./segmented_character_voice/alancao/alancao_4_152.wav|0|ㄉㄤˉㄖㄢˊ ㄌㄧㄝˋㄨㄟˊ ㄎㄣˇㄉㄧㄥˋ ㄅㄨˋㄏㄨㄟˋ ㄅㄚˇ ㄎㄞˇㄣˉㄇㄞˋㄍㄟˇ ㄧㄥˉㄔㄠˉ ㄉㄜ˙ ㄐㄧㄥˋㄓㄥˉ ㄉㄨㄟˋ ㄕㄡˇ。
+./segmented_character_voice/alancao/alancao_4_153.wav|0|ㄓㄜˋㄧˉㄉㄧㄢˇ ㄅㄞˋㄖㄣˊ ㄧㄝˇ ㄏㄣˇ ㄑㄧㄥˉㄔㄨˇ。
+./segmented_character_voice/alancao/alancao_4_154.wav|0|ㄙㄨㄛˇㄧˇ ㄐㄧㄡˋ ㄗㄞˋ ㄋㄚˋ ㄇㄢˋㄇㄢˋ ㄉㄜ˙ ㄏㄠˋㄓㄨˋ。
+./segmented_character_voice/alancao/alancao_4_155.wav|0|ㄌㄧㄝˋㄨㄟˊㄒㄧㄤˇ ㄉㄜ˙ ㄕˋ ㄉㄨㄛˉ ㄇㄞˋㄉㄧㄢˇ ㄑㄧㄢˊ。
+./segmented_character_voice/alancao/alancao_4_156.wav|0|ㄅㄧˋㄐㄧㄥˋ ㄙㄨㄣˇㄕˉ ㄌㄜ˙ ㄙㄞˋㄑㄧㄢˊ ㄉㄜ˙ ㄐㄧˊㄒㄩㄣˋ ㄏㄜˊ ㄇㄛˊㄏㄜˊ ㄉㄜ˙ ㄕˊㄐㄧㄢˉ。
+./segmented_character_voice/alancao/alancao_4_157.wav|0|ㄕㄨㄤˉㄈㄤˉ ㄇㄨˋㄑㄧㄢˊ ㄐㄧㄡˋ ㄐㄧㄤˉ ㄗㄞˋ ㄋㄚˋ ㄌㄧˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_158.wav|0|ㄓㄜˋㄐㄧㄢˋ ㄕˋㄑㄧㄥˊ ㄗㄨㄟˋㄏㄡˋㄎㄞˇ ㄣˉ ㄉㄜ˙ ㄍㄜˋ ㄖㄣˊ ㄧˋㄩㄢˋ ㄧㄝˇ ㄏㄣˇ ㄓㄨㄥˋㄧㄠˋ。
+./segmented_character_voice/alancao/alancao_4_159.wav|0|ㄨㄛˇ ㄎㄢˋ ㄇㄨˋㄑㄧㄢˊ ㄉㄜ˙ ㄕㄨㄛˉ ㄈㄚˇ ㄕˋ ㄎㄞˇㄣˉ ㄑㄧㄥˉㄒㄧㄤˋ ㄩˊ ㄌㄧㄡˊㄉㄨㄟˋ ㄧˉㄍㄜˋ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_4_160.wav|0|ㄖㄢˊㄏㄡˋㄇㄧㄢˇ ㄑㄧㄢˉㄗㄡˇ ㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_4_161.wav|0|ㄧㄣˉㄨㄟˋ ㄇㄧㄢˇㄑㄧㄢˉ ㄉㄜ˙ ㄩㄢˊㄧㄣˉ。
+./segmented_character_voice/alancao/alancao_4_162.wav|0|ㄊㄚˉㄍㄜˋ ㄖㄣˊ ㄎㄜˇㄧˇ ㄋㄚˊㄉㄠˋ ㄧˉㄍㄜˋ ㄏㄣˇㄉㄚˋ ㄉㄜ˙ ㄏㄜˊㄊㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_4_163.wav|0|ㄉㄤˉㄖㄢˊ ㄖㄨˊㄍㄨㄛˇ ㄕˋ ㄓㄜˋㄧㄤˋ ㄉㄜ˙ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_164.wav|0|ㄓㄜˋㄍㄜˋㄙㄞˋ ㄐㄧˋㄎㄞˇㄣˉ ㄎㄣˇㄉㄧㄥˋ ㄐㄧㄡˋㄕˋ ㄔㄨˉㄍㄨㄥˉ ㄅㄨˋ ㄔㄨˉㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_165.wav|0|ㄅㄧˋㄇㄧㄢˇ ㄕㄡˋㄕㄤˉ ㄨㄟˋ ㄓㄨˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_166.wav|0|ㄓㄜˋ ㄐㄧㄡˋㄕˋ ㄖㄜˋㄘˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄧㄣˇㄏㄨㄢˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_167.wav|0|ㄌㄧㄡˋㄆㄨˇ。
+./segmented_character_voice/alancao/alancao_4_168.wav|0|ㄌㄧㄡˋㄆㄨˇ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄨˇㄊㄧˊ ㄕˋ ㄓㄨㄥˉㄔㄤˇ ㄉㄜ˙ ㄨㄢˊㄑㄩㄢˊ ㄊㄨㄟˉㄉㄠˋ ㄔㄨㄥˊㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_169.wav|0|ㄈㄚˇ ㄅㄧˇㄋㄧˊ ㄠˋ， ㄏㄥˉㄉㄜˊㄙㄣˉ， ㄎㄞˇㄊㄚˇ， ㄇㄧˇㄦˇㄋㄚˋ， ㄓㄤˉㄅㄛˊㄌㄨㄣˊ ㄑㄩㄢˊㄅㄨˋ ㄌㄧˊㄉㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_170.wav|0|ㄉㄨㄟˋㄧㄥˉ ㄉㄜ˙ ㄕˋ ㄧㄣˇㄐㄧㄣˋ ㄌㄜ˙ ㄙㄨㄛˇㄅㄛˊㄙˉ ㄌㄨㄛˋㄧˉ ㄏㄜˊ ㄇㄞˋ ㄎㄚˇㄌㄧˋㄙˉ ㄊㄜˋ。
+./segmented_character_voice/alancao/alancao_4_171.wav|0|ㄙㄨㄛˇㄅㄛˊㄙˉ ㄌㄨㄛˋㄧˉ ㄕˋ ㄧˉㄍㄜˋ ㄓㄨㄥˋㄅㄤˋ ㄧㄢˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_172.wav|0|ㄓㄜˋㄍㄜˋ ㄑㄧㄡˊㄩㄢˊ ㄨㄛˇ ㄅㄨˋ ㄌㄧㄠˇㄐㄧㄝˇ。
+./segmented_character_voice/alancao/alancao_4_173.wav|0|ㄘㄨㄥˊㄌㄞˊ ㄇㄟˊ ㄎㄢˋㄍㄨㄛˋ ㄊㄚˉ ㄊㄧˉㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_174.wav|0|ㄏㄞˊㄕˋ ㄋㄚˋㄐㄩˋ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_175.wav|0|ㄒㄩˉㄧㄠˋ ㄗㄞˋ ㄧㄥˉㄔㄠˉ ㄔㄨㄥˊㄒㄧㄣˉ ㄓㄥˋㄇㄧㄥˊ ㄗˋㄐㄧˇ。
+./segmented_character_voice/alancao/alancao_4_176.wav|0|ㄇㄞˋ ㄎㄚˇㄌㄧˋㄙˉ ㄊㄜˋㄕㄤˋ ㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄅㄨˋㄌㄞˊㄉㄨㄣˋ ㄅㄧㄠˇㄒㄧㄢˋ ㄔㄨˉㄙㄜˋ。
+./segmented_character_voice/alancao/alancao_4_177.wav|0|ㄓㄜˋ ㄌㄧˇ ㄧㄝˇ ㄐㄧㄡˋ ㄅㄨˋ ㄉㄨㄛˉ ㄕㄨㄛˉ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_178.wav|0|ㄌㄧㄡˋㄆㄨˇㄍㄢˇㄐㄩㄝˊ ㄏㄞˊㄏㄨㄟˋ ㄗㄞˋ ㄐㄧˋㄒㄩˋ ㄧㄣˇㄐㄧㄣˋ ㄓㄨㄥˉㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_179.wav|0|ㄇㄨˋㄑㄧㄢˊ ㄗㄞˋ ㄔㄨㄢˊ ㄉㄜ˙ ㄕˋ ㄋㄢˊㄆㄨˇㄉㄨㄣˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄕˊㄐㄧㄡˇ ㄙㄨㄟˋ ㄉㄜ˙ ㄌㄚˉㄨㄟˊㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_180.wav|0|ㄧㄝˇ ㄕˋ ㄧˉㄍㄜˋ ㄏㄟˉ ㄧㄡˋㄧˋ。
+./segmented_character_voice/alancao/alancao_4_181.wav|0|ㄊㄚˉ ㄒㄩˉㄧㄠˋ ㄗㄞˋ ㄧㄣˇㄐㄧㄣˋ ㄓˋㄕㄠˇ ㄧˉㄇㄧㄥˊ ㄈㄤˊㄕㄡˇㄒㄧㄥˊ ㄓㄨㄥˉㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_182.wav|0|ㄌㄧㄡˋㄆㄨˇ ㄗㄨㄟˋㄉㄚˋ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ ㄑㄧˊㄕˊ ㄕˋㄏㄡˋㄈㄤˊ ㄉㄜ˙ ㄌㄠˇㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_183.wav|0|ㄉㄢˋㄕˋ ㄇㄨˋㄑㄧㄢˊ ㄗㄞˋ ㄏㄡˋ ㄈㄤˊㄒㄧㄢˋ ㄕㄤˋㄅㄧㄥˋ ㄇㄟˊㄧㄡˇ ㄧㄥˇㄩㄢˊ ㄉㄜ˙ ㄉㄨㄥˋㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_4_184.wav|0|ㄅㄧˋ ㄐㄧㄥˋㄌㄨㄛˊㄅㄛˊㄒㄩㄣˋ， ㄈㄢˋㄉㄞˋㄎㄜˋ。
+./segmented_character_voice/alancao/alancao_4_185.wav|0|ㄊㄚˉㄇㄣ˙ ㄋㄧㄢˊㄌㄧㄥˊ ㄧㄡˋ ㄉㄚˋ ㄌㄜ˙ ㄧˉㄙㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_186.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄈㄢˋㄉㄞˋㄎㄜˋ ㄓㄜˋㄍㄜˋ ㄉㄧㄢˇㄒㄧㄢˋ ㄗㄞˋ ㄨㄣˋㄊㄧˊ ㄧˇㄐㄧㄥˉ ㄏㄣˇㄉㄚˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_187.wav|0|ㄙㄨㄛˇㄧˇ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄌㄧㄡˋ ㄆㄨˇㄏㄡˋㄈㄤˊ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ ㄕˋ ㄍㄨㄢˉㄐㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_188.wav|0|ㄐㄩㄝˊㄉㄧㄥˋ ㄌㄜ˙ ㄊㄚˉㄇㄣ˙ ㄗㄞˋ ㄌㄧㄢˊㄙㄞˋ ㄓㄨㄥˉ ㄋㄥˊㄈㄡˇ ㄐㄧㄣˋㄖㄨˋ ㄑㄧㄢˊ ㄙˋ。
+./segmented_character_voice/alancao/alancao_4_189.wav|0|ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ ㄓㄜˋㄍㄜˋ ㄒㄧㄚˋ ㄔㄨㄤˉㄉㄨㄥˋㄐㄧㄥˋ ㄧㄝˇ ㄅㄨˋㄒㄧㄠˇ。
+./segmented_character_voice/alancao/alancao_4_190.wav|0|ㄇㄨˋㄙㄚˋㄉㄧˊㄧㄚˋ ㄅㄧˇ， ㄅㄠˇ ㄊㄨㄛˉㄌㄟˊㄙˉ， ㄉㄧˋㄌㄟˉ ㄇㄢˋㄙˉ。
+./segmented_character_voice/alancao/alancao_4_191.wav|0|ㄉㄡˉ ㄕˋ ㄓㄥˋㄓˊ ㄉㄤˉㄉㄚˇ ㄓˉ ㄋㄧㄢˊ ㄉㄜ˙ ㄕˊㄌㄧˋ ㄆㄞˋ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_192.wav|0|ㄗㄞˋ ㄇㄧㄢˇㄑㄧㄢˉ ㄉㄧˋㄌㄟˉ ㄇㄢˋㄙˉ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_193.wav|0|ㄐㄧㄥˋ ㄓˉㄔㄨˉ ㄍㄠˉㄉㄚˊ ㄅㄚˉ ㄑㄧㄢˉㄅㄚˉㄅㄞˇ ㄨㄢˋㄡˉ。
+./segmented_character_voice/alancao/alancao_4_194.wav|0|ㄌㄧㄥˋㄨㄞˋ ㄧㄠˋ ㄊㄧˊ ㄉㄜ˙ ㄐㄧㄡˋㄕˋ ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉㄕㄤˋ ㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄨㄥˋㄅㄤˋ ㄧㄢˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_195.wav|0|ㄑㄧㄢˊㄙㄞˉㄨㄟˊㄌㄧˋㄧㄚˋ ㄓㄨˇㄌㄧˋ ㄓㄨㄥˉㄨㄟˋ ㄉㄧㄝˊㄍㄜˉ ㄎㄚˇㄌㄨㄛˋㄙˉ。
+./segmented_character_voice/alancao/alancao_4_196.wav|0|ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄕˋ ㄐㄧˉㄅㄣˇ ㄅㄠˋㄒㄧㄠˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_197.wav|0|ㄊㄚˉ ㄧㄝˇ ㄕㄣˋㄓˋ ㄧㄝˇ ㄎㄜˇㄧˇ ㄎㄢˋㄗㄨㄛˋ ㄕˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄒㄧㄣˉㄖㄣˊ。
+./segmented_character_voice/alancao/alancao_4_198.wav|0|ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄞˉㄇㄟˇㄌㄧˇ ㄉㄜ˙ ㄉㄞˋ ㄌㄧㄥˇㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_199.wav|0|ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉㄒㄧㄚˋ ㄅㄢˋ。
+./segmented_character_voice/alancao/alancao_4_200.wav|0|ㄌㄧㄢˊㄙㄞˋ ㄒㄧㄚˋ ㄅㄢˋㄔㄥˊ ㄈㄚˉㄌㄧˋ ㄧㄝˇ ㄕˋ ㄉㄚˇ ㄉㄠˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_201.wav|0|ㄗㄨㄟˋㄏㄡˋㄉㄚˇ ㄉㄠˋ ㄌㄜ˙ ㄌㄧㄢˊㄙㄞˋ ㄉㄧˋㄌㄧㄡˋ。
+./segmented_character_voice/alancao/alancao_4_202.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ ㄗㄞˋ ㄓㄣˋㄖㄨㄥˊ ㄗㄥˉㄑㄧㄤˊ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_203.wav|0|ㄑㄧㄝˋㄦˇㄒㄧˉ ㄖㄜˋㄘˋ ㄓㄜˋㄒㄧㄝˉ ㄔㄨㄢˊㄊㄨㄥˇ ㄏㄠˊㄑㄧㄤˊ ㄅㄨˋㄧㄡˊㄉㄜ˙ ㄧㄡˋ ㄧㄠˋ ㄙㄜˋㄙㄜˋ ㄈㄚˉㄉㄡˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_204.wav|0|ㄧˊㄅㄨˋㄒㄧㄠˇㄒㄧㄣˉ ㄗㄞˋㄐㄧㄣˋ ㄅㄨˋㄌㄧㄠˇ ㄑㄧㄢˊㄌㄧㄡˋ。
+./segmented_character_voice/alancao/alancao_4_205.wav|0|ㄌㄧㄤˇㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄇㄟˊㄧㄡˇ ㄡˉㄓㄢˋ ㄎㄜˇㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_206.wav|0|ㄋㄚˋ ㄐㄧㄡˋ ㄏㄣˇ ㄍㄢˉㄍㄚˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_207.wav|0|ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊ ㄌㄚˉㄇㄧㄢˋ ㄌㄧㄣˊ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ ㄏㄜˊ ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄒㄧㄤˉㄙˋ。
+./segmented_character_voice/alancao/alancao_4_208.wav|0|ㄖㄨˊㄏㄜˊ ㄗㄞˋ ㄐㄧㄢˉㄍㄨˋ ㄡˉㄓㄢˋ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ ㄅㄠˇㄔˊ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄐㄧㄥˋㄓㄥˉㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_209.wav|0|ㄕˋ ㄞˉㄇㄟˇ ㄌㄧˇㄇㄧㄢˋ ㄌㄧㄣˊ ㄉㄜ˙ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_210.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇㄒㄧㄚˋ ㄔㄨㄤˉ ㄧㄝˇ ㄧㄡˇ ㄉㄚˋㄉㄨㄥˋㄗㄨㄛˋ。
+./segmented_character_voice/alancao/alancao_4_211.wav|0|ㄌㄧㄡˋㄑㄧㄢˉ ㄙˋㄅㄞˇ ㄨㄢˋㄡˉ ㄧㄣˇㄐㄧㄣˋ ㄌㄜ˙ ㄊㄨㄛˉㄋㄚˋㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_212.wav|0|ㄗㄨㄛˋㄨㄟˋ ㄧˉㄍㄜˋ ㄧˉㄐㄧㄚˇㄌㄞˊ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_213.wav|0|ㄊㄨㄛˉㄋㄚˋㄌㄧˋ ㄕㄡˇㄒㄧㄢˉ ㄒㄩˉㄧㄠˋ ㄗㄞˋ ㄧㄥˉㄔㄠˉ ㄓㄥˋㄇㄧㄥˊ ㄗˋㄐㄧˇ。
+./segmented_character_voice/alancao/alancao_4_214.wav|0|ㄗㄞˋ ㄨㄛˇ ㄎㄢˋ ㄉㄜ˙ ㄧㄡˇㄒㄧㄢˋ ㄉㄜ˙ ㄐㄧˇㄔㄤˇㄟˉㄙㄧˉ ㄇㄧˇㄌㄢˊ ㄉㄜ˙ ㄡˉㄍㄨㄛˊ ㄌㄧㄢˊㄙㄞˋ ㄌㄧˇ。
+./segmented_character_voice/alancao/alancao_4_215.wav|0|ㄓㄜˋㄍㄜˋ ㄑㄧㄡˊㄩㄢˊㄅㄧㄥˋ ㄇㄟˊㄧㄡˇㄍㄟˇ ㄨㄛˇ ㄌㄧㄡˊㄒㄧㄚˋ ㄕㄣˊ ㄇㄛˊ ㄕㄣˉㄎㄜˋ ㄉㄜ˙ ㄧㄣˋㄒㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_4_216.wav|0|ㄊㄨㄛˉㄋㄚˋㄌㄧˋ ㄒㄧㄣˉㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄨㄟˋㄓˋ ㄧㄝˇ ㄘㄨㄣˊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_217.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇㄕㄤˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄊㄧㄝˇ ㄙㄢˉㄐㄧㄠˇ。
+./segmented_character_voice/alancao/alancao_4_218.wav|0|ㄨㄛˇ ㄧˋㄓˊ ㄕㄨㄛˉ ㄕˋ ㄧˉㄍㄜˋ ㄎㄜˇㄧˇ ㄆㄞˊ ㄉㄠˋ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊ ㄙㄢˉ ㄉㄜ˙ ㄓㄨㄥˉㄔㄤˇ ㄗㄨˇㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_4_219.wav|0|ㄐㄧˊㄇㄚˇ ㄌㄧㄤˊㄙˉ ㄑㄧㄠˊㄌㄧㄥˊㄉㄨㄣˋ ㄉㄡˉ ㄕˋ ㄕˊㄌㄧˋ ㄩㄢˇㄉㄚˋ ㄩˊ ㄇㄧㄥˊㄑㄧˋ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_220.wav|0|ㄨㄟˉ ㄌㄨㄛˋㄎㄜˋ ㄍㄥˋㄕˋ ㄧˉㄍㄜˋ ㄊㄧㄢˉㄘㄞˊ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_221.wav|0|ㄑㄧㄡˊㄕㄤˉ ㄈㄟˉㄔㄤˊ ㄉㄜ˙ ㄍㄠˉ。
+./segmented_character_voice/alancao/alancao_4_222.wav|0|ㄧˉㄒㄧㄝˉ ㄍㄨㄢˉㄐㄧㄢˋㄑㄧㄡˊ ㄉㄜ˙ ㄔㄨˋㄌㄧˇ ㄈㄟˉㄔㄤˊ ㄌㄧㄤˋㄧㄢˇ。
+./segmented_character_voice/alancao/alancao_4_223.wav|0|ㄎㄢˋ ㄊㄚˉ ㄊㄧˉㄑㄧㄡˊ ㄐㄧㄥˉㄔㄤˊ ㄋㄥˊㄍㄟˇ ㄨㄛˇ ㄉㄞˋㄌㄞˊ ㄐㄧㄥˉㄒㄧˇ。
+./segmented_character_voice/alancao/alancao_4_224.wav|0|ㄇㄨˋㄑㄧㄢˊ ㄨㄛˇ ㄉㄜ˙ ㄘㄞˉㄘㄜˋ ㄕˋ。
+./segmented_character_voice/alancao/alancao_4_225.wav|0|ㄊㄨㄛˉㄋㄚˋㄌㄧˋ ㄎㄜˇㄋㄥˊ ㄧㄠˋ ㄏㄜˊ ㄨㄟˉ ㄌㄨㄛˋㄎㄜˋ ㄐㄧㄥˋㄓㄥˉ ㄧˉㄍㄜˋ ㄓㄨˇㄌㄧˋ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_226.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄕˋ ㄏㄚˉㄨㄟˊ ㄅㄚˉㄣˉㄙˉ。
+./segmented_character_voice/alancao/alancao_4_227.wav|0|ㄉㄚˋㄧㄥˉ ㄏㄨˋㄎㄡˇㄅㄣˇ ㄙˋㄑㄧㄢˉ ㄙˋㄅㄞˇ ㄨㄢˋㄡˉ。
+./segmented_character_voice/alancao/alancao_4_228.wav|0|ㄏㄣˇ ㄏㄨㄚˊㄙㄨㄢˋ ㄉㄜ˙ ㄧˉㄅㄧˇ ㄧㄣˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_229.wav|0|ㄧㄡˇ ㄔˊㄑㄧㄡˊ ㄊㄨㄟˉㄐㄧㄣˋ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_230.wav|0|ㄧㄡˇ ㄋㄟˋㄑㄧㄝˋ ㄕㄜˋㄇㄣˊ ㄓㄨㄥˉㄐㄧㄝˊ ㄋㄥˊㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_231.wav|0|ㄗㄨㄥˉㄏㄜˊㄌㄞˊ ㄕㄨㄛˉ ㄕˋㄑㄧㄤˊ ㄩˊ ㄕㄥˋㄇㄚˇ ㄎㄜˋㄒㄧˉㄇㄢˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_232.wav|0|ㄕㄨˇ ㄩˊ ㄧˉㄍㄜˋ ㄗㄨㄛˇㄅㄧㄢˉㄈㄥˉ ㄨㄟˋㄓˋ ㄉㄜ˙ ㄉㄨㄟˋㄨㄟˋ ㄕㄥˉㄐㄧˊ。
+./segmented_character_voice/alancao/alancao_4_233.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄅㄧˇ ㄐㄧㄠˋ ㄖㄤˋ ㄖㄣˊ ㄉㄢˉㄒㄧㄣˉ ㄉㄜ˙ ㄧˉㄉㄧㄢˇ ㄕˋ。
+./segmented_character_voice/alancao/alancao_4_234.wav|0|ㄚˉㄦˇㄇㄧˇㄌㄨㄥˊ ㄋㄥˊㄈㄡˇ ㄐㄧˋㄒㄩˋ ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄋㄚˋㄓㄨㄥˇ ㄅㄠˋㄓㄨㄥˇ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_235.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇㄕㄤˋ ㄍㄜˋㄙㄞˋ ㄐㄧˋㄋㄥˊ ㄉㄚˇㄐㄧㄣˋ ㄡˉㄍㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_4_236.wav|0|ㄚˉㄦˇㄇㄧˇㄌㄨㄥˊ ㄧㄠˋㄐㄧˋ ㄊㄡˊㄍㄨㄥˉ。
+./segmented_character_voice/alancao/alancao_4_237.wav|0|ㄨㄟˋ ㄌㄜ˙ ㄧㄥˉㄈㄨˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄡˉㄍㄨㄢˉ ㄏㄜˊ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄕㄨㄤˉㄒㄧㄢˋ ㄗㄨㄛˋㄓㄢˋ。
+./segmented_character_voice/alancao/alancao_4_238.wav|0|ㄋㄧㄡˇ ㄎㄚˇㄙˉ ㄦˇ ㄗㄞˋ ㄍㄨㄢˉㄐㄧㄢˋ ㄨㄟˋㄓˋ ㄗㄨㄛˋㄔㄨˉ ㄌㄜ˙ ㄅㄨˇㄑㄧㄤˊ。
+./segmented_character_voice/alancao/alancao_4_239.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄗㄞˋ ㄌㄧˋㄨˋㄆㄨˇ ㄏㄜˊ ㄑㄧㄝˋㄦˇㄒㄧˉ ㄨㄢˊㄔㄥˊ ㄏㄨㄢˋㄒㄩㄝˋ。
+./segmented_character_voice/alancao/alancao_4_240.wav|0|ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ ㄉㄥˇ ㄑㄧㄡˊㄉㄨㄟˋ ㄑㄧㄤˊㄕˋ ㄐㄩㄝˊㄑㄧˇ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_241.wav|0|ㄧㄠˋ ㄒㄧㄤˇ ㄗㄞˋ ㄐㄧㄣˋㄑㄧㄢˊ ㄙˋㄇㄧㄢˋ ㄌㄧㄣˊ ㄏㄣˇㄉㄚˋ ㄉㄜ˙ ㄊㄧㄠˉㄓㄢˋ。
+./segmented_character_voice/alancao/alancao_4_242.wav|0|ㄇㄢˋㄔㄥˊ ㄧㄥˇㄩㄢˋ ㄉㄜ˙ ㄉㄨㄥˋㄗㄨㄛˋ ㄅㄧㄥˋㄅㄨˋㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_4_243.wav|0|ㄍㄜˊㄨㄚˇㄉㄧˊ ㄠˋㄦˇ。
+./segmented_character_voice/alancao/alancao_4_244.wav|0|ㄙㄨㄟˉㄖㄢˊ ㄗㄞˋ ㄕˋㄐㄧㄝˋ ㄅㄟˉ ㄕˋ ㄇㄟˊ ㄑㄧㄡˊㄨㄤˊ ㄉㄜ˙ ㄅㄟˋㄐㄧㄥˇ ㄅㄢˇ。
+./segmented_character_voice/alancao/alancao_4_245.wav|0|ㄉㄢˋㄕˋ ㄓㄜˋㄍㄜˋㄏㄡˋㄨㄟˋ ㄋㄥˊㄌㄧˋ ㄐㄩㄝˊㄉㄨㄟˋ ㄇㄟˊㄧㄡˇ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_246.wav|0|ㄊㄚˉ ㄕˋ ㄅㄧㄢˉㄏㄡˋㄨㄟˋ ㄔㄨˉㄕㄣˉ。
+./segmented_character_voice/alancao/alancao_4_247.wav|0|ㄦˋㄑㄧㄢˉ ㄌㄧㄥˊ ㄦˋㄕˊㄧˉㄋㄧㄢˊ ㄡˉㄓㄡˉ ㄅㄟˉ ㄔㄨˉㄉㄠˋ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_248.wav|0|ㄗㄞˋ ㄎㄜˉㄌㄨㄛˊㄉㄧˋㄧㄚˋ ㄉㄚˇ ㄉㄜ˙ ㄕˋ ㄗㄨㄛˇㄏㄡˋㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_249.wav|0|ㄋㄥˊㄕㄤˋㄋㄥˊㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_250.wav|0|ㄊㄧˇ ㄋㄥˊㄅㄧˇ ㄐㄧㄠˋ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_4_251.wav|0|ㄐㄧㄠˇㄒㄧㄚˋ ㄐㄧˋㄕㄨˋ ㄧㄝˇ ㄙㄨㄢˋㄕˋ ㄓㄨㄥˉㄏㄡˋㄨㄟˋ ㄌㄧˇ ㄔㄨˉㄙㄜˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_252.wav|0|ㄓㄜˋㄓㄨㄥˇㄏㄡˋㄨㄟˋ ㄐㄧㄡˋ ㄈㄟˉㄔㄤˊ ㄈㄨˊㄏㄜˊ ㄍㄨㄚˉㄉㄧˊㄠˋㄌㄚˉ ㄉㄜ˙ ㄕㄣˇㄇㄟˇ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_253.wav|0|ㄊㄚˉ ㄉㄜ˙ ㄐㄧㄚˉㄖㄨˋ ㄏㄨㄟˋ ㄖㄤˋ ㄍㄨㄚˉㄉㄧˊㄠˋㄌㄚˉ ㄅㄚˇ ㄗˋㄐㄧˇ ㄉㄜ˙ㄣˉ ㄓㄨㄥˉㄨㄟˋㄓㄢˋㄕㄨˋ。
+./segmented_character_voice/alancao/alancao_4_254.wav|0|ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄐㄧˋㄒㄩˋ ㄈㄚˉㄧㄤˊ ㄍㄨㄤˉㄉㄚˋ。
+./segmented_character_voice/alancao/alancao_4_255.wav|0|ㄎㄜˉ ㄨㄚˇㄒㄧˉ ㄑㄧˊㄇㄞˇㄌㄞˊ ㄐㄧㄡˋㄕˋ ㄨㄟˋ ㄌㄜ˙ ㄉㄞˋㄊㄧˋ ㄐㄧㄣˉㄉㄨㄛˉㄢˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_256.wav|0|ㄒㄧㄤˉㄅㄧˇ ㄩˊ ㄐㄧㄣˉㄉㄨㄛˉㄢˉ。
+./segmented_character_voice/alancao/alancao_4_257.wav|0|ㄎㄜˉ ㄨㄚˇㄒㄧˉ ㄑㄧˊ ㄎㄜˇㄧˇ ㄐㄧㄣˋㄒㄧㄥˊ ㄍㄥˋ ㄉㄨㄛˉ ㄉㄜ˙ ㄔˊㄑㄧㄡˊ ㄊㄨㄟˉㄐㄧㄣˋ。
+./segmented_character_voice/alancao/alancao_4_258.wav|0|ㄈㄤˊㄕㄡˇ ㄏㄜˊ ㄎㄤˊ ㄧㄚˉ ㄋㄥˊㄌㄧˋ ㄉㄡˉ ㄍㄥˋ ㄧㄡˉㄒㄧㄡˋ。
+./segmented_character_voice/alancao/alancao_4_259.wav|0|ㄉㄤˉㄖㄢˊ ㄊㄚˉ ㄉㄨㄟˋ ㄍㄨㄚˉㄉㄧˊㄠˋㄌㄚˉ ㄉㄜ˙ ㄓㄢˋㄕㄨˋ ㄌㄧˇㄐㄧㄝˇ ㄏㄜˊ ㄍㄜˋ ㄖㄣˊ ㄉㄜ˙ ㄑㄧㄡˊㄕㄤˉ。
+./segmented_character_voice/alancao/alancao_4_260.wav|0|ㄎㄜˇㄋㄥˊ ㄅㄧˇㄅㄨˋㄕㄤˋ ㄐㄧㄣˉㄉㄨㄛˉㄢˉ。
+./segmented_character_voice/alancao/alancao_4_261.wav|0|ㄉㄢˋ ㄉㄨㄟˋ ㄩˊ ㄎㄜˉ ㄨㄚˇㄒㄧˉ ㄑㄧˊ ㄓㄜˋㄓㄨㄥˇ ㄐㄧˊ ㄅㄧㄝˊ ㄉㄜ˙ ㄑㄧㄡˊㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_262.wav|0|ㄓㄜˋㄧㄝˇ ㄅㄨˊㄕˋ ㄕㄣˊ ㄇㄛˊ ㄉㄚˋ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_263.wav|0|ㄊㄧˋ ㄊㄧˋㄔㄤˇ ㄐㄧㄡˋ ㄋㄥˊ ㄕˋㄧㄥˉ ㄗˋㄐㄧˇ ㄉㄜ˙ ㄒㄧㄣˉ ㄐㄩㄝˊㄙㄜˋ。
+./segmented_character_voice/alancao/alancao_4_264.wav|0|ㄨㄛˇㄍㄜˋ ㄖㄣˊ ㄍㄢˇㄐㄩㄝˊ ㄇㄢˋㄔㄥˊ ㄉㄜ˙ ㄧㄥˇㄩㄢˋ ㄌㄧˋㄉㄨˋ ㄕˋ ㄅㄨˋㄍㄡˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_265.wav|0|ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄋㄥˊ ㄋㄚˊ ㄙㄢˉ ㄍㄨㄢˉㄨㄤˊ ㄕˋ ㄧㄣˉㄨㄟˋ ㄩㄣˋㄑㄧˋ ㄅㄧˇ ㄐㄧㄠˋ ㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_4_266.wav|0|ㄍㄨㄢˉㄐㄧㄢˋ ㄑㄧㄡˊㄩㄢˊ ㄗㄞˋ ㄙㄞˋ ㄐㄧˋㄔㄨㄥˉ ㄘˋㄐㄧㄝˉㄉㄨㄢˋ ㄇㄟˊㄧㄡˇ ㄔㄨˉㄒㄧㄢˋ ㄖㄣˋㄏㄜˊ ㄕㄤˉㄅㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_4_267.wav|0|ㄉㄢˋㄕˋ ㄗㄞˋ ㄉㄜˊㄅㄨˋ ㄌㄠˊㄋㄟˋ ㄏㄜˊ ㄅㄧˋㄒㄧˉ ㄧㄡˋ ㄌㄠˇ ㄌㄜ˙ ㄧˉㄙㄨㄟˋ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_268.wav|0|ㄊㄚˉㄇㄣ˙ ㄓㄜˋㄍㄜˋㄙㄞˋ ㄐㄧˋㄕˋ ㄅㄧˋ ㄒㄩˉㄧㄠˋ ㄍㄥˋ ㄉㄨㄛˉ ㄉㄜ˙ ㄌㄨㄣˊㄏㄨㄢˋ。
+./segmented_character_voice/alancao/alancao_4_269.wav|0|ㄊㄜˋㄅㄧㄝˊ ㄕˋ ㄅㄧˋㄒㄧˉ。
+./segmented_character_voice/alancao/alancao_4_270.wav|0|ㄊㄚˉ ㄗㄞˋ ㄇㄢˋㄔㄥˊ ㄉㄜ˙ ㄍㄨㄥˉㄈㄤˊ ㄌㄧㄤˇㄉㄨㄢˉ ㄉㄡˉ ㄔㄥˊㄉㄢˉ ㄌㄜ˙ ㄊㄞˋㄓㄨㄥˋ ㄉㄜ˙ ㄖㄣˋㄨˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_271.wav|0|ㄨㄛˇ ㄏㄣˇ ㄉㄢˉㄒㄧㄣˉ ㄊㄚˉ ㄏㄨㄟˋ ㄔㄨˉㄒㄧㄢˋ ㄍㄨㄛˋㄌㄠˊ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ。
+./segmented_character_voice/alancao/alancao_4_272.wav|0|ㄗㄨㄟˋ ㄌㄧˇㄒㄧㄤˇ ㄉㄜ˙ ㄑㄧㄥˊㄎㄨㄤˋ ㄐㄧㄡˋㄕˋ ㄇㄢˋㄔㄥˊ ㄓㄜˋㄍㄜˋㄙㄞˋ ㄐㄧˋㄋㄥˊ ㄧㄣˇㄐㄧㄣˋ ㄧˉㄍㄜˋ ㄓㄥˋㄊㄨㄥˇ ㄉㄜ˙ ㄧㄡˋ ㄅㄧㄢˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_4_273.wav|0|ㄧㄣˉㄨㄟˋ ㄇㄚˇ ㄏㄜˋㄌㄟˊㄙˉ ㄌㄧˊㄉㄨㄟˋ ㄌㄜ˙ ㄇㄚ˙。
+./segmented_character_voice/alancao/alancao_4_274.wav|0|ㄖㄨˊㄍㄨㄛˇ ㄋㄥˊ ㄧㄣˇㄐㄧㄣˋ ㄧˉㄍㄜˋ ㄓㄥˋㄊㄨㄥˇ ㄉㄜ˙ ㄧㄡˋ ㄅㄧㄢˉㄈㄥˉ ㄉㄜ˙ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_275.wav|0|ㄎㄜˇㄧˇ ㄏㄨㄢˇㄐㄧㄝˇ ㄅㄧˋㄒㄧˉ ㄉㄜ˙ ㄧㄚˉㄌㄧˋ。
+./segmented_character_voice/alancao/alancao_4_276.wav|0|ㄅㄨˊㄧㄠˋ ㄖㄤˋ ㄅㄧˋㄒㄧˉㄑㄩˋ ㄔㄨˉㄒㄧㄢˋ ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄅㄧㄢˉㄈㄥˉ ㄉㄜ˙ ㄨㄟˋㄓˋ。
+./segmented_character_voice/alancao/alancao_4_277.wav|0|ㄊㄚˉㄒㄧㄢˋ ㄗㄞˋ ㄉㄜ˙ ㄋㄧㄢˊㄌㄧㄥˊ ㄏㄜˊ ㄊㄧˇㄋㄥˊ ㄖㄤˋ ㄊㄚˉ ㄑㄩˋ ㄉㄚˇㄧㄡˋ ㄅㄧㄢˉㄈㄥˉ。
+./segmented_character_voice/alancao/alancao_4_278.wav|0|ㄉㄨㄟˋ ㄊㄚˉ ㄉㄜ˙ ㄒㄧㄠˉㄏㄠˋ ㄓㄣˉㄉㄜ˙ ㄕˊㄗㄞˋ ㄊㄞˋㄉㄚˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_279.wav|0|ㄇㄢˋㄌㄧㄢˊ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄧㄥˇㄩㄢˋ ㄨㄛˇㄌㄞˊ ㄎㄢˋ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_280.wav|0|ㄑㄧˉㄑㄧㄢˉㄨˇㄅㄞˇ ㄨㄢˋㄡˉ ㄓㄜˋㄕˋ ㄕㄨㄟˊ ㄚ˙。
+./segmented_character_voice/alancao/alancao_4_281.wav|0|ㄌㄚˉㄙˉ ㄇㄨˇㄙˉㄏㄜˋ ㄧˉㄌㄨㄣˊㄉㄜˊ。
+./segmented_character_voice/alancao/alancao_4_282.wav|0|ㄓㄜˋㄕˋ ㄕㄨㄟˊ ㄚ˙。
+./segmented_character_voice/alancao/alancao_4_283.wav|0|ㄋㄚˇㄨㄟˋ ㄌㄠˇㄍㄜˉ ㄋㄥˊ ㄍㄠˋㄙㄨˋ ㄨㄛˇ ㄓㄜˋㄕˋ ㄕㄨㄟˊ ㄚ˙。
+./segmented_character_voice/alancao/alancao_4_284.wav|0|ㄗㄣˇㄇㄜ˙ ㄘㄨㄥˊ ㄌㄞˊ ㄇㄟˊ ㄊㄧㄥˉ ㄕㄨㄛˉㄍㄨㄛˋ ㄓㄜˋㄍㄜˋ ㄇㄧㄥˊㄗˋ。
+./segmented_character_voice/alancao/alancao_4_285.wav|0|ㄏㄠˇ ㄌㄜ˙ ㄅㄨˋㄎㄞˉ ㄨㄢˊㄒㄧㄠˋ ㄌㄜ˙。
+./segmented_character_voice/alancao/alancao_4_286.wav|0|ㄏㄜˋㄧˉㄌㄨㄣˊㄉㄜˊㄧㄚˋ ㄊㄜˋㄌㄢˊㄉㄚˋ ㄧˉㄐㄧㄚˇㄋㄩㄝˋ ㄘㄞˋ。
+./segmented_character_voice/alancao/alancao_4_287.wav|0|ㄕㄤˋㄍㄜˋㄙㄞˋ ㄐㄧˋㄐㄧㄣˋ ㄌㄜ˙ ㄐㄧㄡˇㄍㄜˋ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_288.wav|0|ㄨㄛˇ ㄅㄨˋ ㄓˉㄉㄠˋ ㄨㄟˋㄕㄣˊ ㄇㄛˊ ㄏㄨㄟˋ ㄇㄞˋ ㄑㄧˉㄑㄧㄢˉㄨˇㄅㄞˇ ㄨㄢˋㄡˉ ㄉㄜ˙ ㄐㄧㄚˋㄍㄜˊ。
+./segmented_character_voice/alancao/alancao_4_289.wav|0|ㄨㄛˇ ㄎㄢˋㄉㄠˋ ㄓㄜˋㄍㄜˋ ㄒㄧㄠˉㄒㄧˉ ㄉㄧˋㄧˉ ㄈㄢˇㄧㄥˉ ㄐㄧㄡˋ ㄓㄜˋㄕㄣˊ ㄇㄛˊ ㄍㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_4_290.wav|0|ㄊㄥˊ ㄚˉㄍㄜˉ ㄋㄧˇ ㄉㄜ˙ ㄎㄡˇㄨㄟˋ ㄕˋㄅㄨˊㄕˋ ㄧㄡˇㄉㄧㄢˇ ㄓㄨㄥˋ ㄚ˙。
+./segmented_character_voice/alancao/alancao_4_291.wav|0|ㄨㄛˇㄇㄣ˙ ㄕˋㄇㄨˋㄧˇㄉㄞˋ ㄅㄚ˙。
+./segmented_character_voice/alancao/alancao_4_292.wav|0|ㄐㄧㄝˉㄒㄧㄚˋ ㄌㄞˊ ㄇㄟˊㄙㄣˉ ㄇㄤˊㄊㄜˋ ㄌㄧㄡˋㄑㄧㄢˉ ㄙˋㄅㄞˇ ㄨㄢˋㄡˉ。
+./segmented_character_voice/alancao/alancao_4_293.wav|0|ㄑㄧㄝˋㄦˇㄒㄧˉ ㄋㄚˊ ㄡˉㄍㄨㄢˉ ㄉㄜ˙ ㄙㄞˋㄐㄧˋ。
+./segmented_character_voice/alancao/alancao_4_294.wav|0|ㄊㄚˉ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ ㄐㄩㄝˊㄉㄨㄟˋ ㄕˋ ㄓㄜˋㄍㄜˋ ㄐㄧㄚˋㄍㄜˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_295.wav|0|ㄨㄛˇ ㄉㄡˉ ㄅㄨˋㄋㄥˊ ㄌㄧˇㄐㄧㄝˇ ㄨㄟˋㄕㄣˊ ㄇㄛˊ ㄑㄧㄝˋㄦˇㄒㄧˉㄏㄨㄟˋ ㄅㄚˇ ㄗˋㄐㄧˇ ㄉㄜ˙ ㄊㄞˋㄗ˙ ㄧㄝˊ。
+./segmented_character_voice/alancao/alancao_4_296.wav|0|ㄓˊㄐㄧㄝˉ ㄇㄞˋㄍㄟˇ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄧㄥˉㄔㄠˉ ㄌㄧㄢˊㄙㄞˋ ㄉㄜ˙ ㄐㄧㄥˋㄓㄥˉ ㄉㄨㄟˋ ㄕㄡˇ。
+./segmented_character_voice/alancao/alancao_4_297.wav|0|ㄕㄤˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄧㄣˉㄨㄟˋ ㄕㄤˉㄅㄧㄥˋ ㄏㄜˊ ㄑㄧㄡˊㄉㄨㄟˋ ㄉㄨㄥˋㄉㄤˋ。
+./segmented_character_voice/alancao/alancao_4_298.wav|0|ㄇㄤˊㄊㄜˋ ㄉㄜ˙ ㄅㄧㄠˇㄒㄧㄢˋ ㄅㄨˋㄐㄧㄚˉ。
+./segmented_character_voice/alancao/alancao_4_299.wav|0|ㄉㄢˋㄍㄜˋ ㄖㄣˊ ㄋㄥˊㄌㄧˋ ㄐㄩㄝˊㄉㄨㄟˋ ㄇㄟˊㄧㄡˇ ㄨㄣˋㄊㄧˊ。
+./segmented_character_voice/alancao/alancao_4_300.wav|0|ㄊㄚˉ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄨㄛˇ ㄎㄢˋ ㄌㄜ˙ ㄧˉㄒㄧㄚˋ ㄇㄢˋㄌㄧㄢˊㄑㄧㄢˊ ㄐㄧˇㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_301.wav|0|ㄧㄡˇㄧˋㄙㄞˋ ㄉㄜ˙ ㄆㄞˊㄅㄧㄥˉ ㄅㄨˋ ㄓㄣˋ。
+./segmented_character_voice/alancao/alancao_4_302.wav|0|ㄉㄚˋㄅㄨˋㄈㄣˋ ㄕˊㄏㄡˋ ㄏㄞˊㄕˋ ㄔㄨˉㄒㄧㄢˋ ㄗㄞˋ ㄓㄨㄥˉㄌㄨˋ。
+./segmented_character_voice/alancao/alancao_4_303.wav|0|ㄊㄚˉ ㄧˊㄉㄢˋ ㄔㄨˉㄒㄧㄢˋ ㄗㄞˋ ㄓㄨㄥˉㄌㄨˋ ㄉㄜ˙ ㄏㄨㄚˋ。
+./segmented_character_voice/alancao/alancao_4_304.wav|0|ㄊㄚˉ ㄏㄜˊ ㄅㄧˋㄈㄟˋ ㄉㄜ˙ ㄐㄩㄝˊㄙㄜˋ ㄎㄜˇㄋㄥˊ ㄏㄨㄟˋ ㄧㄡˇ ㄧˊㄉㄧㄥˋ ㄉㄜ˙ ㄔㄨㄥˉㄊㄨˉ。
+./segmented_character_voice/alancao/alancao_4_305.wav|0|ㄓㄜˋㄉㄧㄢˇ ㄨㄛˇㄇㄣ˙ ㄧㄠˋ ㄍㄨㄢˉㄔㄚˊ ㄧˉㄒㄧㄚˋ。
+./segmented_character_voice/alancao/alancao_4_306.wav|0|ㄗㄞˋ ㄒㄧㄣˉㄙㄞˋ ㄐㄧˋㄊㄥˊ ㄚˉㄍㄜˉ ㄐㄧㄡˉㄐㄧㄥˋ ㄉㄚˇㄙㄨㄢˋ ㄗㄣˇ ㄇㄛˊ ㄕˇㄩㄥˋ ㄊㄚˉ。
+./segmented_character_voice/alancao/alancao_4_307.wav|0|ㄧˇㄕㄤˋ ㄐㄧㄡˋㄕˋ ㄧㄥˉㄔㄠˉ ㄒㄧㄚˋㄐㄧˋ ㄓㄨㄢˇㄏㄨㄟˋ ㄉㄜ˙ ㄧˉㄍㄜˋ ㄐㄧㄢˇㄆㄧㄥˊ。
+./segmented_character_voice/alancao/alancao_4_308.wav|0|ㄋㄟˋㄖㄨㄥˊ ㄆㄧㄢˉㄓㄨˇㄍㄨㄢˉ。
+./segmented_character_voice/alancao/alancao_4_309.wav|0|ㄅㄨˋㄓㄨㄣˇㄑㄩㄝˋ ㄉㄜ˙ ㄉㄧˋㄈㄤˉ ㄒㄧˉㄨㄤˋ ㄍㄜˋㄨㄟˋ ㄌㄠˇㄍㄜˉ ㄑㄧㄥˉㄆㄣˉ。
+./segmented_character_voice/alancao/alancao_4_310.wav|0|ㄒㄧㄚˋㄇㄧㄢˋ ㄐㄧㄣˋㄖㄨˋ ㄅㄣˇㄕˋㄆㄧㄣˊ ㄉㄜ˙ ㄉㄧˋㄦˋ ㄅㄨˋㄈㄣˋ。
+./segmented_character_voice/alancao/alancao_4_311.wav|0|ㄉㄚˋㄐㄧㄚˉ ㄗㄨㄟˋㄒㄧˇㄏㄨㄢˉ ㄉㄜ˙ ㄏㄨㄢˊㄐㄧㄝˊ。
+./segmented_character_voice/alancao/alancao_4_312.wav|0|ㄨㄛˇ ㄐㄧㄡˋ ㄓˉㄉㄠˋ ㄏㄣˇㄉㄨㄛˉ ㄌㄠˇㄍㄜˉ ㄧˋㄓˊ ㄗㄞˋ ㄉㄥˇ ㄓㄜˋㄍㄜˋ。
+./segmented_character_voice/alancao/alancao_4_313.wav|0|ㄨㄛˇㄇㄣ˙ ㄧㄥˉㄔㄠˉ ㄑㄧㄢˊㄓㄢˉ ㄧˋㄓˊ ㄧˇㄌㄞˊ ㄉㄡˉ ㄕˋ ㄧˉㄍㄜˋ ㄏㄣˇ ㄓㄥˋㄐㄧㄥˉ ㄉㄜ˙ ㄐㄧㄝˊㄇㄨˋ ㄏㄠˇㄅㄨˋㄏㄠˇ。
+./segmented_character_voice/alancao/alancao_4_314.wav|0|ㄉㄢˋ ㄋㄧˇㄇㄣ˙ㄏㄞˊ ㄐㄧㄡˋㄕˋ ㄏㄠˇ ㄓㄜˋㄎㄡˇ。
+./segmented_character_voice/alancao/alancao_4_315.wav|0|ㄋㄚˋ ㄨㄛˇ ㄐㄧㄡˋ ㄌㄞˊ ㄇㄢˇㄗㄨˊ ㄋㄧˇ ㄇㄣ˙ ㄚ˙。
+./segmented_character_voice/alancao/alancao_4_316.wav|0|ㄙㄞˋㄐㄧˋ ㄉㄧˋㄧˉ ㄔㄤˇㄇㄟˊㄧㄡˇ ㄕㄨˋㄐㄩˋ ㄐㄧˉㄌㄟˋ。
+./segmented_character_voice/alancao/alancao_4_317.wav|0|ㄧㄝˇ ㄇㄟˊ ㄧㄡˇ ㄉㄧˋㄧˉㄕㄡˇ ㄉㄜ˙ ㄍㄨㄢˉㄓㄢˋ ㄅㄠˋㄍㄠˋ。
+./segmented_character_voice/alancao/alancao_4_318.wav|0|ㄍㄜˋㄉㄨㄟˋ ㄕㄡˇㄈㄚˉ ㄓㄣˋㄖㄨㄥˊ ㄅㄨˋㄇㄧㄥˊㄌㄤˇ。
+./segmented_character_voice/alancao/alancao_4_319.wav|0|ㄙㄨㄛˇㄧˇ ㄨㄛˇ ㄓㄜˋㄧˉㄌㄨㄣˊ ㄧㄝˇ ㄓˇㄋㄥˊ ㄆㄠˉㄧㄥˋㄅㄧˋ。
+./segmented_character_voice/alancao/alancao_4_320.wav|0|ㄒㄧˉㄨㄤˋ ㄉㄚˋㄐㄧㄚˉ ㄋㄥˊㄍㄡˋ ㄐㄧㄤˋㄉㄧˉ ㄩˋㄑㄧˉ。
+./segmented_character_voice/alancao/alancao_4_321.wav|0|ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄙㄢˉㄕˊㄅㄚˉ ㄔㄤˇㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_4_322.wav|0|ㄨㄛˇ ㄉㄨㄟˋ ㄗˋㄐㄧˇ ㄉㄜ˙ ㄧㄠˉㄑㄧㄡˊ ㄕˋ。
+./segmented_character_voice/alancao/alancao_4_323.wav|0|ㄨㄛˇㄇㄣ˙ ㄐㄧㄚˇㄕㄜˋ ㄙㄢˉㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄗㄡˇㄕㄨㄟˇ。
+./segmented_character_voice/alancao/alancao_4_324.wav|0|ㄕㄥˋㄒㄧㄚˋ ㄙㄢˉㄕˊㄨˇ ㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_325.wav|0|ㄨㄛˇㄓㄥˉ ㄑㄩˇㄋㄥˊㄍㄡˋ ㄇㄧㄥˋㄓㄨㄥˋ ㄦˋㄕˊ ㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_326.wav|0|ㄉㄨㄟˋㄧㄥˉ ㄨˇㄕˊㄑㄧˉ% ㄉㄜ˙ ㄕㄥˋㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_4_327.wav|0|ㄕㄨㄣˋㄓㄨˋ ㄐㄧㄣˉㄊㄧㄢˉ ㄌㄧㄠˊ ㄓㄨㄢˇㄏㄨㄟˋ ㄊㄡˊㄖㄨˋ ㄉㄜ˙ ㄙˉㄌㄨˋ。
+./segmented_character_voice/alancao/alancao_4_328.wav|0|ㄒㄧˉㄏㄢˋㄇㄨˇ ㄌㄧㄢˊㄒㄧㄚˋ ㄔㄨㄤˉㄇㄞˋ ㄉㄧㄠˋ ㄉㄤˉㄐㄧㄚˉ ㄑㄧㄡˊㄒㄧㄥˉ。
+./segmented_character_voice/alancao/alancao_4_329.wav|0|ㄏㄜˊ ㄅㄣˇㄌㄞˊ ㄩㄥˋ ㄌㄞˊ ㄊㄧˋㄉㄞˋ ㄢˉㄉㄨㄥˉㄋㄧˊ ㄉㄜ˙ ㄙˉㄎㄚˇㄇㄚˇㄎㄚˇ。
+./segmented_character_voice/alancao/alancao_4_330.wav|0|ㄉㄠˋ ㄇㄨˋㄑㄧㄢˊ ㄨㄟˋㄓˇ ㄏㄞˊㄇㄟˊㄧㄡˇ ㄧㄥˇㄩㄢˊ。
+./segmented_character_voice/alancao/alancao_4_331.wav|0|ㄐㄧㄣˇㄧㄡˇ ㄉㄜ˙ ㄔㄨㄢˊㄧㄢˊ ㄕˋ ㄇㄚˇ ㄎㄨㄟˊㄦˇ ㄧˇㄐㄧㄥˉ ㄐㄧˉㄅㄣˇ ㄑㄩㄝˋㄖㄣˋ ㄐㄧㄚˉㄇㄥˊ。
+./segmented_character_voice/alancao/alancao_4_332.wav|0|ㄑㄧㄝˇ ㄅㄨˋㄌㄨㄣˋ ㄑㄧㄢˉㄒㄧㄚˋㄇㄚˇㄎㄨㄟˊ ㄕˋ ㄗㄞˋ ㄅㄨˇㄑㄧㄤˊ ㄏㄞˊㄕˋ ㄗㄞˋ ㄒㄩㄝˉㄖㄨㄛˋ ㄗˋㄐㄧˇ。
+./segmented_character_voice/alancao/alancao_4_333.wav|0|ㄐㄧㄡˋㄙㄨㄢˋ ㄕˋ ㄓㄜˋㄓㄡˉ ㄏㄨㄛˇㄒㄧㄢˋ ㄍㄠˇㄉㄧㄥˋ。
+./segmented_character_voice/alancao/alancao_4_334.wav|0|ㄧㄝˇㄏㄞˊ ㄒㄩˉㄧㄠˋ ㄕˊㄐㄧㄢˉ ㄇㄛˊㄏㄜˊ。
+./segmented_character_voice/alancao/alancao_4_335.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄎㄣˇㄉㄧㄥˋ ㄕˋ ㄕㄤˋ ㄅㄨˋㄌㄧㄠˇ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_336.wav|0|ㄌㄧㄥˋㄧˋㄈㄤˉㄇㄧㄢˋ。
+./segmented_character_voice/alancao/alancao_4_337.wav|0|ㄐㄧˊㄒㄩˉ ㄉㄜ˙ ㄋㄞˋㄙˉ ㄉㄜ˙ ㄊㄧˋㄉㄞˋㄓㄜˇ ㄧˋㄓˊ ㄏㄞˊㄇㄟˊㄧㄡˇ ㄉㄠˋㄨㄟˋ。
+./segmented_character_voice/alancao/alancao_4_338.wav|0|ㄓㄜˋㄍㄜˋ ㄕˊㄏㄡˋ ㄕㄠˇ ㄑㄧㄝˋㄎㄜˋ ㄒㄧㄣˉ ㄌㄧˇ ㄎㄣˇㄉㄧㄥˋ ㄕˋ ㄧˉㄨㄢˋㄍㄜˋ。
+./segmented_character_voice/alancao/alancao_4_339.wav|0|ㄒㄧㄤˇ ㄙㄨㄥˋㄍㄟˇ ㄐㄩˋㄌㄜˋㄅㄨˋ ㄌㄠˇㄅㄢˇ。
+./segmented_character_voice/alancao/alancao_4_340.wav|0|ㄗㄞˋ ㄎㄢˋ ㄒㄧˉㄏㄢˋㄇㄨˇ ㄌㄧㄢˊㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄉㄨㄟˋ ㄕㄡˇ。
+./segmented_character_voice/alancao/alancao_4_341.wav|0|ㄅㄛˊㄣˉ· ㄇㄠˊㄙˉ。
+./segmented_character_voice/alancao/alancao_4_342.wav|0|ㄕㄤˋㄙㄞˋ ㄐㄧˋㄙㄣˉㄅㄚˉㄇㄚˇ ㄔㄥˊㄍㄨㄥˉ ㄅㄠˇㄐㄧˉ。
+./segmented_character_voice/alancao/alancao_4_343.wav|0|ㄒㄧㄚˋㄔㄨㄤˉ ㄐㄧㄣˋㄉㄨㄥˋ ㄊㄡˊㄖㄨˋ ㄑㄧˉㄑㄧㄢˉ ㄨㄢˋㄡˉ。
+./segmented_character_voice/alancao/alancao_4_344.wav|0|ㄕㄨˇ ㄩˊ ㄧㄥˉㄔㄠˉ ㄓㄨㄥˉㄧㄡˊ ㄕㄨㄟˇㄆㄧㄥˊ ㄉㄜ˙ ㄊㄡˊㄖㄨˋ。
+./segmented_character_voice/alancao/alancao_4_345.wav|0|ㄐㄧㄚˉㄕㄤˋ ㄓㄨˇㄔㄤˇ ㄗㄨㄛˋㄓㄢˋ。
+./segmented_character_voice/alancao/alancao_4_346.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄑㄧㄡˊㄩㄢˊ ㄗㄞˋ ㄒㄧㄥˉㄑㄧˉ ㄕㄤˋ ㄎㄣˇㄉㄧㄥˋ ㄕˋ ㄧㄠˋ ㄍㄠˉ ㄩˊ ㄒㄧˉㄏㄢˋㄇㄨˇㄌㄧㄢˊ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_347.wav|0|ㄇㄨˋㄑㄧㄢˊ ㄨㄛˇㄌㄨˋ ㄕˋㄆㄧㄣˊ ㄉㄜ˙ ㄕˊㄏㄡˋ。
+./segmented_character_voice/alancao/alancao_4_348.wav|0|ㄕˋㄔㄤˇ ㄉㄧㄥˋㄐㄧㄚˋ ㄕˋ ㄧˉㄍㄜˋ ㄆㄧㄥˊㄕㄡˇ ㄆㄢˊ。
+./segmented_character_voice/alancao/alancao_4_349.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄓㄜˋㄔㄤˇ ㄅㄧˇㄙㄞˋ ㄎㄜˇㄧˇ ㄎㄠˇㄌㄩˋ ㄖㄨˋㄕㄡˇ ㄅㄛˊㄣˉ· ㄇㄠˊㄙˉ。
+./segmented_character_voice/alancao/alancao_4_350.wav|0|ㄗˉㄐㄧㄣˉ ㄆㄟˋㄓˋ ㄅㄧㄠˉㄆㄟˋ。
+./segmented_character_voice/alancao/alancao_4_351.wav|0|ㄅㄣˇㄌㄨㄣˊ ㄉㄜ˙ ㄑㄧˊㄊㄚˉ ㄅㄧˇㄙㄞˋ。
+./segmented_character_voice/alancao/alancao_4_352.wav|0|ㄑㄧㄤˊㄉㄨㄟˋ ㄆㄨˇㄅㄧㄢˋ ㄖㄤˋ ㄅㄨˋ ㄅㄧˇ ㄐㄧㄠˋ ㄕㄣˉ。
+./segmented_character_voice/alancao/alancao_4_353.wav|0|ㄕㄨˊㄒㄧˉ ㄨㄛˇ ㄉㄜ˙ ㄌㄠˇㄍㄜˉ ㄉㄡˉ ㄓˉㄉㄠˋ。
+./segmented_character_voice/alancao/alancao_4_354.wav|0|ㄧˉ ㄑㄧㄡˊ ㄧˇㄕㄤˋ ㄖㄤˋ ㄅㄨˋ ㄉㄜ˙ ㄅㄧˇㄙㄞˋ ㄨㄛˇ ㄐㄧˉㄅㄣˇ ㄅㄨˋ ㄎㄠˇㄌㄩˋ。
+./segmented_character_voice/alancao/alancao_4_355.wav|0|ㄧㄣˉㄨㄟˋ ㄗㄨˊㄑㄧㄡˊ ㄅㄧˇㄙㄞˋ ㄕˋ ㄐㄧㄝˊㄍㄨㄛˇ ㄉㄠˇㄒㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_4_356.wav|0|ㄦˊ ㄅㄨˊㄕˋ ㄐㄧㄣˋㄑㄧㄡˊㄉㄠˇ ㄒㄧㄤˋ。
+./segmented_character_voice/alancao/alancao_4_357.wav|0|ㄐㄧㄠˋㄌㄧㄢˋ ㄗㄞˋ ㄍㄥˉㄧˉㄕˋ ㄍㄟˇㄑㄧㄡˊㄩㄢˊ ㄉㄜ˙ ㄧㄠˉㄑㄧㄡˊ ㄩㄥˇㄩㄢˇ ㄕˋ ㄋㄚˊ ㄙㄢˉㄈㄣˉ。
+./segmented_character_voice/alancao/alancao_4_358.wav|0|ㄘㄨㄥˊㄌㄞˊ ㄅㄨˋㄏㄨㄟˋ ㄕㄨㄛˉ ㄨㄛˇㄇㄣ˙ ㄐㄧㄣˉㄊㄧㄢˉ ㄧㄠˋㄧㄥˊ ㄐㄧˇㄍㄜˋ ㄑㄧㄡˊ。
+./segmented_character_voice/alancao/alancao_4_359.wav|0|ㄗㄨㄟˋㄏㄡˋㄧㄡˇ ㄕˊㄐㄧㄢˉ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_360.wav|0|ㄎㄜˇㄧˇ ㄎㄢˋ ㄧˉㄒㄧㄚˋ ㄋㄧㄡˇ ㄎㄚˇㄙˉㄦˇ ㄏㄜˊ ㄚˉㄙˉ ㄉㄨㄣˋㄨㄟˊㄌㄚˉ ㄉㄜ˙ ㄓㄜˋㄧˉㄔㄤˇ。
+./segmented_character_voice/alancao/alancao_4_361.wav|0|ㄍㄜˋ ㄖㄣˊ ㄖㄣˋㄨㄟˋ ㄓㄜˋㄌㄧㄤˇ ㄓˉㄑㄧㄡˊ ㄉㄨㄟˋㄐㄧㄤˉ ㄗㄞˋ ㄓㄜˋㄍㄜˋ ㄙㄞˋㄐㄧˋ ㄉㄜ˙。
+./segmented_character_voice/alancao/alancao_4_362.wav|0|ㄧㄥˉㄔㄠˉ ㄓㄣˉㄙˋ ㄏㄜˊ ㄓㄣˉ ㄌㄧㄡˋㄉㄚˋ ㄓㄢˋㄓㄨㄥˉ ㄅㄢˋㄧㄢˇ ㄈㄟˉㄔㄤˊ ㄓㄨㄥˋㄧㄠˋ ㄉㄜ˙ ㄐㄩㄝˊㄙㄜˋ。
+./segmented_character_voice/alancao/alancao_4_363.wav|0|ㄧˇㄕㄤˋ ㄐㄧㄡˋㄕˋ ㄅㄣˇㄑㄧˉ ㄉㄜ˙ ㄑㄩㄢˊㄅㄨˋ ㄋㄟˋㄖㄨㄥˊ。
+./segmented_character_voice/alancao/alancao_4_364.wav|0|ㄨㄛˇㄇㄣ˙ ㄒㄧㄚˋㄑㄧˉ ㄗㄞˋㄐㄧㄢˋ。

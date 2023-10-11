@@ -1,3 +1,5 @@
 venv
 .DS_Store
 raw_audio
+__pycache__
+monotonic_align
